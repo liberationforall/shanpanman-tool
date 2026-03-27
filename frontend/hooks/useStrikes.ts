@@ -67,7 +67,6 @@ export function useStrikes(): UseStrikesReturn {
   // Clear date filter whenever a map point is selected
   const handleSetSelectedStrikeId = useCallback((id: string | null) => {
     setSelectedStrikeId(id);
-    if (id !== null) setSelectedDate(null);
   }, []);
 
   // Map always shows the date-filtered set (or all if no date selected)

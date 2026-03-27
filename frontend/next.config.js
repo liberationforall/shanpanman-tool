@@ -1,12 +1,13 @@
 /** @type {import('next').NextConfig} */
+const isProd = process.env.NODE_ENV === "production";
+
 const nextConfig = {
-  output: 'export', // Tells Next.js to produce a static site
-  basePath: '/shanpanman-tool', // Required for GitHub Pages if not at root
+  // Only use the basePath in production (GitHub Pages)
+  basePath: isProd ? "/shanpanman-tool" : "",
+  output: isProd ? "export" : undefined,
   images: {
     unoptimized: true, // Required for static exports
   },
-  // You can remove or comment out the 'rewrites' section 
-  // since proxying won't work on a static host.
 };
 
 module.exports = nextConfig;

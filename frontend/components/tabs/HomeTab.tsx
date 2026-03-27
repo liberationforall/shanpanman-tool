@@ -93,7 +93,7 @@ export default function HomeTab() {
       </div>
 
       {/* ── Two-column upper area ── */}
-      <div className="flex gap-6" style={{ minHeight: "500px" }}>
+      <div className="flex flex-col lg:flex-row gap-6" style={{ minHeight: "500px" }}>
 
         {/* LEFT: stat cards + timeline */}
         <div className="flex flex-col gap-6 min-w-0 flex-1">
