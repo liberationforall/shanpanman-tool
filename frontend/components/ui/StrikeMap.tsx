@@ -67,6 +67,9 @@ export default function StrikeMap({
       });
 
       mapRef.current = map;
+      
+      // Force repaint to correctly register dimensions if they changed during init
+      setTimeout(() => map.invalidateSize(), 150);
     });
 
     return () => {

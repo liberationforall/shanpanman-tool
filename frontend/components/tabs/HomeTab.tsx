@@ -92,8 +92,7 @@ export default function HomeTab() {
         </span>
       </div>
 
-      {/* ── Two-column upper area ── */}
-      <div className="flex flex-col lg:flex-row gap-6" style={{ minHeight: "500px" }}>
+      <div className="flex flex-col lg:flex-row gap-6 lg:min-h-[500px]">
 
         {/* LEFT: stat cards + timeline */}
         <div className="flex flex-col gap-6 min-w-0 flex-1">
@@ -163,8 +162,7 @@ export default function HomeTab() {
             Strike Map
           </p>
           <div
-            className="flex-1 rounded-sm overflow-hidden border border-paper-border"
-            style={{ minHeight: "420px" }}
+            className="rounded-sm overflow-hidden border border-paper-border h-[420px] lg:h-auto lg:flex-1"
           >
             <StrikeMap
               strikes={isLoading ? [] : mapStrikes}
