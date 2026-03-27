@@ -23,18 +23,23 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+# Also mount under /api for Vercel path mapping
+app.include_router(strikes_router, prefix="/api")
 app.include_router(strikes_router)
 
 
+@app.get("/api")
+@app.get("/api/")
 @app.get("/")
 def read_root():
     return {
         "message": "Welcome to MahsaAlert Intelligence Dashboard API",
-        "docs": "/docs",
-        "endpoints": ["/health", "/strikes"]
+        "docs": "/api/docs",
+        "endpoints": ["/api/health", "/api/strikes"]
     }
 
 
+@app.get("/api/health")
 @app.get("/health")
 def health():
     return {"status": "ok"}
