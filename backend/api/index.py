@@ -16,7 +16,7 @@ app.add_middleware(
         "http://localhost:3000",
         "http://localhost:3001",
         "https://mahsaalert.com",
-        "https://liberationforall.github.io/shanpanman-tool/"
+        "https://liberationforall.github.io/shanpanman-tool"
     ],
     allow_credentials=True,
     allow_methods=["*"],

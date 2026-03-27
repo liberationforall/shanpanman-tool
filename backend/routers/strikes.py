@@ -3,7 +3,7 @@ from typing import Optional
 
 from utils.parser import load_strikes, compute_stats, strikes_by_day
 
-router = APIRouter(prefix="/api/strikes", tags=["strikes"])
+router = APIRouter(prefix="/strikes", tags=["strikes"])
 
 
 @router.get("")
