@@ -45,7 +45,7 @@ export interface TimelineResponse {
 // API client
 // ---------------------------------------------------------------------------
 
-const BASE = "/api";
+const BASE = "https://shanpanman-tool.vercel.app/api";
 
 async function get<T>(path: string): Promise<T> {
   const res = await fetch(`${BASE}${path}`, {
