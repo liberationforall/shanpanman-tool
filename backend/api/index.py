@@ -26,6 +26,15 @@ app.add_middleware(
 app.include_router(strikes_router)
 
 
+@app.get("/")
+def read_root():
+    return {
+        "message": "Welcome to MahsaAlert Intelligence Dashboard API",
+        "docs": "/docs",
+        "endpoints": ["/health", "/strikes"]
+    }
+
+
 @app.get("/health")
 def health():
     return {"status": "ok"}
