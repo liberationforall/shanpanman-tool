@@ -91,6 +91,9 @@ export default function DashboardPage() {
           <p className="text-ink-faint text-xs font-mono mt-2 uppercase tracking-wide">
             Describe your work, how it would help, and the feature you would like to be added.
           </p>
+          <p className="text-ink-muted text-sm font-body pt-2">
+            This dashboard is based on the data collected by MahsaAlert and is not affiliated with any organisation.
+          </p>
         </div>
       </footer>
     </div>
