@@ -19,6 +19,8 @@ app.add_middleware(
         "https://liberationforall.github.io",
         "https://liberationforall.github.io/shanpanman-tool",
         "https://shanpanman.com",
+        "http://shanpanman.com",
+        "http://www.shanpanman.com",
         "https://www.shanpanman.com"
     ],
     allow_credentials=True,
