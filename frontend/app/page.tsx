@@ -75,6 +75,25 @@ export default function DashboardPage() {
           <OsintTab />
         </div>
       </main>
+      
+      {/* ── Footer ── */}
+      <footer className="border-t border-paper-border bg-paper-bright py-8">
+        <div className="max-w-[1600px] mx-auto px-6 text-center">
+          <p className="text-ink-muted text-sm font-body">
+            If you have any requests for features to be added to the tool, please send an email to{' '}
+            <a 
+              href="mailto:nima.karshenas@gmail.com" 
+              className="text-ink font-medium underline underline-offset-4 hover:text-signal-red transition-colors"
+            >
+              nima.karshenas@gmail.com
+            </a>
+          </p>
+          <p className="text-ink-faint text-xs font-mono mt-2 uppercase tracking-wide">
+            Describe your work, how it would help, and the feature you would like to be added.
+          </p>
+        </div>
+      </footer>
     </div>
   );
 }
+
