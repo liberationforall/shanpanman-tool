@@ -3,14 +3,14 @@ name: Fetch Daily Target Data
 on:
   schedule:
     # Run at 01:00 UTC every day
-    - cron: '0 1 * * *'
+    - cron: '0 6 * * *'
   # Allow manual trigger
   workflow_dispatch:
     inputs:
       url_template:
         description: 'URL template for the target dataset (use {date} for today)'
         required: false
-        default: 'https://raw.githubusercontent.com/OWNER/REPO/main/data/{date}/newTargets.geojson'
+        default: 'https://raw.githubusercontent.com/mahsanet/mahsa-alert-layers/main/{date}/newTargets.geojson'
 
 jobs:
   fetch-data:
@@ -25,14 +25,15 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install Python dependencies
+        run: pip install anthropic pydantic
+
       - name: Run fetch script
         env:
-          # Define this secret in the GitHub repository settings if the URL uses a private token, 
-          # otherwise you can hardcode the template here or use the manual input.
-          # Here we default to the workflow input, but you can replace this with your actual URL template
-          TARGET_URL_TEMPLATE: ${{ inputs.url_template || 'https://raw.githubusercontent.com/OWNER/REPO/main/data/{date}/newTargets.geojson' }}
+          TARGET_URL_TEMPLATE: ${{ inputs.url_template || 'https://raw.githubusercontent.com/mahsanet/mahsa-alert-layers/main/{date}/newTargets.geojson' }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
-          python backend/utils/fetch_daily_data.py --url "${TARGET_URL_TEMPLATE}"
+          python backend/utils/fetch_daily_data.py --url "${TARGET_URL_TEMPLATE}" --api-key "${ANTHROPIC_API_KEY}"
 
       - name: Commit and Push Changes
         run: |

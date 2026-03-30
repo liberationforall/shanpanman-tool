@@ -5,8 +5,9 @@ import urllib.error
 from datetime import datetime
 import argparse
 from pathlib import Path
+from translate_geojson import enrich_geojson
 
-def fetch_daily_data(repo_url_template: str):
+def fetch_daily_data(repo_url_template: str, api_key: str = ""):
     """
     Fetches today's newTargets.geojson and archives yesterday's data.
 
@@ -47,6 +48,13 @@ def fetch_daily_data(repo_url_template: str):
         shutil.move(str(temp_file_path), str(current_file_path))
         print(f"Successfully updated {current_file_path}")
 
+        # Run translation enrichment if an API key is available
+        if api_key:
+            print("Running translation enrichment (name:fa → name:en)...")
+            enrich_geojson(current_file_path, api_key)
+        else:
+            print("Skipping translation: no ANTHROPIC_API_KEY provided.")
+
     except urllib.error.HTTPError as e:
         if e.code == 404:
             print(f"Data for today ({today_str}) not found at the source repository (HTTP 404).")
@@ -65,5 +73,11 @@ if __name__ == "__main__":
         required=True, 
         help="URL template for the remote file. Use {date} as a placeholder."
     )
+    parser.add_argument(
+        "--api-key",
+        type=str,
+        default=os.environ.get("ANTHROPIC_API_KEY", ""),
+        help="Anthropic API key for translation (or set ANTHROPIC_API_KEY env var).",
+    )
     args = parser.parse_args()
-    fetch_daily_data(args.url)
+    fetch_daily_data(args.url, api_key=args.api_key)

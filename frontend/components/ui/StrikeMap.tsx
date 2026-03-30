@@ -108,7 +108,7 @@ export default function StrikeMap({
 
         const marker = L.marker([strike.latitude, strike.longitude], { icon })
           .addTo(mapRef.current)
-          .bindTooltip(`<div style="font-family:var(--font-display); font-size:16px; font-weight:600; padding:2px 4px">${strike.name_fa || 'Unknown Location'}</div>`, { direction: 'top', offset: [0, -10] })
+          .bindTooltip(`<div style="font-family:var(--font-display); font-size:16px; font-weight:600; padding:2px 4px">${strike.name_fa || 'Unknown Location'}</div>${strike.name_en ? `<div style="font-family:monospace; font-size:11px; color:#6b7280; padding:0 4px 2px">${strike.name_en}</div>` : ''}`, { direction: 'top', offset: [0, -10] })
           .bindPopup(buildPopup(strike), { maxWidth: 260 });
 
         // Stop the map click from also firing when the marker is clicked
@@ -188,7 +188,8 @@ function makeIcon(L: any, accurate: boolean, selected: boolean) {
 function buildPopup(strike: Strike): string {
   return `
     <div style="font-family:monospace;font-size:12px;line-height:1.7;min-width:190px;padding:2px 0">
-      <div style="font-family:var(--font-display); font-weight:700;font-size:18px;margin-bottom:4px">${strike.name_fa || "—"}</div>
+      <div style="font-family:var(--font-display); font-weight:700;font-size:18px;margin-bottom:2px">${strike.name_fa || "—"}</div>
+      ${strike.name_en ? `<div style="font-family:monospace;font-size:11px;color:#6b7280;margin-bottom:4px">${strike.name_en}</div>` : ""}
       <div style="color:#6b7280;margin-bottom:4px">${strike.strike_date ?? "unknown date"}</div>
       <div>
         <span style="

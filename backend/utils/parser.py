@@ -102,7 +102,7 @@ def load_strikes() -> list[dict]:
     Load newTarget.geojson and return a flat list of normalised strike dicts.
 
     Each dict exposes:
-        id, name_fa, date_str, strike_date, accurate, status,
+        id, name_fa, name_en, date_str, strike_date, accurate, status,
         geolocates, tweet_url, tweet_id, longitude, latitude,
         source_id, created_at
     """
@@ -152,6 +152,7 @@ def load_strikes() -> list[dict]:
             {
                 "id": props.get("id", ""),
                 "name_fa": info.get("name:fa") or props.get("name:fa", ""),
+                "name_en": info.get("name:en") or props.get("name:en", "") or "",
                 "date_str": date_str,
                 "strike_date": strike_date.isoformat() if strike_date else None,
                 "accurate": accurate,

@@ -53,6 +53,13 @@ export default function StrikeCard({ strike }: StrikeCardProps) {
           {strike.name_fa || "—"}
         </p>
 
+        {/* English translation */}
+        {strike.name_en && (
+          <p className="font-mono text-xs text-ink-muted mt-0.5 tracking-wide">
+            {strike.name_en}
+          </p>
+        )}
+
         {/* Coordinates */}
         {strike.latitude && strike.longitude && (
           <p className="font-mono text-xs text-ink-faint mt-1.5">

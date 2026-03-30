@@ -5,6 +5,7 @@
 export interface Strike {
   id: string;
   name_fa: string;
+  name_en: string;
   date_str: string | null;
   strike_date: string | null; // ISO date YYYY-MM-DD
   accurate: boolean;
