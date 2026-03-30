@@ -64,8 +64,8 @@ export default function HomeTab() {
   const activeFilter = selectedStrikeId
     ? "Showing 1 selected strike"
     : selectedDate
-    ? `Showing strikes for ${selectedDate}`
-    : null;
+      ? `Showing strikes for ${selectedDate}`
+      : null;
 
   return (
     <div className="max-w-[1600px] mx-auto px-6 py-8 space-y-8 animate-fade-in">
@@ -111,9 +111,9 @@ export default function HomeTab() {
                 isLoading={isLoading}
               />
               <StatCard
-                label="Confirmed Today"
-                value={isLoading ? "—" : (stats?.confirmed_today ?? 0)}
-                subtext="Since 00:00 UTC"
+                label="Confirmed last 3 days"
+                value={isLoading ? "—" : (stats?.confirmed_last_3_days ?? 0)}
+                subtext="Past 72 hours"
                 variant="today"
                 isLoading={isLoading}
               />

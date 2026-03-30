@@ -1,6 +1,6 @@
 import json
 import math
-from datetime import date, datetime, timezone
+from datetime import date, datetime, timezone, timedelta
 from pathlib import Path
 from typing import Optional
 
@@ -178,14 +178,16 @@ def load_strikes() -> list[dict]:
 def compute_stats(strikes: list[dict]) -> dict:
     """Return summary statistics for the key-figure cards."""
     today = date.today().isoformat()
+    yesterday = (date.today() - timedelta(days=1)).isoformat()
+    day_before_yesterday = (date.today() - timedelta(days=2)).isoformat()
 
     confirmed = [s for s in strikes if s["accurate"]]
     pending = [s for s in strikes if not s["accurate"]]
-    today_confirmed = [s for s in confirmed if s["strike_date"] == today]
+    last_3_days_confirmed = [s for s in confirmed if s["strike_date"] == today or s["strike_date"] == yesterday or s["strike_date"] == day_before_yesterday]
 
     return {
         "total_confirmed": len(confirmed),
-        "confirmed_today": len(today_confirmed),
+        "confirmed_last_3_days": len(last_3_days_confirmed),
         "pending_confirmation": len(pending),
     }
 

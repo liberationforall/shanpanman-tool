@@ -22,7 +22,7 @@ export interface Strike {
 
 export interface StrikeStats {
   total_confirmed: number;
-  confirmed_today: number;
+  confirmed_last_3_days: number;
   pending_confirmation: number;
 }
 
