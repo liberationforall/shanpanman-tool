@@ -2,11 +2,11 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "MahsaAlert — Intelligence Dashboard",
+  title: "Shanpanman — Intelligence Dashboard",
   description:
     "Live incident reporting and strike intelligence platform tracking confirmed strikes on government and military targets.",
   openGraph: {
-    title: "MahsaAlert Intelligence Dashboard",
+    title: "Shanpanman Intelligence Dashboard",
     description: "Live incident reporting and OSINT platform.",
     type: "website",
   },

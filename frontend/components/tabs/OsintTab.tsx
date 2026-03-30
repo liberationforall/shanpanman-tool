@@ -13,7 +13,7 @@ export default function OsintTab() {
           engine, and image evidence pipeline.
         </p>
         <p className="font-mono text-xs text-ink-faint mt-4">
-          Scheduled for v0.3
+          Scheduled for v0.2
         </p>
       </div>
     </div>

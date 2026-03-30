@@ -13,7 +13,7 @@ export default function StrikeAnalysisTab() {
           breakdowns, damage cost estimates, and AI severity scoring.
         </p>
         <p className="font-mono text-xs text-ink-faint mt-4">
-          Scheduled for v0.2
+          Scheduled for v0.3
         </p>
       </div>
     </div>
