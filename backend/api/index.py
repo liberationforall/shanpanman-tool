@@ -2,6 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from routers.strikes import router as strikes_router
+from routers.osint import router as osint_router
 
 app = FastAPI(
     title="MahsaAlert Intelligence Dashboard API",
@@ -32,6 +33,8 @@ app.add_middleware(
 app.include_router(strikes_router, prefix="/api")
 app.include_router(strikes_router)
 
+app.include_router(osint_router, prefix="/api")
+app.include_router(osint_router)
 
 @app.get("/api")
 @app.get("/api/")

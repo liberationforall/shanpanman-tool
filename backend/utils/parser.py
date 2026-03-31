@@ -212,3 +212,57 @@ def strikes_by_day(strikes: list[dict]) -> list[dict]:
             by_date[d]["pending"] += 1
 
     return sorted(by_date.values(), key=lambda x: x["date"])
+
+# ---------------------------------------------------------------------------
+# OSINT Data loader
+# ---------------------------------------------------------------------------
+
+CITIZEN_REPORT_PATH = Path(__file__).parent.parent / "data" / "citizenReport.geojson"
+
+def load_citizen_reports() -> list[dict]:
+    """
+    Load citizenReport.geojson and return a flat list of normalized report dicts.
+    """
+    try:
+        with open(CITIZEN_REPORT_PATH, encoding="utf-8") as fh:
+            geojson = json.load(fh)
+    except FileNotFoundError:
+        return []
+
+    reports = []
+    for feature in geojson.get("features", []):
+        props = feature.get("properties") or {}
+        geom = feature.get("geometry") or {}
+        coords = geom.get("coordinates") or [None, None]
+        if not isinstance(coords, list) or len(coords) < 2:
+            coords = [None, None]
+
+        info = _parse_info(props.get("info", {}))
+
+        # Extract names and descriptions from info or properties
+        name_fa = info.get("name:fa") or props.get("name:fa", "")
+        name_en = info.get("name:en") or props.get("name:en", "")
+        description_fa = info.get("description") or props.get("description", "")
+        description_en = info.get("description:en") or props.get("description:en", "")
+
+        date_str = info.get("date") or props.get("date")
+        report_date = props.get("updatedAt") or props.get("createdAt")
+        lon, lat = coords[0], coords[1]
+        
+        reports.append(
+            {
+                "id": str(props.get("id", "")),
+                "publicId": str(props.get("publicId", "")),
+                "name_fa": name_fa,
+                "name_en": name_en,
+                "description_fa": description_fa,
+                "description_en": description_en,
+                "date_str": date_str,
+                "report_date": report_date,
+                "longitude": lon,
+                "latitude": lat,
+                "status": props.get("status", ""),
+                "created_at": props.get("createdAt"),
+            }
+        )
+    return reports

@@ -7,10 +7,14 @@ on:
   # Allow manual trigger
   workflow_dispatch:
     inputs:
-      url_template:
+      url_template_targets:
         description: 'URL template for the target dataset (use {date} for today)'
         required: false
-        default: 'https://raw.githubusercontent.com/mahsanet/mahsa-alert-layers/main/{date}/newTargets.geojson'
+        default: 'https://raw.githubusercontent.com/mahsanet/mahsa-alert-layers-main/{date}/newTargets.geojson'
+      url_template_citizen:
+        description: 'URL template for the citizen report dataset (use {date} for today)'
+        required: false
+        default: 'https://raw.githubusercontent.com/mahsanet/mahsa-alert-layers-main/{date}/citizenReport.geojson'
 
 jobs:
   fetch-data:
@@ -28,12 +32,19 @@ jobs:
       - name: Install Python dependencies
         run: pip install anthropic pydantic
 
-      - name: Run fetch script
+      - name: Fetch newTargets data
         env:
-          TARGET_URL_TEMPLATE: ${{ inputs.url_template || 'https://raw.githubusercontent.com/mahsanet/mahsa-alert-layers/main/{date}/newTargets.geojson' }}
+          TARGET_URL: ${{ inputs.url_template_targets || 'https://raw.githubusercontent.com/mahsanet/mahsa-alert-layers-main/{date}/newTargets.geojson' }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
-          python backend/utils/fetch_daily_data.py --url "${TARGET_URL_TEMPLATE}" --api-key "${ANTHROPIC_API_KEY}"
+          python backend/utils/fetch_daily_data.py --url "${TARGET_URL}" --file-type newTargets --api-key "${ANTHROPIC_API_KEY}"
+
+      - name: Fetch citizenReport data
+        env:
+          CITIZEN_URL: ${{ inputs.url_template_citizen || 'https://raw.githubusercontent.com/mahsanet/mahsa-alert-layers-main/{date}/citizenReport.geojson' }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python backend/utils/fetch_daily_data.py --url "${CITIZEN_URL}" --file-type citizenReport --api-key "${ANTHROPIC_API_KEY}"
 
       - name: Commit and Push Changes
         run: |
@@ -49,3 +60,4 @@ jobs:
             git commit -m "chore: fetch daily target data for $(date +'%d-%m-%Y')"
             git push
           fi
+

@@ -42,6 +42,26 @@ export interface TimelineResponse {
   data: TimelinePoint[];
 }
 
+export interface CitizenReport {
+  id: string;
+  publicId: string;
+  name_fa: string;
+  name_en: string;
+  description_fa: string;
+  description_en: string;
+  date_str: string | null;
+  report_date: string | null;
+  longitude: number | null;
+  latitude: number | null;
+  status: string;
+  created_at: string | null;
+}
+
+export interface CitizenReportsResponse {
+  data: CitizenReport[];
+  count: number;
+}
+
 // ---------------------------------------------------------------------------
 // API client
 // ---------------------------------------------------------------------------
@@ -85,4 +105,9 @@ export const api = {
       return get<TimelineResponse>(`/strikes/timeline${query ? `?${query}` : ""}`);
     },
   },
+  osint: {
+    citizenReports: () => {
+      return get<CitizenReportsResponse>(`/osint/citizen-reports`);
+    }
+  }
 };

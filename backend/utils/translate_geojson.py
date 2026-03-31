@@ -53,6 +53,10 @@ class FeatureEnrichment(BaseModel):
     """
     name_en: str  # English translation of the Farsi location name
 
+class CitizenEnrichment(BaseModel):
+    name_en: str
+    description_en: str
+
 
 # ---------------------------------------------------------------------------
 # Translation helper
@@ -87,6 +91,33 @@ def translate_name(client: anthropic.Anthropic, name_fa: str) -> str:
     )
     return response.parsed_output.name_en
 
+def translate_citizen(client: anthropic.Anthropic, name_fa: str, description_fa: str) -> dict:
+    if not name_fa and not description_fa:
+        return {"name_en": "", "description_en": ""}
+    
+    response = client.messages.parse(
+        model=MODEL,
+        max_tokens=500,
+        system=(
+            "You are an expert Persian-to-English translator. "
+            "Translate the provided Farsi location name and description into English. "
+            "For the name, produce the standard, widely-used English romanisation. "
+            "For the description, provide a clear, literal English translation. "
+            "Return ONLY the structured output."
+        ),
+        messages=[
+            {
+                "role": "user",
+                "content": f"Name: {name_fa}\nDescription: {description_fa}",
+            }
+        ],
+        output_format=CitizenEnrichment,
+    )
+    return {
+        "name_en": response.parsed_output.name_en,
+        "description_en": response.parsed_output.description_en,
+    }
+
 
 # ---------------------------------------------------------------------------
 # Cache helpers
@@ -104,10 +135,10 @@ def _decode_info(raw) -> dict:
     return {}
 
 
-def build_translation_cache(yesterday_path: Path) -> dict[str, str]:
+def build_translation_cache(yesterday_path: Path, file_type: str = "newTargets") -> dict:
     """
     Read yesterday's GeoJSON and return a mapping of
-        { feature_id → name:en }
+        { feature_id → dict_of_translations }
     for every feature that already has a translated name.
 
     Returns an empty dict if the file does not exist or cannot be parsed.
@@ -123,7 +154,7 @@ def build_translation_cache(yesterday_path: Path) -> dict[str, str]:
         print(f"[cache] Could not load yesterday's file: {exc} — skipping cache pass.")
         return {}
 
-    cache: dict[str, str] = {}
+    cache: dict[str, dict] = {}
     for feature in yesterday_geojson.get("features", []):
         props = feature.get("properties") or {}
         feature_id = props.get("id", "")
@@ -131,10 +162,16 @@ def build_translation_cache(yesterday_path: Path) -> dict[str, str]:
             continue
         info = _decode_info(props.get("info", {}))
         name_en = info.get("name:en", "").strip()
-        if name_en:
-            cache[str(feature_id)] = name_en
+        description_en = info.get("description:en", "").strip()
+        
+        if file_type == "citizenReport":
+            if name_en or description_en:
+                cache[str(feature_id)] = {"name_en": name_en, "description_en": description_en}
+        else:
+            if name_en:
+                cache[str(feature_id)] = {"name_en": name_en}
 
-    print(f"[cache] Loaded {len(cache)} existing translation(s) from yesterday's data.")
+    print(f"[cache] Loaded {len(cache)} existing translation(s) from yesterday's {file_type} data.")
     return cache
 
 
@@ -146,20 +183,18 @@ def enrich_geojson(
     geojson_path: Path,
     api_key: str,
     yesterday_path: Path | None = None,
+    file_type: str = "newTargets",
 ) -> None:
     """
     Opens the GeoJSON, fills `name:en` fields in two passes, and saves
     the updated file back in-place.
-
-    Pass 1 – carry-over from yesterday (free, no LLM calls)
-    Pass 2 – LLM translation for any feature still missing `name:en`
     """
     # Resolve default yesterday path relative to today's file location
     if yesterday_path is None:
-        yesterday_path = geojson_path.parent / "yesterday" / "newTargets.geojson"
+        yesterday_path = geojson_path.parent / "yesterday" / f"{file_type}.geojson"
 
     # -- Pass 1: build cache from yesterday ---------------------------------
-    translation_cache = build_translation_cache(yesterday_path)
+    translation_cache = build_translation_cache(yesterday_path, file_type=file_type)
 
     # -- Load today's file --------------------------------------------------
     client = anthropic.Anthropic(api_key=api_key)
@@ -180,35 +215,60 @@ def enrich_geojson(
 
         info = _decode_info(props.get("info", {}))
         name_fa = info.get("name:fa", "").strip()
+        description_fa = info.get("description", "").strip()
+        if file_type != "citizenReport":
+            description_fa = "" # Targets don't translate description
 
         # Already has a translation in today's file – nothing to do
-        if info.get("name:en"):
+        if info.get("name:en") and (file_type != "citizenReport" or info.get("description:en") is not None):
             skipped += 1
             continue
 
-        # No Farsi name to work from
-        if not name_fa:
+        # No Farsi text to work from
+        if not name_fa and not description_fa:
             skipped += 1
             continue
 
         # -- Pass 1: carry over from yesterday's cache ----------------------
         if feature_id and feature_id in translation_cache:
-            cached_name = translation_cache[feature_id]
-            info["name:en"] = cached_name
+            cached_data = translation_cache[feature_id]
+            info["name:en"] = cached_data.get("name_en", "")
+            if "name:fa" in props:
+                props["name:en"] = cached_data.get("name_en", "")
+
+            if file_type == "citizenReport":
+                info["description:en"] = cached_data.get("description_en", "")
+                if "description" in props:
+                    props["description:en"] = cached_data.get("description_en", "")
+
             if isinstance(props.get("info"), str):
                 props["info"] = json.dumps(info, ensure_ascii=False)
             else:
                 props["info"] = info
             feature["properties"] = props
             carried_over += 1
-            print(f"  [{i+1}/{total}] (cache) {name_fa!r} → {cached_name!r}")
+            print(f"  [{i+1}/{total}] (cache) {name_fa!r} → {info['name:en']!r}")
             continue
 
         # -- Pass 2: call the LLM for brand-new features --------------------
         print(f"  [{i+1}/{total}] (llm)   Translating: {name_fa!r}")
         try:
-            name_en = translate_name(client, name_fa)
-            info["name:en"] = name_en
+            if file_type == "citizenReport":
+                res = translate_citizen(client, name_fa, description_fa)
+                name_en = res["name_en"]
+                desc_en = res["description_en"]
+                info["name:en"] = name_en
+                info["description:en"] = desc_en
+                if "name:fa" in props:
+                    props["name:en"] = name_en
+                if "description" in props:
+                    props["description:en"] = desc_en
+            else:
+                name_en = translate_name(client, name_fa)
+                info["name:en"] = name_en
+                if "name:fa" in props:
+                    props["name:en"] = name_en
+
             if isinstance(props.get("info"), str):
                 props["info"] = json.dumps(info, ensure_ascii=False)
             else:
@@ -221,6 +281,7 @@ def enrich_geojson(
 
         # Small delay to avoid hitting rate limits on bulk runs
         time.sleep(0.1)
+
 
     print(
         f"\nDone. "
@@ -255,6 +316,13 @@ if __name__ == "__main__":
         default=os.environ.get("ANTHROPIC_API_KEY", ""),
         help="Anthropic API key (or set ANTHROPIC_API_KEY env var)",
     )
+    parser.add_argument(
+        "--type",
+        type=str,
+        default="newTargets",
+        choices=["newTargets", "citizenReport"],
+        help="The type of data being translated (influences schema and fields)",
+    )
     args = parser.parse_args()
 
     if not args.api_key:
@@ -262,4 +330,4 @@ if __name__ == "__main__":
             "No API key provided. Pass --api-key or set ANTHROPIC_API_KEY."
         )
 
-    enrich_geojson(args.path, args.api_key)
+    enrich_geojson(args.path, args.api_key, file_type=args.type)

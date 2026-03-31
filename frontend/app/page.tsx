@@ -10,8 +10,8 @@ type Tab = "home" | "strike-analysis" | "osint";
 
 const TABS: { id: Tab; label: string }[] = [
   { id: "home", label: "Home" },
-  { id: "strike-analysis", label: "Strike Analysis" },
-  /*{ id: "osint", label: "OSINT" },*/
+  /*{ id: "strike-analysis", label: "Strike Analysis" },*/
+  { id: "osint", label: "OSINT" },
 ];
 
 export default function DashboardPage() {
