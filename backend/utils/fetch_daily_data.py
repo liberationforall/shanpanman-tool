@@ -56,12 +56,26 @@ def fetch_daily_data(repo_url_template: str, api_key: str = ""):
             print("Skipping translation: no ANTHROPIC_API_KEY provided.")
 
     except urllib.error.HTTPError as e:
+        # Clean up any partial temp file
+        if temp_file_path.exists():
+            temp_file_path.unlink()
+
         if e.code == 404:
-            print(f"Data for today ({today_str}) not found at the source repository (HTTP 404).")
+            # The source repo simply hasn't published today's data yet.
+            # This is not an error — exit cleanly so CI doesn't fail.
+            print(
+                f"No data available yet for today ({today_str}) — "
+                "the source repository hasn't published it yet (HTTP 404). "
+                "Nothing to update."
+            )
+            exit(0)
         else:
             print(f"HTTP Error: {e.code} - {e.reason}")
-        exit(1)
+            exit(1)
     except Exception as e:
+        # Clean up any partial temp file
+        if 'temp_file_path' in locals() and temp_file_path.exists():
+            temp_file_path.unlink()
         print(f"An error occurred: {e}")
         exit(1)
 
