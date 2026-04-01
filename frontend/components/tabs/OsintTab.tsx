@@ -61,43 +61,39 @@ export default function OsintTab() {
   }
 
   return (
-    <div className="max-w-[1600px] mx-auto px-4 md:px-8 py-8 mb-24 min-h-[calc(100vh-140px)] flex flex-col gap-6">
+    <div className="max-w-[1600px] mx-auto px-4 md:px-8 py-8 mb-24 min-h-[calc(100vh-140px)]">
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 h-full">
 
-      <div className="flex flex-col lg:flex-row gap-2 h-full flex-1">
-
-        {/* Left Half: List + Form */}
-        <div className="w-full lg:w-1/2 shrink-0 flex flex-col h-[calc(100vh-140px)]">
-          {/* List Area */}
-          <div className="flex-1 overflow-hidden flex flex-col min-h-[450px]">
-            <h2 className="font-display font-semibold text-xl mb-4 text-ink flex items-center justify-between max-w-2xl">
-              Unconfirmed Reports
-              <span className="bg-paper-warm text-ink-muted text-xs px-2 py-0.5 rounded-full font-mono">
-                {reports.length}
-              </span>
-            </h2>
-            <div className="flex-1 h-full w-full max-w-2xl">
-              <ReportedStrikesList
-                reports={reports}
-                selectedId={selectedStrikeId}
-                onSelect={handleSelectStrike}
-              />
-            </div>
-          </div>
-
-          {/* Form Area */}
-          <div className="w-full max-w-2xl border-t border-paper-warm pt-8 mt-6 shrink-0">
-            <EvidenceSubmissionForm selectedReport={selectedReport} />
+        {/* 1. Report List Area */}
+        <div className="order-1 lg:order-1 flex flex-col h-[500px] lg:h-[calc(100vh-420px)] min-h-[400px]">
+          <h2 className="font-display font-semibold text-xl mb-4 text-ink flex items-center justify-between max-w-2xl">
+            Unconfirmed Reports
+            <span className="bg-paper-warm text-ink-muted text-xs px-2 py-0.5 rounded-full font-mono">
+              {reports.length}
+            </span>
+          </h2>
+          <div className="flex-1 overflow-hidden w-full max-w-2xl">
+            <ReportedStrikesList
+              reports={reports}
+              selectedId={selectedStrikeId}
+              onSelect={handleSelectStrike}
+            />
           </div>
         </div>
 
-        {/* Right Half: Map */}
-        <div className="w-full md:w-1/2 h-[calc(100vh-140px)] rounded-sm overflow-hidden border border-paper-border shadow-sm flex-1">
+        {/* 2. Map Area (Appears 2nd on mobile, spans right side on desktop) */}
+        <div className="order-2 lg:order-3 lg:col-start-2 lg:row-start-1 lg:row-span-2 h-[450px] lg:h-[calc(100vh-140px)] rounded-sm overflow-hidden border border-paper-border shadow-sm">
           <ReportedStrikesMap
             reports={reports}
             selectedId={selectedStrikeId}
             onSelect={handleSelectStrike}
             onClearSelection={handleClearSelection}
           />
+        </div>
+
+        {/* 3. Form Area (Appears 3rd on mobile, bottom-left on desktop) */}
+        <div className="order-3 lg:order-2 w-full max-w-2xl border-t border-paper-warm pt-8 mt-4 lg:mt-0">
+          <EvidenceSubmissionForm selectedReport={selectedReport} />
         </div>
 
       </div>
