@@ -38,7 +38,7 @@ def fetch_daily_data(repo_url_template: str, file_type: str, api_key: str = ""):
     Fetches today's data and archives yesterday's data.
     """
     # Get today's date in DD-MM-YYYY format
-    today_str = datetime.now().strftime("%d-%m-%Y")
+    today_str = datetime.now().strftime("%Y-%m-%d")
     url = repo_url_template.format(date=today_str)
 
     print(f"[{datetime.now().isoformat()}] Attempting to fetch {file_type} from: {url}")
