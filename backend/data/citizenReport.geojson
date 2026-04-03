@@ -17689,10 +17689,1606 @@
         "name:en": "Checkpoint",
         "description:en": ""
       }
+    },
+    {
+      "type": "Feature",
+      "id": 92788,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.08368893519503,
+          35.478889720075685
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر نماینده رباط کریم",
+        "city": "رباط کریم",
+        "province": "استان تهران",
+        "date": 1772217991,
+        "description": "دفتر نماینده رباط کریم حسن قشقاویی محل جمع شدن و برنامه ریزی سرکوب گران",
+        "sources": "",
+        "id": "MzY6MTRmOGQyODVhMGEz",
+        "publicId": "MzY6MTRmOGQyODVhMGEz",
+        "sourceId": "14f8d285a0a3",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "دفتر نماینده رباط کریم",
+          "city": "رباط کریم",
+          "province": "استان تهران",
+          "date": 1772217991,
+          "description": "دفتر نماینده رباط کریم حسن قشقاویی محل جمع شدن و برنامه ریزی سرکوب گران",
+          "sources": "",
+          "name:en": "Robat Karim Representative Office",
+          "description:en": "Robat Karim Representative Office of Hassan Qashqai, a gathering and planning place for suppressors"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T07:05:34.302Z",
+        "updatedAt": "2026-04-02T07:05:34.302Z",
+        "name:en": "Robat Karim Representative Office",
+        "description:en": "Robat Karim Representative Office of Hassan Qashqai, a gathering and planning place for suppressors"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92792,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5822325439151,
+          37.22179222160035
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی بسیج و سپاه",
+        "city": "کلانشهر رشت",
+        "province": "استان گیلان",
+        "date": 1774977950,
+        "description": "سپاه و بسیج ایست بازرسی گذاشته‌اند و با اسلحه و سر و صورت پوشیده ایجاد رعب و وحشت می‌کنند. با دوربین از تمام ماشین‌ها و سرنشینان فیلم می‌گیرند و گوشی‌ها را چک می‌کنند.",
+        "sources": "",
+        "id": "MzY6OGQ5YWYzZmJiNjY4",
+        "publicId": "MzY6OGQ5YWYzZmJiNjY4",
+        "sourceId": "8d9af3fbb668",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی بسیج و سپاه",
+          "city": "کلانشهر رشت",
+          "province": "استان گیلان",
+          "date": 1774977950,
+          "description": "سپاه و بسیج ایست بازرسی گذاشته‌اند و با اسلحه و سر و صورت پوشیده ایجاد رعب و وحشت می‌کنند. با دوربین از تمام ماشین‌ها و سرنشینان فیلم می‌گیرند و گوشی‌ها را چک می‌کنند.",
+          "sources": "",
+          "name:en": "Basij and IRGC Checkpoint",
+          "description:en": "The IRGC and Basij have set up a checkpoint and are creating fear and terror with weapons and covered faces. They are filming all vehicles and passengers with cameras and checking mobile phones."
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T07:17:31.308Z",
+        "updatedAt": "2026-04-02T07:17:31.308Z",
+        "name:en": "Basij and IRGC Checkpoint",
+        "description:en": "The IRGC and Basij have set up a checkpoint and are creating fear and terror with weapons and covered faces. They are filming all vehicles and passengers with cameras and checking mobile phones."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92795,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.063948,
+          30.295549
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه بیت الزهرا (منزل سلیمانی)",
+        "city": "کرمان",
+        "province": "استان کرمان",
+        "date": 1775054101,
+        "description": "این مکان که اکنون تحت نام حسینیه بیت‌الزهرا فعالیت می‌کند قبلاً منزل [نام خانوادگی] بود و برخی مواقع برای برگزاری جلسات نیروهای نظامی و سرکوب استفاده می‌شود.",
+        "sources": "",
+        "id": "MzY6NTZiMDU2MDE1MTRm",
+        "publicId": "MzY6NTZiMDU2MDE1MTRm",
+        "sourceId": "56b05601514f",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "حسینیه بیت الزهرا (منزل سلیمانی)",
+          "city": "کرمان",
+          "province": "استان کرمان",
+          "date": 1775054101,
+          "description": "این مکان که اکنون تحت نام حسینیه بیت‌الزهرا فعالیت می‌کند قبلاً منزل [نام خانوادگی] بود و برخی مواقع برای برگزاری جلسات نیروهای نظامی و سرکوب استفاده می‌شود.",
+          "sources": "",
+          "name:en": "Husainiyah Bayt al-Zahra (Sulemani House)",
+          "description:en": "This place, which currently operates under the name Husainiyah Bayt al-Zahra, was previously the house of [family name] and was sometimes used for holding military force meetings and suppression activities."
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T07:44:15.587Z",
+        "updatedAt": "2026-04-02T07:44:15.587Z",
+        "name:en": "Husainiyah Bayt al-Zahra (Sulemani House)",
+        "description:en": "This place, which currently operates under the name Husainiyah Bayt al-Zahra, was previously the house of [family name] and was sometimes used for holding military force meetings and suppression activities."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92796,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.98580363682004,
+          30.270648088651996
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع سرکوبگران",
+        "description": "برخی روزها صبح زود حوالی ساعت ۶،۷ نیروهای سرکوب در این محل تجمع و جلسه دارند. معمولاً در زمان حضورشان خودرو و مامورین انتظامی مقابل درب ورودی بلوار رضوان مجموعه را اسکورت می‌کنند.",
+        "date": 1775053566,
+        "id": "MzY6Nzk2NjUzNjMwYTc1",
+        "publicId": "MzY6Nzk2NjUzNjMwYTc1",
+        "sourceId": "796653630a75",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تجمع سرکوبگران",
+          "description": "برخی روزها صبح زود حوالی ساعت ۶،۷ نیروهای سرکوب در این محل تجمع و جلسه دارند. معمولاً در زمان حضورشان خودرو و مامورین انتظامی مقابل درب ورودی بلوار رضوان مجموعه را اسکورت می‌کنند.",
+          "date": 1775053566,
+          "name:en": "Suppressors' Gathering Place",
+          "description:en": "On some mornings, around 6 or 7 AM, suppressive forces gather and hold meetings at this location. Usually during their presence, vehicles and police officers escort the entrance of the Razavan Boulevard complex."
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-01T14:26:06.314Z",
+        "updatedAt": "2026-04-02T07:58:11.305Z",
+        "name:en": "Suppressors' Gathering Place",
+        "description:en": "On some mornings, around 6 or 7 AM, suppressive forces gather and hold meetings at this location. Usually during their presence, vehicles and police officers escort the entrance of the Razavan Boulevard complex."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92797,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.52598344333671,
+          35.74467042459976
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "description": "12 فروردین از حدود ساعت 15:۰۰ ایست بازرسی",
+        "date": 1775046234,
+        "id": "MzY6N2NmMDQ1MDk4YjJh",
+        "publicId": "MzY6N2NmMDQ1MDk4YjJh",
+        "sourceId": "7cf045098b2a",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "description": "12 فروردین از حدود ساعت 15:۰۰ ایست بازرسی",
+          "date": 1775046234,
+          "name:en": "Checkpoint",
+          "description:en": "12 Farvardin from around 15:00 checkpoint"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-01T12:23:54.456Z",
+        "updatedAt": "2026-04-02T07:58:11.315Z",
+        "name:en": "Checkpoint",
+        "description:en": "12 Farvardin from around 15:00 checkpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92798,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.22790070287152,
+          35.75266702093879
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "description": "ایست بازرسی اینجا هستن از صبح تا شب",
+        "date": 1774930456,
+        "id": "MzY6OGM2NmE4M2U5OTc0",
+        "publicId": "MzY6OGM2NmE4M2U5OTc0",
+        "sourceId": "8c66a83e9974",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "description": "ایست بازرسی اینجا هستن از صبح تا شب",
+          "date": 1774930456,
+          "name:en": "Inspection Checkpoint",
+          "description:en": "There is an inspection checkpoint here from morning until night"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-31T04:14:16.529Z",
+        "updatedAt": "2026-04-02T07:58:11.317Z",
+        "name:en": "Inspection Checkpoint",
+        "description:en": "There is an inspection checkpoint here from morning until night"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92799,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.95874227329534,
+          35.46737172571794
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع سپاهیان",
+        "description": "محل تجمع سپاهیان پرند",
+        "date": 1774074290,
+        "id": "MzY6NTI4MGJmOGUyZTYz",
+        "publicId": "MzY6NTI4MGJmOGUyZTYz",
+        "sourceId": "5280bf8e2e63",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تجمع سپاهیان",
+          "description": "محل تجمع سپاهیان پرند",
+          "date": 1774074290,
+          "name:en": "Sepahians Gathering Place",
+          "description:en": "The gathering place of Sepahians in Parand"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-21T06:24:50.876Z",
+        "updatedAt": "2026-04-02T07:58:11.318Z",
+        "name:en": "Sepahians Gathering Place",
+        "description:en": "The gathering place of Sepahians in Parand"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92800,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.501013456085815,
+          29.645689594289507
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع سپاهیان",
+        "description": "نمازخانه شهید چمران از نقاط مهم تجمع سپاهیان مسلح برای سرکوب مردم. کنار بیمارستان قرار گرفته و ضروری است توجه شود",
+        "date": 1772822320,
+        "id": "MzY6MDQwODMxOTcwZjc3",
+        "publicId": "MzY6MDQwODMxOTcwZjc3",
+        "sourceId": "040831970f77",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تجمع سپاهیان",
+          "description": "نمازخانه شهید چمران از نقاط مهم تجمع سپاهیان مسلح برای سرکوب مردم. کنار بیمارستان قرار گرفته و ضروری است توجه شود",
+          "date": 1772822320,
+          "name:en": "Sepahian Gathering",
+          "description:en": "Martyr Chamran prayer house is an important point of the armed Sepahians gathering for suppressing the people. It is located next to a hospital and requires attention."
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-06T18:38:40.993Z",
+        "updatedAt": "2026-04-02T07:58:11.320Z",
+        "name:en": "Sepahian Gathering",
+        "description:en": "Martyr Chamran prayer house is an important point of the armed Sepahians gathering for suppressing the people. It is located next to a hospital and requires attention."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92801,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.048529295672154,
+          35.682043585145095
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع سپاه",
+        "description": "مدرسه دبیرستان محل تجمع نیروهای سپاه سه راه شهریار",
+        "date": 1772555453,
+        "id": "MzY6ZGRhNGM4MDNhNWU4",
+        "publicId": "MzY6ZGRhNGM4MDNhNWU4",
+        "sourceId": "dda4c803a5e8",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تجمع سپاه",
+          "description": "مدرسه دبیرستان محل تجمع نیروهای سپاه سه راه شهریار",
+          "date": 1772555453,
+          "name:en": "Sepah Gathering",
+          "description:en": "A high school located at the gathering place of Sepah forces at Shahryar intersection"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-03T16:30:53.724Z",
+        "updatedAt": "2026-04-02T07:58:11.322Z",
+        "name:en": "Sepah Gathering",
+        "description:en": "A high school located at the gathering place of Sepah forces at Shahryar intersection"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92802,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.42566453098763,
+          35.7343243908809
+        ]
+      },
+      "properties": {
+        "name:fa": "مخفیگاه زیرزمینی",
+        "description": "یکی از مخفیگاه‌های زیر زمینی رهبر جمهوری اسلامی به عمق حدودی ۱۳۰ متر دسترسی به تونل‌های زیر زمینی از طریق تونل متروی مصلی",
+        "date": 1772137784,
+        "id": "MzY6Y2ZlZDgwNTI2MTBl",
+        "publicId": "MzY6Y2ZlZDgwNTI2MTBl",
+        "sourceId": "cfed8052610e",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مخفیگاه زیرزمینی",
+          "description": "یکی از مخفیگاه‌های زیر زمینی رهبر جمهوری اسلامی به عمق حدودی ۱۳۰ متر دسترسی به تونل‌های زیر زمینی از طریق تونل متروی مصلی",
+          "date": 1772137784,
+          "name:en": "Underground Bunker",
+          "description:en": "One of the underground shelters of the leader of the Islamic Republic at a depth of approximately 130 meters, accessible to underground tunnels through the Masalle metro tunnel"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-26T20:29:44.529Z",
+        "updatedAt": "2026-04-02T07:58:11.324Z",
+        "name:en": "Underground Bunker",
+        "description:en": "One of the underground shelters of the leader of the Islamic Republic at a depth of approximately 130 meters, accessible to underground tunnels through the Masalle metro tunnel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92803,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.541535211916425,
+          35.73398120458799
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه موقت سپاه",
+        "description": "این پارک تبدیل به پایگاه شده ، اکثرا از سپاه هستند و درجه دار و کلی هم ماشین و وسایل اعم از تویوتا و ون آوردند گذاشتند اونجا و تو خیابون هم ، دم پارک ، ایست میذارن و برای مردم ایجاد مزاحمت میکنند.",
+        "date": 1775046883,
+        "id": "MzY6ZTgxM2Q5YTllNTE0",
+        "publicId": "MzY6ZTgxM2Q5YTllNTE0",
+        "sourceId": "e813d9a9e514",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه موقت سپاه",
+          "description": "این پارک تبدیل به پایگاه شده ، اکثرا از سپاه هستند و درجه دار و کلی هم ماشین و وسایل اعم از تویوتا و ون آوردند گذاشتند اونجا و تو خیابون هم ، دم پارک ، ایست میذارن و برای مردم ایجاد مزاحمت میکنند.",
+          "date": 1775046883,
+          "name:en": "IRGC Temporary Base",
+          "description:en": "This park has been converted into a military base, mostly staffed by IRGC personnel and officers. They have brought and stationed various vehicles and equipment including Toyotas and vans there and on the street. They set up checkpoints at the park entrance and cause inconvenience to people."
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-01T12:34:43.451Z",
+        "updatedAt": "2026-04-02T07:58:11.325Z",
+        "name:en": "IRGC Temporary Base",
+        "description:en": "This park has been converted into a military base, mostly staffed by IRGC personnel and officers. They have brought and stationed various vehicles and equipment including Toyotas and vans there and on the street. They set up checkpoints at the park entrance and cause inconvenience to people."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92804,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.340823423554696,
+          35.766156734504804
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نظامی",
+        "description": "محل جمع شدن نیروی نظامی و سرکوب در امامزاده",
+        "date": 1774813444,
+        "id": "MzY6NTNlNmZkYjY1M2Vl",
+        "publicId": "MzY6NTNlNmZkYjY1M2Vl",
+        "sourceId": "53e6fdb653ee",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تجمع نظامی",
+          "description": "محل جمع شدن نیروی نظامی و سرکوب در امامزاده",
+          "date": 1774813444,
+          "name:en": "Military Assembly",
+          "description:en": "A place where military forces gathered and suppression occurred at Imamzadeh"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-29T19:44:04.262Z",
+        "updatedAt": "2026-04-02T07:58:11.327Z",
+        "name:en": "Military Assembly",
+        "description:en": "A place where military forces gathered and suppression occurred at Imamzadeh"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92805,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.336608873107565,
+          35.77235095314035
+        ]
+      },
+      "properties": {
+        "name:fa": "استقرار سپاه",
+        "description": "دقیقا همان نیرو های تروریستی سپاه که ابتدای اتوبان اشرفی مستقر هستند ساعاتی از شبانه روز در این ناحیه مستقر هستند تا احتمال کتلت شدنشون کمتر باشه با تغییر لوکیشن",
+        "date": 1774000534,
+        "id": "MzY6NThiOWJmYmQxYzI4",
+        "publicId": "MzY6NThiOWJmYmQxYzI4",
+        "sourceId": "58b9bfbd1c28",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "استقرار سپاه",
+          "description": "دقیقا همان نیرو های تروریستی سپاه که ابتدای اتوبان اشرفی مستقر هستند ساعاتی از شبانه روز در این ناحیه مستقر هستند تا احتمال کتلت شدنشون کمتر باشه با تغییر لوکیشن",
+          "date": 1774000534,
+          "name:en": "IRGC Deployment",
+          "description:en": "Exactly the same IRGC terrorist forces that are stationed at the beginning of Ashrafi Highway are deployed in this area for certain hours of the day and night in order to reduce the likelihood of them being killed, by changing their location."
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-20T09:55:34.790Z",
+        "updatedAt": "2026-04-02T07:58:11.329Z",
+        "name:en": "IRGC Deployment",
+        "description:en": "Exactly the same IRGC terrorist forces that are stationed at the beginning of Ashrafi Highway are deployed in this area for certain hours of the day and night in order to reduce the likelihood of them being killed, by changing their location."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92806,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.411462,
+          37.478997
+        ]
+      },
+      "properties": {
+        "name:fa": "اسکان سپاه",
+        "description": "محل اسکان نیروهای سپاه پاسداران",
+        "date": 1773046201,
+        "id": "MzY6MzUwMDQyNTMxNDgx",
+        "publicId": "MzY6MzUwMDQyNTMxNDgx",
+        "sourceId": "350042531481",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اسکان سپاه",
+          "description": "محل اسکان نیروهای سپاه پاسداران",
+          "date": 1773046201,
+          "name:en": "Sepah Housing",
+          "description:en": "Housing place for the forces of Islamic Revolutionary Guard Corps"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-09T08:50:01.454Z",
+        "updatedAt": "2026-04-02T07:58:11.330Z",
+        "name:en": "Sepah Housing",
+        "description:en": "Housing place for the forces of Islamic Revolutionary Guard Corps"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92807,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.337532854936995,
+          35.34209578641365
+        ]
+      },
+      "properties": {
+        "name:fa": "اختفای سپاه قدس",
+        "description": "محل اختفای ۳ عدد از ماموران سپاه قدس",
+        "date": 1772940744,
+        "id": "MzY6ODgwNWZhYjlhNjEx",
+        "publicId": "MzY6ODgwNWZhYjlhNjEx",
+        "sourceId": "8805fab9a611",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اختفای سپاه قدس",
+          "description": "محل اختفای ۳ عدد از ماموران سپاه قدس",
+          "date": 1772940744,
+          "name:en": "Quds Force Hideout",
+          "description:en": "Hideout location of 3 members of the Quds Force"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-08T03:32:24.805Z",
+        "updatedAt": "2026-04-02T07:58:11.332Z",
+        "name:en": "Quds Force Hideout",
+        "description:en": "Hideout location of 3 members of the Quds Force"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92808,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.83600697599141,
+          35.69074617571813
+        ]
+      },
+      "properties": {
+        "name:fa": "استقرار نظامی",
+        "description": "فرهنگسرای صفادشت که الان نیروهای نظامی تو‌ این مناطق هستند.",
+        "date": 1772840101,
+        "id": "MzY6MmZjNjBjOWUxYTFh",
+        "publicId": "MzY6MmZjNjBjOWUxYTFh",
+        "sourceId": "2fc60c9e1a1a",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "استقرار نظامی",
+          "description": "فرهنگسرای صفادشت که الان نیروهای نظامی تو‌ این مناطق هستند.",
+          "date": 1772840101,
+          "name:en": "Military Settlement",
+          "description:en": "Safadasht Cultural Center where military forces are currently stationed in this area."
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-06T23:35:01.078Z",
+        "updatedAt": "2026-04-02T07:58:11.334Z",
+        "name:en": "Military Settlement",
+        "description:en": "Safadasht Cultural Center where military forces are currently stationed in this area."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92809,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.028618834681,
+          37.207630747853486
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج کنار مدرسه",
+        "description": "مدرسه ی دخترانه در کنار گردان امام حسین و بسیج",
+        "date": 1775069703,
+        "id": "MzY6MzM0ZDgxZTI1N2Mx",
+        "publicId": "MzY6MzM0ZDgxZTI1N2Mx",
+        "sourceId": "334d81e257c1",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "بسیج کنار مدرسه",
+          "description": "مدرسه ی دخترانه در کنار گردان امام حسین و بسیج",
+          "date": 1775069703,
+          "name:en": "Basij Near School",
+          "description:en": "A girls' school located near Imam Hossein Squadron and Basij"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-01T18:55:03.119Z",
+        "updatedAt": "2026-04-02T07:58:11.335Z",
+        "name:en": "Basij Near School",
+        "description:en": "A girls' school located near Imam Hossein Squadron and Basij"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92816,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.06331852130003,
+          37.5598641408329
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای سرکوب",
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "date": "",
+        "description": "قرارگاه فاطمیه خیابون بروجردی رو بستن همشون اینجان",
+        "sources": "",
+        "id": "MzY6MDUwYmFkODRmNjU1",
+        "publicId": "MzY6MDUwYmFkODRmNjU1",
+        "sourceId": "050bad84f655",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تجمع نیروهای سرکوب",
+          "city": "ارومیه",
+          "province": "استان آذربایجان غربی",
+          "date": "",
+          "description": "قرارگاه فاطمیه خیابون بروجردی رو بستن همشون اینجان",
+          "sources": "",
+          "name:en": "Suppression Forces Assembly",
+          "description:en": "Fatimiyeh Base on Brojerdi Street, they closed all of them, they are all here"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T11:22:57.533Z",
+        "updatedAt": "2026-04-02T11:22:57.533Z",
+        "name:en": "Suppression Forces Assembly",
+        "description:en": "Fatimiyeh Base on Brojerdi Street, they closed all of them, they are all here"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92824,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.929857396973006,
+          35.81440077673477
+        ]
+      },
+      "properties": {
+        "name:fa": "بهنوش",
+        "city": "کرج",
+        "province": "استان البرز",
+        "date": "",
+        "description": "اینجا سردخانه بهنوش هست که الان با مهمات پرش کردن مردم اغلب فهمیدن و ترسیدن",
+        "sources": "",
+        "id": "MzY6YzhmNTgwNWRmOTRm",
+        "publicId": "MzY6YzhmNTgwNWRmOTRm",
+        "sourceId": "c8f5805df94f",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "بهنوش",
+          "city": "کرج",
+          "province": "استان البرز",
+          "date": "",
+          "description": "اینجا سردخانه بهنوش هست که الان با مهمات پرش کردن مردم اغلب فهمیدن و ترسیدن",
+          "sources": "",
+          "name:en": "Bahnush",
+          "description:en": "This is the Bahnush cold storage facility which is now filled with ammunition, and people mostly understood and became frightened"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T12:29:21.247Z",
+        "updatedAt": "2026-04-02T12:29:21.247Z",
+        "name:en": "Bahnush",
+        "description:en": "This is the Bahnush cold storage facility which is now filled with ammunition, and people mostly understood and became frightened"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92842,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.201239166329685,
+          36.22135096629171
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "شهرستان خرمدره",
+        "province": "استان زنجان",
+        "date": "",
+        "description": "",
+        "sources": "",
+        "id": "MzY6YzY0ZjFmMzM1ZTg5",
+        "publicId": "MzY6YzY0ZjFmMzM1ZTg5",
+        "sourceId": "c64f1f335e89",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "city": "شهرستان خرمدره",
+          "province": "استان زنجان",
+          "date": "",
+          "description": "",
+          "sources": "",
+          "name:en": "Inspection Station",
+          "description:en": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T13:29:59.681Z",
+        "updatedAt": "2026-04-02T13:29:59.681Z",
+        "name:en": "Inspection Station",
+        "description:en": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92843,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.21569793346083,
+          36.14563871410144
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع سرکوبگران",
+        "city": "ابهر",
+        "province": "استان زنجان",
+        "date": "",
+        "description": "حسینیه سپاه پاسداران",
+        "sources": "",
+        "id": "MzY6ZjhmYjc2NjU5NzVh",
+        "publicId": "MzY6ZjhmYjc2NjU5NzVh",
+        "sourceId": "f8fb7665975a",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تجمع سرکوبگران",
+          "city": "ابهر",
+          "province": "استان زنجان",
+          "date": "",
+          "description": "حسینیه سپاه پاسداران",
+          "sources": "",
+          "name:en": "Tajammoe Sarkobgaran",
+          "description:en": "Husseiniyeh Sepah Pasdaran"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T13:31:51.244Z",
+        "updatedAt": "2026-04-02T13:31:51.244Z",
+        "name:en": "Tajammoe Sarkobgaran",
+        "description:en": "Husseiniyeh Sepah Pasdaran"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92846,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.19233637535956,
+          36.143200065089616
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "ابهر",
+        "province": "استان زنجان",
+        "date": "",
+        "description": "ایست بازرسی",
+        "sources": "",
+        "id": "MzY6NTllNDZlYWQwMjRk",
+        "publicId": "MzY6NTllNDZlYWQwMjRk",
+        "sourceId": "59e46ead024d",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "city": "ابهر",
+          "province": "استان زنجان",
+          "date": "",
+          "description": "ایست بازرسی",
+          "sources": "",
+          "name:en": "Inspection Station",
+          "description:en": "Inspection Station"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T13:34:53.657Z",
+        "updatedAt": "2026-04-02T13:34:53.657Z",
+        "name:en": "Inspection Station",
+        "description:en": "Inspection Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92847,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.020535566653905,
+          37.20645815559433
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "لاهيجان",
+        "province": "استان گیلان",
+        "date": "",
+        "description": "",
+        "sources": "",
+        "id": "MzY6MDMxOTY2YzU4YTVi",
+        "publicId": "MzY6MDMxOTY2YzU4YTVi",
+        "sourceId": "031966c58a5b",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "city": "لاهيجان",
+          "province": "استان گیلان",
+          "date": "",
+          "description": "",
+          "sources": "",
+          "name:en": "Checkpoint",
+          "description:en": "An inspection checkpoint or control point used for monitoring and verification purposes."
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T18:16:39.705Z",
+        "updatedAt": "2026-04-02T18:16:39.705Z",
+        "name:en": "Checkpoint",
+        "description:en": "An inspection checkpoint or control point used for monitoring and verification purposes."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92848,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.017268429668434,
+          37.20422284604729
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "لاهيجان",
+        "province": "استان گیلان",
+        "date": "",
+        "description": "",
+        "sources": "",
+        "id": "MzY6OWVjNTk5MGUwYjA2",
+        "publicId": "MzY6OWVjNTk5MGUwYjA2",
+        "sourceId": "9ec5990e0b06",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "city": "لاهيجان",
+          "province": "استان گیلان",
+          "date": "",
+          "description": "",
+          "sources": "",
+          "name:en": "Inspection Station",
+          "description:en": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T18:18:31.226Z",
+        "updatedAt": "2026-04-02T18:18:31.226Z",
+        "name:en": "Inspection Station",
+        "description:en": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92849,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.008956308929356,
+          37.20579989662549
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "لاهيجان",
+        "province": "استان گیلان",
+        "date": "",
+        "description": "ایست بازرسی افراد لباس شخصی ( مسلح )",
+        "sources": "",
+        "id": "MzY6NmFjNjRjZDM2MDUy",
+        "publicId": "MzY6NmFjNjRjZDM2MDUy",
+        "sourceId": "6ac64cd36052",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "city": "لاهيجان",
+          "province": "استان گیلان",
+          "date": "",
+          "description": "ایست بازرسی افراد لباس شخصی ( مسلح )",
+          "sources": "",
+          "name:en": "Checkpoint",
+          "description:en": "Checkpoint for inspecting individuals in civilian clothes (armed)"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T18:20:23.724Z",
+        "updatedAt": "2026-04-02T18:20:23.724Z",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint for inspecting individuals in civilian clothes (armed)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92850,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.030126564418595,
+          37.20607978969019
+        ]
+      },
+      "properties": {
+        "name:fa": "نگهداری مهمات",
+        "city": "لاهيجان",
+        "province": "استان گیلان",
+        "date": "",
+        "description": "محل نگهداری مهمات و جعبه های غیر قابل شناسایی",
+        "sources": "",
+        "id": "MzY6ZGRjYmY3M2Q2ZmYw",
+        "publicId": "MzY6ZGRjYmY3M2Q2ZmYw",
+        "sourceId": "ddcbf73d6ff0",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "نگهداری مهمات",
+          "city": "لاهيجان",
+          "province": "استان گیلان",
+          "date": "",
+          "description": "محل نگهداری مهمات و جعبه های غیر قابل شناسایی",
+          "sources": "",
+          "name:en": "Ammunition Storage",
+          "description:en": "A place for storing ammunition and unidentifiable boxes"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T18:23:06.301Z",
+        "updatedAt": "2026-04-02T18:23:06.301Z",
+        "name:en": "Ammunition Storage",
+        "description:en": "A place for storing ammunition and unidentifiable boxes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92851,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.03855579407946,
+          37.204765741846174
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "لاهيجان",
+        "province": "استان گیلان",
+        "date": "",
+        "description": "ایست بازرسی افرادی لباس شخصی با ماسک ( مسلح )",
+        "sources": "",
+        "id": "MzY6MmFmNjFhYTdmNzg1",
+        "publicId": "MzY6MmFmNjFhYTdmNzg1",
+        "sourceId": "2af61aa7f785",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "city": "لاهيجان",
+          "province": "استان گیلان",
+          "date": "",
+          "description": "ایست بازرسی افرادی لباس شخصی با ماسک ( مسلح )",
+          "sources": "",
+          "name:en": "Inspection Checkpoint",
+          "description:en": "Inspection checkpoint with personnel in civilian clothes with masks (armed)"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T18:25:56.658Z",
+        "updatedAt": "2026-04-02T18:25:56.658Z",
+        "name:en": "Inspection Checkpoint",
+        "description:en": "Inspection checkpoint with personnel in civilian clothes with masks (armed)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92852,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.96171430326868,
+          30.25002468740837
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "کرمان",
+        "province": "استان کرمان",
+        "date": "",
+        "description": "محل ایست و بازرسی با احتیاط عبور کنید",
+        "sources": "",
+        "id": "MzY6YmVjYzkwZWRjZDc0",
+        "publicId": "MzY6YmVjYzkwZWRjZDc0",
+        "sourceId": "becc90edcd74",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "city": "کرمان",
+          "province": "استان کرمان",
+          "date": "",
+          "description": "محل ایست و بازرسی با احتیاط عبور کنید",
+          "sources": "",
+          "name:en": "Checkpoint",
+          "description:en": "Inspection station; pass with caution"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T18:28:54.994Z",
+        "updatedAt": "2026-04-02T18:28:54.994Z",
+        "name:en": "Checkpoint",
+        "description:en": "Inspection station; pass with caution"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92855,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.52703909056814,
+          36.29958777143665
+        ]
+      },
+      "properties": {
+        "name:fa": "مجتمع رفاهی آموزشی نورالرضا",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "date": "",
+        "description": " برگزاری جلسات و هتل نیروی مسلح",
+        "sources": "",
+        "id": "MzY6M2Q0ZWQ5OTU5Y2U2",
+        "publicId": "MzY6M2Q0ZWQ5OTU5Y2U2",
+        "sourceId": "3d4ed9959ce6",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مجتمع رفاهی آموزشی نورالرضا",
+          "city": "مشهد",
+          "province": "استان خراسان رضوی",
+          "date": "",
+          "description": " برگزاری جلسات و هتل نیروی مسلح",
+          "sources": "",
+          "name:en": "Noor Al-Reza Educational Welfare Complex",
+          "description:en": "Holding of sessions and armed forces hotel"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T18:33:09.183Z",
+        "updatedAt": "2026-04-02T18:33:09.183Z",
+        "name:en": "Noor Al-Reza Educational Welfare Complex",
+        "description:en": "Holding of sessions and armed forces hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92856,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.20082655282499,
+          36.20284464899369
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند هوایی",
+        "city": "خرمدره",
+        "province": "استان زنجان",
+        "date": "",
+        "description": "",
+        "sources": "",
+        "id": "MzY6OWRhZjM4YzRlMzE5",
+        "publicId": "MzY6OWRhZjM4YzRlMzE5",
+        "sourceId": "9daf38c4e319",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پدافند هوایی",
+          "city": "خرمدره",
+          "province": "استان زنجان",
+          "date": "",
+          "description": "",
+          "sources": "",
+          "name:en": "Air Defense",
+          "description:en": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T18:57:27.154Z",
+        "updatedAt": "2026-04-02T18:57:27.154Z",
+        "name:en": "Air Defense",
+        "description:en": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92858,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.578953498361045,
+          35.73080299933555
+        ]
+      },
+      "properties": {
+        "name:fa": "محل نگهداری تجهیزات",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1773414164,
+        "description": "محل نگهداری تجهیزات",
+        "sources": "",
+        "id": "MzY6MmJmNzVjOWRlYjE4",
+        "publicId": "MzY6MmJmNzVjOWRlYjE4",
+        "sourceId": "2bf75c9deb18",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "محل نگهداری تجهیزات",
+          "city": "تهران",
+          "province": "استان تهران",
+          "date": 1773414164,
+          "description": "محل نگهداری تجهیزات",
+          "sources": "",
+          "name:en": "Equipment Storage Facility",
+          "description:en": "Equipment storage facility"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T20:22:35.762Z",
+        "updatedAt": "2026-04-02T20:22:35.762Z",
+        "name:en": "Equipment Storage Facility",
+        "description:en": "Equipment storage facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92859,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.38429480553367,
+          35.68779582230751
+        ]
+      },
+      "properties": {
+        "name:fa": "پارکینگ ادوات موتوری نیروها",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1773132196,
+        "description": "پارکینگ ادوات موتوری نیروها",
+        "sources": "",
+        "id": "MzY6OTZkNWM4Yzk3OTQw",
+        "publicId": "MzY6OTZkNWM4Yzk3OTQw",
+        "sourceId": "96d5c8c97940",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پارکینگ ادوات موتوری نیروها",
+          "city": "تهران",
+          "province": "استان تهران",
+          "date": 1773132196,
+          "description": "پارکینگ ادوات موتوری نیروها",
+          "sources": "",
+          "name:en": "Armed Forces Motor Vehicles Parking",
+          "description:en": "Armed Forces Motor Vehicles Parking"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T20:28:34.640Z",
+        "updatedAt": "2026-04-02T20:28:34.640Z",
+        "name:en": "Armed Forces Motor Vehicles Parking",
+        "description:en": "Armed Forces Motor Vehicles Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92860,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.71630836068414,
+          31.347296987000163
+        ]
+      },
+      "properties": {
+        "name:fa": "زیر زمین وسیع",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "date": 1772310730,
+        "description": "اینجا و اطراف این نقطه زیر زمین وسیع دارد.",
+        "sources": "",
+        "id": "MzY6OWMyMjc4MTY4ZmY0",
+        "publicId": "MzY6OWMyMjc4MTY4ZmY0",
+        "sourceId": "9c2278168ff4",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "زیر زمین وسیع",
+          "city": "اهواز",
+          "province": "استان خوزستان",
+          "date": 1772310730,
+          "description": "اینجا و اطراف این نقطه زیر زمین وسیع دارد.",
+          "sources": "",
+          "name:en": "Extensive Underground",
+          "description:en": "This place and the surrounding area have extensive underground space."
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T20:32:57.073Z",
+        "updatedAt": "2026-04-02T20:32:57.073Z",
+        "name:en": "Extensive Underground",
+        "description:en": "This place and the surrounding area have extensive underground space."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92864,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.66411338519737,
+          31.32175864368189
+        ]
+      },
+      "properties": {
+        "name:fa": "مکان اجاره شده وزارت اطلاعات",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "date": 1775121650,
+        "description": "مکان اجاره شده توسط وزارت اطلاعات و در‌اینجا‌ انبار اسحله و خوابگاه درست کرده اند",
+        "sources": "",
+        "id": "MzY6ZjI5NTkxZThhMzNl",
+        "publicId": "MzY6ZjI5NTkxZThhMzNl",
+        "sourceId": "f29591e8a33e",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مکان اجاره شده وزارت اطلاعات",
+          "city": "اهواز",
+          "province": "استان خوزستان",
+          "date": 1775121650,
+          "description": "مکان اجاره شده توسط وزارت اطلاعات و در‌اینجا‌ انبار اسحله و خوابگاه درست کرده اند",
+          "sources": "",
+          "name:en": "Rented Location of the Ministry of Intelligence",
+          "description:en": "A rented location by the Ministry of Intelligence where they have established an ammunition storage facility and dormitory"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T22:00:25.977Z",
+        "updatedAt": "2026-04-02T22:00:25.977Z",
+        "name:en": "Rented Location of the Ministry of Intelligence",
+        "description:en": "A rented location by the Ministry of Intelligence where they have established an ammunition storage facility and dormitory"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92865,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.451272546659624,
+          35.75663596261998
+        ]
+      },
+      "properties": {
+        "name:fa": "خانه امن در گلنبی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1774955038,
+        "description": "خانه امن در گلنبی - حوالی ساعت ۴ روز ۱۱ اسفند",
+        "sources": "",
+        "id": "MzY6NzgwYzZhYjVmYzFl",
+        "publicId": "MzY6NzgwYzZhYjVmYzFl",
+        "sourceId": "780c6ab5fc1e",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "خانه امن در گلنبی",
+          "city": "تهران",
+          "province": "استان تهران",
+          "date": 1774955038,
+          "description": "خانه امن در گلنبی - حوالی ساعت ۴ روز ۱۱ اسفند",
+          "sources": "",
+          "name:en": "Safe House in Golnabi",
+          "description:en": "Safe House in Golnabi - around 4 o'clock on the 11th day of Esfand"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T22:08:15.670Z",
+        "updatedAt": "2026-04-02T22:08:15.670Z",
+        "name:en": "Safe House in Golnabi",
+        "description:en": "Safe House in Golnabi - around 4 o'clock on the 11th day of Esfand"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92866,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.75346822809806,
+          31.312421357925857
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "date": 1775076959,
+        "description": "خانه امن سپاه احتمالا محل برگزاری جلسه است. یک دوربین با پایه ۲ متری دارد و سقف پوشیده است. خانه بچه خواهر رئیس امور مالیاتی خوزستان است و ملک دیگرش در مسجد سلیمان هدف قرار گرفت.",
+        "sources": "",
+        "id": "MzY6NzZmMzgzNWE5YWRm",
+        "publicId": "MzY6NzZmMzgzNWE5YWRm",
+        "sourceId": "76f3835a9adf",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "",
+          "city": "اهواز",
+          "province": "استان خوزستان",
+          "date": 1775076959,
+          "description": "خانه امن سپاه احتمالا محل برگزاری جلسه است. یک دوربین با پایه ۲ متری دارد و سقف پوشیده است. خانه بچه خواهر رئیس امور مالیاتی خوزستان است و ملک دیگرش در مسجد سلیمان هدف قرار گرفت.",
+          "sources": "",
+          "name:en": "Safe House of Sepah",
+          "description:en": "A safe house of Sepah, likely a meeting venue. It has a camera with a 2-meter stand and a covered roof. The house belongs to the child of the sister of the head of tax affairs in Khuzestan, and another property of his in Masjed Soleiman was targeted."
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T22:18:52.183Z",
+        "updatedAt": "2026-04-02T22:18:52.183Z",
+        "name:en": "Safe House of Sepah",
+        "description:en": "A safe house of Sepah, likely a meeting venue. It has a camera with a 2-meter stand and a covered roof. The house belongs to the child of the sister of the head of tax affairs in Khuzestan, and another property of his in Masjed Soleiman was targeted."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92868,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.31351089414133,
+          27.646851227991547
+        ]
+      },
+      "properties": {
+        "name:fa": "انبار نفت لارستان",
+        "city": "لار",
+        "province": "استان فارس",
+        "date": 1775163252,
+        "description": "انبار نفت لارستان",
+        "sources": "",
+        "id": "MzY6MzE3MGE0Mzg2MDg4",
+        "publicId": "MzY6MzE3MGE0Mzg2MDg4",
+        "sourceId": "3170a4386088",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "انبار نفت لارستان",
+          "city": "لار",
+          "province": "استان فارس",
+          "date": 1775163252,
+          "description": "انبار نفت لارستان",
+          "sources": "",
+          "name:en": "Larestan Oil Storage",
+          "description:en": "Larestan Oil Storage"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T22:22:17.570Z",
+        "updatedAt": "2026-04-02T22:22:17.570Z",
+        "name:en": "Larestan Oil Storage",
+        "description:en": "Larestan Oil Storage"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92869,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.427356201555966,
+          36.55698454776834
+        ]
+      },
+      "properties": {
+        "name:fa": "رادار زنجان",
+        "city": "شهرستان زنجان",
+        "province": "استان زنجان",
+        "date": 1775137588,
+        "description": "رادارتلویزیونی،مخابراتی بایندور،بیسیم ادارات مراکز نظامی و اطلاعاتی شهر زنجان",
+        "sources": "",
+        "id": "MzY6NzE2M2U4YTFhZTEx",
+        "publicId": "MzY6NzE2M2U4YTFhZTEx",
+        "sourceId": "7163e8a1ae11",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "رادار زنجان",
+          "city": "شهرستان زنجان",
+          "province": "استان زنجان",
+          "date": 1775137588,
+          "description": "رادارتلویزیونی،مخابراتی بایندور،بیسیم ادارات مراکز نظامی و اطلاعاتی شهر زنجان",
+          "sources": "",
+          "name:en": "Zanjan Radar",
+          "description:en": "Television and communication radar facility with indoor wireless systems for military and intelligence centers in Zanjan city"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T22:29:19.688Z",
+        "updatedAt": "2026-04-02T22:29:19.688Z",
+        "name:en": "Zanjan Radar",
+        "description:en": "Television and communication radar facility with indoor wireless systems for military and intelligence centers in Zanjan city"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92870,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.02831511384551,
+          37.20795921942914
+        ]
+      },
+      "properties": {
+        "name:fa": "مدرسه پسرانه آیت الله رئیسی",
+        "city": "لاهيجان",
+        "province": "استان گیلان",
+        "date": 1775161591,
+        "description": "مدرسه پسرانه آیت الله رئیسی، کنار مسجد ابوالفضل: تجمع قاتلان حکومتی",
+        "sources": "",
+        "id": "MzY6ZmFmMmY3NDRhZGI5",
+        "publicId": "MzY6ZmFmMmY3NDRhZGI5",
+        "sourceId": "faf2f744adb9",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مدرسه پسرانه آیت الله رئیسی",
+          "city": "لاهيجان",
+          "province": "استان گیلان",
+          "date": 1775161591,
+          "description": "مدرسه پسرانه آیت الله رئیسی، کنار مسجد ابوالفضل: تجمع قاتلان حکومتی",
+          "sources": "",
+          "name:en": "Ayatollah Raisi Boys School",
+          "description:en": "Ayatollah Raisi Boys School, next to Abu Al-Fadl Mosque: gathering place of government assassins"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T22:33:53.167Z",
+        "updatedAt": "2026-04-02T22:33:53.167Z",
+        "name:en": "Ayatollah Raisi Boys School",
+        "description:en": "Ayatollah Raisi Boys School, next to Abu Al-Fadl Mosque: gathering place of government assassins"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92873,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.02862723798495,
+          37.20763296001837
+        ]
+      },
+      "properties": {
+        "name:fa": "مدرسه علامه طباطبایی و پایگاه بسیج",
+        "city": "لاهيجان",
+        "province": "استان گیلان",
+        "date": 1775161318,
+        "description": "مدرسه ی دخترانه علامه طباطبایی در کنار پایگاه مقاومت بسیج و گردان امام حصین",
+        "sources": "",
+        "id": "MzY6Zjk1MTkyMTUzOGJl",
+        "publicId": "MzY6Zjk1MTkyMTUzOGJl",
+        "sourceId": "f951921538be",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مدرسه علامه طباطبایی و پایگاه بسیج",
+          "city": "لاهيجان",
+          "province": "استان گیلان",
+          "date": 1775161318,
+          "description": "مدرسه ی دخترانه علامه طباطبایی در کنار پایگاه مقاومت بسیج و گردان امام حصین",
+          "sources": "",
+          "name:en": "Allama Tabatabai School and Basij Base",
+          "description:en": "Allama Tabatabai girls school alongside the Basij resistance base and Imam Hossein battalion"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T22:38:09.569Z",
+        "updatedAt": "2026-04-02T22:38:09.569Z",
+        "name:en": "Allama Tabatabai School and Basij Base",
+        "description:en": "Allama Tabatabai girls school alongside the Basij resistance base and Imam Hossein battalion"
+      }
     }
   ],
   "metadata": {
-    "total": 442,
+    "total": 482,
     "layerId": 36,
     "clustered": false,
     "simplified": false
