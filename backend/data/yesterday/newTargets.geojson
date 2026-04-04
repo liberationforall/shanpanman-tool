@@ -23516,6 +23516,44 @@
     },
     {
       "type": "Feature",
+      "id": 92562,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.383815237063914,
+          35.789826501561734
+        ]
+      },
+      "properties": {
+        "name:fa": "ساختمان روبروی پرس تی وی",
+        "description": "خیابان دوم شرقی بلوار ۲۴ متری ساختمان روبروی پرس تی وی",
+        "date": 1774770352,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzI6ODBhNTk4ZTNiYTNj",
+        "publicId": "MzI6ODBhNTk4ZTNiYTNj",
+        "sourceId": "80a598e3ba3c",
+        "layerId": 32,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ساختمان روبروی پرس تی وی",
+          "description": "خیابان دوم شرقی بلوار ۲۴ متری ساختمان روبروی پرس تی وی",
+          "date": 1774770352,
+          "city": "تهران",
+          "province": "استان تهران",
+          "name:en": "Building Opposite Press TV"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-29T07:45:52.198Z",
+        "updatedAt": "2026-04-02T13:14:18.628Z",
+        "name:en": "Building Opposite Press TV"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 92700,
       "geometry": {
         "type": "Point",
@@ -24548,10 +24586,1086 @@
         "updatedAt": "2026-04-01T15:13:08.549Z",
         "name:en": "Dabestan Street"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 92810,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.338975559597316,
+          27.207596216077704
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "date": 1774492200,
+        "geolocates": "",
+        "description": "",
+        "city": "بندر عباس",
+        "province": "استان هرمزگان",
+        "sources": "https://x.com/hey_itsmyturn/status/2037036387648622629?s=20",
+        "id": "MzI6ZDUyOGM4Y2NjYjA4",
+        "publicId": "MzI6ZDUyOGM4Y2NjYjA4",
+        "sourceId": "d528c8cccb08",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "",
+          "unofficial_name:fa": "",
+          "date": 1774492200,
+          "geolocates": "",
+          "description": "",
+          "city": "بندر عباس",
+          "province": "استان هرمزگان",
+          "sources": "https://x.com/hey_itsmyturn/status/2037036387648622629?s=20"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T11:08:00.413Z",
+        "updatedAt": "2026-04-02T11:08:00.413Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92812,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5550544859849,
+          32.2596534105644
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "سپاه فارسان",
+        "unofficial_name:fa": "",
+        "date": 1774600200,
+        "geolocates": "",
+        "description": "",
+        "city": "فارسان",
+        "province": "استان چهارمحال و بختیاری",
+        "sources": "https://www.instagram.com/reels/DWjGU3Bj8yJ/",
+        "id": "MzI6OTg0Y2I2ZTY3NjI1",
+        "publicId": "MzI6OTg0Y2I2ZTY3NjI1",
+        "sourceId": "984cb6e67625",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "سپاه فارسان",
+          "unofficial_name:fa": "",
+          "date": 1774600200,
+          "geolocates": "",
+          "description": "",
+          "city": "فارسان",
+          "province": "استان چهارمحال و بختیاری",
+          "sources": "https://www.instagram.com/reels/DWjGU3Bj8yJ/",
+          "name:en": "Sepah Farsan"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T11:12:29.628Z",
+        "updatedAt": "2026-04-02T11:12:29.628Z",
+        "name:en": "Sepah Farsan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92813,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.42452565389047,
+          32.996441729143726
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "date": 1772808600,
+        "geolocates": "",
+        "description": "در تاریخ ۱۵ اسفند ساعت ۱۸:۲۰ الی ۱۸:۳۰ مورد اثابت ۴ تا موشک قرار گرفت.پایگاه سپاه که مهمات در آن و محل استقرار شبانه نیروهای بسیج و یگان ویژه آبدانان بوده",
+        "city": "آبدانان",
+        "province": "استان ایلام",
+        "sources": "",
+        "id": "MzI6ODc4ZjkzZjBmMzhm",
+        "publicId": "MzI6ODc4ZjkzZjBmMzhm",
+        "sourceId": "878f93f0f38f",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "",
+          "unofficial_name:fa": "",
+          "date": 1772808600,
+          "geolocates": "",
+          "description": "در تاریخ ۱۵ اسفند ساعت ۱۸:۲۰ الی ۱۸:۳۰ مورد اثابت ۴ تا موشک قرار گرفت.پایگاه سپاه که مهمات در آن و محل استقرار شبانه نیروهای بسیج و یگان ویژه آبدانان بوده",
+          "city": "آبدانان",
+          "province": "استان ایلام",
+          "sources": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T11:13:23.181Z",
+        "updatedAt": "2026-04-02T11:13:23.181Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92814,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.58869657244392,
+          34.76036025356072
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "سوله جهاد کشاورزی",
+        "unofficial_name:fa": "",
+        "date": 1773799200,
+        "geolocates": "",
+        "description": "سوله انبار جهاد کشاورزی، 18 مارچ تقریبا 5:30 صبح اصابت 2 بمب",
+        "city": "سنقر",
+        "province": "استان کرمانشاه",
+        "sources": "",
+        "id": "MzI6MTc5OTFjOTdjNDRj",
+        "publicId": "MzI6MTc5OTFjOTdjNDRj",
+        "sourceId": "17991c97c44c",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "سوله جهاد کشاورزی",
+          "unofficial_name:fa": "",
+          "date": 1773799200,
+          "geolocates": "",
+          "description": "سوله انبار جهاد کشاورزی، 18 مارچ تقریبا 5:30 صبح اصابت 2 بمب",
+          "city": "سنقر",
+          "province": "استان کرمانشاه",
+          "sources": "",
+          "name:en": "Jihad Agriculture Warehouse"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T11:20:09.407Z",
+        "updatedAt": "2026-04-02T11:20:09.407Z",
+        "name:en": "Jihad Agriculture Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92815,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.59665441459833,
+          34.77500034817302
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "سپاه سنقر",
+        "unofficial_name:fa": "",
+        "date": 1772700600,
+        "geolocates": "",
+        "description": "5 مارچ ساعت 12:20 ظهر، سپاه سنقر مورد اصابت قرار گرفت",
+        "city": "سنقر",
+        "province": "استان کرمانشاه",
+        "sources": "https://www.iranintl.com/202603058745",
+        "id": "MzI6OGEzZThkYzg3Nzll",
+        "publicId": "MzI6OGEzZThkYzg3Nzll",
+        "sourceId": "8a3e8dc8779e",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "سپاه سنقر",
+          "unofficial_name:fa": "",
+          "date": 1772700600,
+          "geolocates": "",
+          "description": "5 مارچ ساعت 12:20 ظهر، سپاه سنقر مورد اصابت قرار گرفت",
+          "city": "سنقر",
+          "province": "استان کرمانشاه",
+          "sources": "https://www.iranintl.com/202603058745",
+          "name:en": "Sepah Sangar"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T11:21:40.845Z",
+        "updatedAt": "2026-04-02T11:21:40.845Z",
+        "name:en": "Sepah Sangar"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92817,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.36277810523677,
+          37.787817172410215
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "مخابرات پل ارومیه تبریز",
+        "unofficial_name:fa": "",
+        "date": 1775032200,
+        "geolocates": "",
+        "description": "زیر ساخت مخابرات پل ارومیه تبریز مورد هدف اصلی",
+        "city": "",
+        "province": "",
+        "sources": "",
+        "id": "MzI6ZDkyYzc1Mjc1YTkw",
+        "publicId": "MzI6ZDkyYzc1Mjc1YTkw",
+        "sourceId": "d92c75275a90",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "مخابرات پل ارومیه تبریز",
+          "unofficial_name:fa": "",
+          "date": 1775032200,
+          "geolocates": "",
+          "description": "زیر ساخت مخابرات پل ارومیه تبریز مورد هدف اصلی",
+          "city": "",
+          "province": "",
+          "sources": "",
+          "name:en": "Urmia Bridge Communications Tabriz"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T11:24:52.425Z",
+        "updatedAt": "2026-04-02T11:24:52.425Z",
+        "name:en": "Urmia Bridge Communications Tabriz"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92818,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.197848818674885,
+          37.47899235900172
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "باطری سازی آذر باطری",
+        "unofficial_name:fa": "",
+        "date": 1772591400,
+        "geolocates": "",
+        "description": "باطری سازی آذر باطری صبح حدود ۶ چهارشنبه",
+        "city": "شهرستان ارومیه",
+        "province": "استان آذربایجان غربی",
+        "sources": "",
+        "id": "MzI6NjA4Y2NkZDU4ODEy",
+        "publicId": "MzI6NjA4Y2NkZDU4ODEy",
+        "sourceId": "608ccdd58812",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "باطری سازی آذر باطری",
+          "unofficial_name:fa": "",
+          "date": 1772591400,
+          "geolocates": "",
+          "description": "باطری سازی آذر باطری صبح حدود ۶ چهارشنبه",
+          "city": "شهرستان ارومیه",
+          "province": "استان آذربایجان غربی",
+          "sources": "",
+          "name:en": "Azar Battery Factory"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T11:26:16.722Z",
+        "updatedAt": "2026-04-02T11:26:16.722Z",
+        "name:en": "Azar Battery Factory"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92819,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.28879531599554,
+          36.23113493296022
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "کلانتری بهارستان",
+        "unofficial_name:fa": "",
+        "date": 1774686600,
+        "geolocates": "",
+        "description": "",
+        "city": "سقز",
+        "province": "استان کردستان",
+        "sources": "",
+        "id": "MzI6M2NiYjMwZDM4NjZj",
+        "publicId": "MzI6M2NiYjMwZDM4NjZj",
+        "sourceId": "3cbb30d3866c",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "کلانتری بهارستان",
+          "unofficial_name:fa": "",
+          "date": 1774686600,
+          "geolocates": "",
+          "description": "",
+          "city": "سقز",
+          "province": "استان کردستان",
+          "sources": "",
+          "name:en": "Baharestan Police Station"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T11:28:15.747Z",
+        "updatedAt": "2026-04-02T11:28:15.747Z",
+        "name:en": "Baharestan Police Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92821,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.47674645834505,
+          36.66468160774426
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "حسینیه زنجان",
+        "unofficial_name:fa": "",
+        "date": 1774920600,
+        "geolocates": "",
+        "description": "حمله موشکی به ساختمان حسینه زنجان ۱۱ فروردین ساعت ۵صبح",
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "sources": "https://x.com/zarGEOINT/status/2038898710805942773?s=20",
+        "id": "MzI6NjZjNTc1NzBhZTkx",
+        "publicId": "MzI6NjZjNTc1NzBhZTkx",
+        "sourceId": "66c57570ae91",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "حسینیه زنجان",
+          "unofficial_name:fa": "",
+          "date": 1774920600,
+          "geolocates": "",
+          "description": "حمله موشکی به ساختمان حسینه زنجان ۱۱ فروردین ساعت ۵صبح",
+          "city": "زنجان",
+          "province": "استان زنجان",
+          "sources": "https://x.com/zarGEOINT/status/2038898710805942773?s=20",
+          "name:en": "Husayniyyah Zanjan"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T11:45:04.846Z",
+        "updatedAt": "2026-04-02T11:45:04.846Z",
+        "name:en": "Husayniyyah Zanjan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92822,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.395050937018425,
+          38.04860771515118
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "برج نصر",
+        "unofficial_name:fa": "",
+        "date": 1742697000,
+        "geolocates": "",
+        "description": "",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "sources": "https://x.com/hey_itsmyturn/status/2036035833027756304?s=20",
+        "id": "MzI6MmZkMWQ5ZDk2ZGQ2",
+        "publicId": "MzI6MmZkMWQ5ZDk2ZGQ2",
+        "sourceId": "2fd1d9d96dd6",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "برج نصر",
+          "unofficial_name:fa": "",
+          "date": 1742697000,
+          "geolocates": "",
+          "description": "",
+          "city": "تبریز",
+          "province": "استان آذربایجان شرقی",
+          "sources": "https://x.com/hey_itsmyturn/status/2036035833027756304?s=20",
+          "name:en": "Burj Nasr"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T11:53:18.504Z",
+        "updatedAt": "2026-04-02T11:53:18.504Z",
+        "name:en": "Burj Nasr"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92823,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.88295962126287,
+          39.606280917389455
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "فرودگاه پارس آباد",
+        "unofficial_name:fa": "",
+        "date": 1774902600,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان پارس‌آباد",
+        "province": "استان اردبیل",
+        "sources": "https://www.instagram.com/reels/DWgwdLLsVDS/",
+        "id": "MzI6ODg1MGRiZmQ1ODE5",
+        "publicId": "MzI6ODg1MGRiZmQ1ODE5",
+        "sourceId": "8850dbfd5819",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "فرودگاه پارس آباد",
+          "unofficial_name:fa": "",
+          "date": 1774902600,
+          "geolocates": "",
+          "description": "",
+          "city": "شهرستان پارس‌آباد",
+          "province": "استان اردبیل",
+          "sources": "https://www.instagram.com/reels/DWgwdLLsVDS/",
+          "name:en": "Parsabad Airport"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T12:27:57.578Z",
+        "updatedAt": "2026-04-02T12:27:57.578Z",
+        "name:en": "Parsabad Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92825,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.54349901892385,
+          35.762740786014206
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "سوله مهمات",
+        "unofficial_name:fa": "",
+        "date": 1774765800,
+        "geolocates": "",
+        "description": "حمله حدود صبح شنبه سوله انبار مهمات",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "id": "MzI6YTcwMDJmOGZlM2Yw",
+        "publicId": "MzI6YTcwMDJmOGZlM2Yw",
+        "sourceId": "a7002f8fe3f0",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "سوله مهمات",
+          "unofficial_name:fa": "",
+          "date": 1774765800,
+          "geolocates": "",
+          "description": "حمله حدود صبح شنبه سوله انبار مهمات",
+          "city": "تهران",
+          "province": "استان تهران",
+          "sources": "",
+          "name:en": "Ammunition Warehouse"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T12:34:11.154Z",
+        "updatedAt": "2026-04-02T12:34:11.154Z",
+        "name:en": "Ammunition Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92826,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.421754773986976,
+          35.768892856542465
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "ساختمانی در بابک مرکزی",
+        "unofficial_name:fa": "",
+        "date": 1772533800,
+        "geolocates": "",
+        "description": "برخورد موشک با ساختمان ۳ طبقه روز ۱۲ اسفند",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "id": "MzI6ZjkyYzEyZTA2NmUx",
+        "publicId": "MzI6ZjkyYzEyZTA2NmUx",
+        "sourceId": "f92c12e066e1",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "ساختمانی در بابک مرکزی",
+          "unofficial_name:fa": "",
+          "date": 1772533800,
+          "geolocates": "",
+          "description": "برخورد موشک با ساختمان ۳ طبقه روز ۱۲ اسفند",
+          "city": "تهران",
+          "province": "استان تهران",
+          "sources": "",
+          "name:en": "Building in Babak Central"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T12:35:45.507Z",
+        "updatedAt": "2026-04-02T12:35:45.507Z",
+        "name:en": "Building in Babak Central"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92827,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.47488910524592,
+          35.78430250734188
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "صنایع دفاع پاسدارن",
+        "unofficial_name:fa": "",
+        "date": 1775010600,
+        "geolocates": "",
+        "description": "چهارشنبه ۱۲ فروردین ۱۴۰۵ ساعت ۶ صبح انفجار در صنایع دفاع پاسداران",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "id": "MzI6YjRjYmMwNGI4YmJm",
+        "publicId": "MzI6YjRjYmMwNGI4YmJm",
+        "sourceId": "b4cbc04b8bbf",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "صنایع دفاع پاسدارن",
+          "unofficial_name:fa": "",
+          "date": 1775010600,
+          "geolocates": "",
+          "description": "چهارشنبه ۱۲ فروردین ۱۴۰۵ ساعت ۶ صبح انفجار در صنایع دفاع پاسداران",
+          "city": "تهران",
+          "province": "استان تهران",
+          "sources": "",
+          "name:en": "Pasdaran Defense Industries"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T12:36:47.391Z",
+        "updatedAt": "2026-04-02T12:37:03.875Z",
+        "name:en": "Pasdaran Defense Industries"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92830,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.18272267519845,
+          35.54126196101345
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "سپاه نسیم شهر",
+        "unofficial_name:fa": "",
+        "date": 1773392400,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان بهارستان",
+        "province": "استان تهران",
+        "sources": "https://t.me/mamlekate/101567",
+        "id": "MzI6NTVlODAxZDUzOWFm",
+        "publicId": "MzI6NTVlODAxZDUzOWFm",
+        "sourceId": "55e801d539af",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "سپاه نسیم شهر",
+          "unofficial_name:fa": "",
+          "date": 1773392400,
+          "geolocates": "",
+          "description": "",
+          "city": "شهرستان بهارستان",
+          "province": "استان تهران",
+          "sources": "https://t.me/mamlekate/101567",
+          "name:en": "Sepah Nasim Shahr"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T12:43:24.563Z",
+        "updatedAt": "2026-04-02T12:43:24.563Z",
+        "name:en": "Sepah Nasim Shahr"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92831,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.462900131482,
+          35.65767932665035
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "در حال بررسی",
+        "unofficial_name:fa": "",
+        "date": 1773441000,
+        "geolocates": "",
+        "description": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "id": "MzI6MzhmNjk3N2RlYjRk",
+        "publicId": "MzI6MzhmNjk3N2RlYjRk",
+        "sourceId": "38f6977deb4d",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "مسجد سید الشهدا",
+          "name:fa": "در حال بررسی",
+          "unofficial_name:fa": "",
+          "date": 1773441000,
+          "geolocates": "",
+          "description": "",
+          "city": "تهران",
+          "province": "استان تهران",
+          "sources": "",
+          "name:en": "Under Review"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T12:46:31.357Z",
+        "updatedAt": "2026-04-02T12:46:31.357Z",
+        "name:en": "Under Review"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92832,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.48785839759802,
+          34.111826879631565
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پادگان نیروی زمینی ارتش",
+        "unofficial_name:fa": "",
+        "date": 1772256600,
+        "geolocates": "",
+        "description": "اینجا پادگان نیروی زمینی ارتش هستش گروه مشکی 848 در تاریخ 9 اسفند مورد اصابت قرار گرفت و بیشتر مراکز اون از بین رفت ولی با این حال در تاریخ 8 فروردین در ساعت 2 دوباره مورد اصابت قرار گرفت و بالاتر از آن شرکت فولاد. هم همینطور",
+        "city": "شهرستان آران و بیدگل",
+        "province": "استان اصفهان",
+        "sources": "",
+        "id": "MzI6MGQwYzgxZjhmYjEx",
+        "publicId": "MzI6MGQwYzgxZjhmYjEx",
+        "sourceId": "0d0c81f8fb11",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "پادگان نیروی زمینی ارتش",
+          "unofficial_name:fa": "",
+          "date": 1772256600,
+          "geolocates": "",
+          "description": "اینجا پادگان نیروی زمینی ارتش هستش گروه مشکی 848 در تاریخ 9 اسفند مورد اصابت قرار گرفت و بیشتر مراکز اون از بین رفت ولی با این حال در تاریخ 8 فروردین در ساعت 2 دوباره مورد اصابت قرار گرفت و بالاتر از آن شرکت فولاد. هم همینطور",
+          "city": "شهرستان آران و بیدگل",
+          "province": "استان اصفهان",
+          "sources": "",
+          "name:en": "Army Ground Force Military Base"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T12:58:26.182Z",
+        "updatedAt": "2026-04-02T12:58:33.753Z",
+        "name:en": "Army Ground Force Military Base"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92833,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.287970459694776,
+          35.71895433265081
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پدافند هوایی",
+        "unofficial_name:fa": "",
+        "date": 1772652900,
+        "geolocates": "",
+        "description": "همین الان موشک ‌خورد ۲۳:۰۵ دقیقه",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "id": "MzI6ZmNiYTA2NWE5MzYz",
+        "publicId": "MzI6ZmNiYTA2NWE5MzYz",
+        "sourceId": "fcba065a9363",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "پدافند هوایی",
+          "unofficial_name:fa": "",
+          "date": 1772652900,
+          "geolocates": "",
+          "description": "همین الان موشک ‌خورد ۲۳:۰۵ دقیقه",
+          "city": "تهران",
+          "province": "استان تهران",
+          "sources": "",
+          "name:en": "Air Defense"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T13:01:41.910Z",
+        "updatedAt": "2026-04-02T13:01:41.910Z",
+        "name:en": "Air Defense"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92834,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.301430874092404,
+          35.747018025460704
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "سپهراد سپاه",
+        "unofficial_name:fa": "",
+        "date": 1774769160,
+        "geolocates": "",
+        "description": "ساعت ۱۰:۵۶ دقیقه ساحتمان نبش ۱۲ متری و نمازی در جنت آباد جنوبی پشت سمرقند، احتمالا ساختمان رادار سازی سپاه بوده، سپهراد",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "id": "MzI6ZTQyMzBkYTFmNzBl",
+        "publicId": "MzI6ZTQyMzBkYTFmNzBl",
+        "sourceId": "e4230da1f70e",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "سپهراد سپاه",
+          "unofficial_name:fa": "",
+          "date": 1774769160,
+          "geolocates": "",
+          "description": "ساعت ۱۰:۵۶ دقیقه ساحتمان نبش ۱۲ متری و نمازی در جنت آباد جنوبی پشت سمرقند، احتمالا ساختمان رادار سازی سپاه بوده، سپهراد",
+          "city": "تهران",
+          "province": "استان تهران",
+          "sources": "",
+          "name:en": "Sepahrad Sepah"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T13:05:03.169Z",
+        "updatedAt": "2026-04-02T13:05:03.169Z",
+        "name:en": "Sepahrad Sepah"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92837,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.37701994524937,
+          35.78106765499243
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "چهاردهم سعادت آباد",
+        "unofficial_name:fa": "",
+        "date": 1774830600,
+        "geolocates": "",
+        "description": "این لینک ویدیوی محل حمله: https://www.threads.com/@drhamed.fathi/post/DWg1SBwAiui/video-ارسالی-مخاطب-دقيقا-وسط-خيابان-چهاردهم-سعادت-آبادامروز-دوشنبه-ساعت-4-بامداد این هم لینک تصویر در Google Maps که تطابق با ساختمان کناری در ویدیو بالا دارد: https://maps.app.goo.gl/umETKiVBS61Po4XG8",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "https://www.threads.com/@drhamed.fathi/post/DWg1SBwAiui/video-ارسالی-مخاطب-دقيقا-وسط-خيابان-چهاردهم-سعادت-آبادامروز-دوشنبه-ساعت-4-بامداد",
+        "id": "MzI6YWE5YTMxYTQ3MWNk",
+        "publicId": "MzI6YWE5YTMxYTQ3MWNk",
+        "sourceId": "aa9a31a471cd",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "چهاردهم سعادت آباد",
+          "unofficial_name:fa": "",
+          "date": 1774830600,
+          "geolocates": "",
+          "description": "این لینک ویدیوی محل حمله: https://www.threads.com/@drhamed.fathi/post/DWg1SBwAiui/video-ارسالی-مخاطب-دقيقا-وسط-خيابان-چهاردهم-سعادت-آبادامروز-دوشنبه-ساعت-4-بامداد این هم لینک تصویر در Google Maps که تطابق با ساختمان کناری در ویدیو بالا دارد: https://maps.app.goo.gl/umETKiVBS61Po4XG8",
+          "city": "تهران",
+          "province": "استان تهران",
+          "sources": "https://www.threads.com/@drhamed.fathi/post/DWg1SBwAiui/video-ارسالی-مخاطب-دقيقا-وسط-خيابان-چهاردهم-سعادت-آبادامروز-دوشنبه-ساعت-4-بامداد",
+          "name:en": "Chahardaham Saadat Abad"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T13:13:46.733Z",
+        "updatedAt": "2026-04-02T13:13:46.733Z",
+        "name:en": "Chahardaham Saadat Abad"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92839,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.39855276707556,
+          37.15992738316022
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "ترور هدفمند",
+        "unofficial_name:fa": "",
+        "date": 1774755000,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان شفت",
+        "province": "استان گیلان",
+        "sources": "https://x.com/hey_itsmyturn/status/2038290145246359999?s=20",
+        "id": "MzI6MTY4MzUxYjU2ZjA1",
+        "publicId": "MzI6MTY4MzUxYjU2ZjA1",
+        "sourceId": "168351b56f05",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "ترور هدفمند",
+          "unofficial_name:fa": "",
+          "date": 1774755000,
+          "geolocates": "",
+          "description": "",
+          "city": "شهرستان شفت",
+          "province": "استان گیلان",
+          "sources": "https://x.com/hey_itsmyturn/status/2038290145246359999?s=20",
+          "name:en": "Targeted Assassination"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T13:24:04.541Z",
+        "updatedAt": "2026-04-02T13:24:04.541Z",
+        "name:en": "Targeted Assassination"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92840,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.467599383202725,
+          37.46886164823454
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "شناور",
+        "unofficial_name:fa": "",
+        "date": 1773790200,
+        "geolocates": "",
+        "description": "شناور های مورد حمله قرار گرفته در چهارشنبه 27 ام 1404",
+        "city": "بندر انزلی",
+        "province": "استان گیلان",
+        "sources": "",
+        "id": "MzI6N2E4ZjRkYmJlYjRh",
+        "publicId": "MzI6N2E4ZjRkYmJlYjRh",
+        "sourceId": "7a8f4dbbeb4a",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "شناور",
+          "unofficial_name:fa": "",
+          "date": 1773790200,
+          "geolocates": "",
+          "description": "شناور های مورد حمله قرار گرفته در چهارشنبه 27 ام 1404",
+          "city": "بندر انزلی",
+          "province": "استان گیلان",
+          "sources": "",
+          "name:en": "Shanavar"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T13:26:19.340Z",
+        "updatedAt": "2026-04-02T13:26:19.340Z",
+        "name:en": "Shanavar"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92861,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.731776710339375,
+          32.4779302269239
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پادگان ۱۵ خرداد",
+        "unofficial_name:fa": "",
+        "date": 1775032200,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان اصفهان",
+        "province": "استان اصفهان",
+        "sources": "https://x.com/hey_itsmyturn/status/2039377882003206374?s=20",
+        "id": "MzI6YmNjOWIyMmU1MDg2",
+        "publicId": "MzI6YmNjOWIyMmU1MDg2",
+        "sourceId": "bcc9b22e5086",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "پادگان ۱۵ خرداد",
+          "unofficial_name:fa": "",
+          "date": 1775032200,
+          "geolocates": "",
+          "description": "",
+          "city": "شهرستان اصفهان",
+          "province": "استان اصفهان",
+          "sources": "https://x.com/hey_itsmyturn/status/2039377882003206374?s=20",
+          "name:en": "Khordad 15 Military Base"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T20:44:07.691Z",
+        "updatedAt": "2026-04-02T20:44:07.691Z",
+        "name:en": "Khordad 15 Military Base"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92862,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.603310728835226,
+          32.58897661013326
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انبار مهمات",
+        "unofficial_name:fa": "",
+        "date": 1774602000,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان فلاورجان",
+        "province": "استان اصفهان",
+        "sources": "https://x.com/Mitch_Ulrich/status/2038817557247840624?s=20",
+        "id": "MzI6OTQwNTFkNzQ2NTE4",
+        "publicId": "MzI6OTQwNTFkNzQ2NTE4",
+        "sourceId": "94051d746518",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "انبار مهمات",
+          "unofficial_name:fa": "",
+          "date": 1774602000,
+          "geolocates": "",
+          "description": "",
+          "city": "شهرستان فلاورجان",
+          "province": "استان اصفهان",
+          "sources": "https://x.com/Mitch_Ulrich/status/2038817557247840624?s=20",
+          "name:en": "Ammunition Depot"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T20:47:02.340Z",
+        "updatedAt": "2026-04-02T20:47:28.321Z",
+        "name:en": "Ammunition Depot"
+      }
     }
   ],
   "metadata": {
-    "total": 565,
+    "total": 590,
     "layerId": 32,
     "clustered": false,
     "simplified": false
