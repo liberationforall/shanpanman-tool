@@ -6857,8 +6857,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.53266445895201,
-          29.624419627995522
+          52.53278807932793,
+          29.62294999601258
         ]
       },
       "properties": {
@@ -6889,7 +6889,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:42:19.635Z",
-        "updatedAt": "2026-03-31T03:39:23.057Z",
+        "updatedAt": "2026-04-03T09:39:54.876Z",
         "name:en": "Khayyam Street Area, Shiraz"
       }
     },
@@ -25662,10 +25662,683 @@
         "updatedAt": "2026-04-02T20:47:28.321Z",
         "name:en": "Ammunition Depot"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 92874,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.681642273870125,
+          32.48807361579618
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "زاغه مهمات",
+        "unofficial_name:fa": "",
+        "date": 1775137800,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان اصفهان",
+        "province": "استان اصفهان",
+        "sources": "https://x.com/acceladealer/status/2039994002456420797?s=20",
+        "id": "MzI6MDFhNjdiMzdkOGQz",
+        "publicId": "MzI6MDFhNjdiMzdkOGQz",
+        "sourceId": "01a67b37d8d3",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "زاغه مهمات",
+          "unofficial_name:fa": "",
+          "date": 1775137800,
+          "geolocates": "",
+          "description": "",
+          "city": "شهرستان اصفهان",
+          "province": "استان اصفهان",
+          "sources": "https://x.com/acceladealer/status/2039994002456420797?s=20",
+          "name:en": "Zaghe Mohammmat"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-03T09:37:24.341Z",
+        "updatedAt": "2026-04-03T09:37:24.341Z",
+        "name:en": "Zaghe Mohammmat"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92875,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.66745552869136,
+          32.679657098284295
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "خیابان باهنر",
+        "unofficial_name:fa": "",
+        "date": 1774525200,
+        "geolocates": "",
+        "description": "",
+        "city": "اصفهان",
+        "province": "استان اصفهان",
+        "sources": "https://t.me/VahidOnline/73316",
+        "id": "MzI6NzEwNmM0NTM3MDhi",
+        "publicId": "MzI6NzEwNmM0NTM3MDhi",
+        "sourceId": "7106c453708b",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "خیابان باهنر",
+          "unofficial_name:fa": "",
+          "date": 1774525200,
+          "geolocates": "",
+          "description": "",
+          "city": "اصفهان",
+          "province": "استان اصفهان",
+          "sources": "https://t.me/VahidOnline/73316",
+          "name:en": "Bahonar Street"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-03T09:38:17.982Z",
+        "updatedAt": "2026-04-03T09:38:17.982Z",
+        "name:en": "Bahonar Street"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92876,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.76466068352431,
+          32.74285658428718
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پدافند",
+        "unofficial_name:fa": "",
+        "date": 1774967400,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان اصفهان",
+        "province": "استان اصفهان",
+        "sources": "",
+        "id": "MzI6OTlmZmJmNjY4YjJl",
+        "publicId": "MzI6OTlmZmJmNjY4YjJl",
+        "sourceId": "99ffbf668b2e",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "پدافند",
+          "unofficial_name:fa": "",
+          "date": 1774967400,
+          "geolocates": "",
+          "description": "",
+          "city": "شهرستان اصفهان",
+          "province": "استان اصفهان",
+          "sources": "",
+          "name:en": "Pedafand"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-03T09:39:30.420Z",
+        "updatedAt": "2026-04-03T09:39:30.420Z",
+        "name:en": "Pedafand"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92877,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.386607425433,
+          27.67476440832644
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "فرودگاه لار",
+        "unofficial_name:fa": "",
+        "date": 1773347400,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان لارستان",
+        "province": "استان فارس",
+        "sources": "",
+        "id": "MzI6NDFhNzZlYTUzY2E1",
+        "publicId": "MzI6NDFhNzZlYTUzY2E1",
+        "sourceId": "41a76ea53ca5",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "فرودگاه لار",
+          "unofficial_name:fa": "",
+          "date": 1773347400,
+          "geolocates": "",
+          "description": "",
+          "city": "شهرستان لارستان",
+          "province": "استان فارس",
+          "sources": "",
+          "name:en": "Lar Airport"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-03T09:42:14.259Z",
+        "updatedAt": "2026-04-03T09:42:14.259Z",
+        "name:en": "Lar Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92878,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.299810214618276,
+          27.652084217672538
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "دادگستری لار",
+        "unofficial_name:fa": "",
+        "date": 1773813600,
+        "geolocates": "",
+        "description": "برخورد پرتابه به دادگستری لار (ساعت ۹:۳۰ صبح ۲۷ اسفند ۱۴۰۴)",
+        "city": "لار",
+        "province": "استان فارس",
+        "sources": "",
+        "id": "MzI6MzQxNmQyOWVmOTRm",
+        "publicId": "MzI6MzQxNmQyOWVmOTRm",
+        "sourceId": "3416d29ef94f",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "دادگستری لار",
+          "unofficial_name:fa": "",
+          "date": 1773813600,
+          "geolocates": "",
+          "description": "برخورد پرتابه به دادگستری لار (ساعت ۹:۳۰ صبح ۲۷ اسفند ۱۴۰۴)",
+          "city": "لار",
+          "province": "استان فارس",
+          "sources": "",
+          "name:en": "Lar Courthouse"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-03T09:42:50.924Z",
+        "updatedAt": "2026-04-03T09:42:50.924Z",
+        "name:en": "Lar Courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92882,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.04661924886889,
+          35.77580292164701
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پادگان میثم",
+        "unofficial_name:fa": "",
+        "date": 1773341100,
+        "geolocates": "",
+        "description": "ساعت ۲۲:۱۵ سمت گرمدره و پادگان میثم سمت شهرک جهان‌نما #کرج رو خیلی بد زد.' تصاویر دریافتی با پیام بالا و شرح: 'پایین جاده مخصوص روبرو مترو اتمسفر' پنج‌شنبه ۲۱ اسفند https://t.me/VahidOnline/72470",
+        "city": "کرج",
+        "province": "استان البرز",
+        "sources": "https://t.me/VahidOnline/72470",
+        "id": "MzI6NDQxZDU3ZGRiNDlh",
+        "publicId": "MzI6NDQxZDU3ZGRiNDlh",
+        "sourceId": "441d57ddb49a",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "پادگان میثم",
+          "unofficial_name:fa": "",
+          "date": 1773341100,
+          "geolocates": "",
+          "description": "ساعت ۲۲:۱۵ سمت گرمدره و پادگان میثم سمت شهرک جهان‌نما #کرج رو خیلی بد زد.' تصاویر دریافتی با پیام بالا و شرح: 'پایین جاده مخصوص روبرو مترو اتمسفر' پنج‌شنبه ۲۱ اسفند https://t.me/VahidOnline/72470",
+          "city": "کرج",
+          "province": "استان البرز",
+          "sources": "https://t.me/VahidOnline/72470",
+          "name:en": "Mitham Military Base"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-03T09:46:59.566Z",
+        "updatedAt": "2026-04-03T09:47:09.219Z",
+        "name:en": "Mitham Military Base"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92883,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.04827134821386,
+          35.678813999207975
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "سپاه شهریرار",
+        "unofficial_name:fa": "",
+        "date": 1804843800,
+        "geolocates": "",
+        "description": "سپاه شهریار -روز دوشنبه ۱۷ اسفند-هدف جنگنده ها قرار گرفت",
+        "city": "شهریار",
+        "province": "استان تهران",
+        "sources": "",
+        "id": "MzI6NjQ0MzRkODY0Y2Y3",
+        "publicId": "MzI6NjQ0MzRkODY0Y2Y3",
+        "sourceId": "64434d864cf7",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "سپاه شهریرار",
+          "unofficial_name:fa": "",
+          "date": 1804843800,
+          "geolocates": "",
+          "description": "سپاه شهریار -روز دوشنبه ۱۷ اسفند-هدف جنگنده ها قرار گرفت",
+          "city": "شهریار",
+          "province": "استان تهران",
+          "sources": "",
+          "name:en": "Sepah Shahriar"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-03T09:47:58.417Z",
+        "updatedAt": "2026-04-03T09:47:58.417Z",
+        "name:en": "Sepah Shahriar"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92885,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.489035251701296,
+          35.77510382881809
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "ترور هدفمند",
+        "unofficial_name:fa": "",
+        "date": 1773304200,
+        "geolocates": "",
+        "description": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "id": "MzI6ZDhkZTQ4YmVlMjhl",
+        "publicId": "MzI6ZDhkZTQ4YmVlMjhl",
+        "sourceId": "d8de48bee28e",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "ترور هدفمند",
+          "unofficial_name:fa": "",
+          "date": 1773304200,
+          "geolocates": "",
+          "description": "",
+          "city": "تهران",
+          "province": "استان تهران",
+          "sources": "",
+          "name:en": "Targeted Killing"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-03T09:50:37.925Z",
+        "updatedAt": "2026-04-03T09:50:37.925Z",
+        "name:en": "Targeted Killing"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92886,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4978961140647,
+          35.77110554425521
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "ترور هدفمند",
+        "unofficial_name:fa": "",
+        "date": 1774765800,
+        "geolocates": "",
+        "description": "روز یکشنبه نهم فروردین ۱۴۰۵ و روز دوشنبه دهم فروردین ۱۴۰۵ این ساختمان مسکونی مورد اصالت موشک قرار گرفت.",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "id": "MzI6OTc3MGJhNjcxNmE4",
+        "publicId": "MzI6OTc3MGJhNjcxNmE4",
+        "sourceId": "9770ba6716a8",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "ترور هدفمند",
+          "unofficial_name:fa": "",
+          "date": 1774765800,
+          "geolocates": "",
+          "description": "روز یکشنبه نهم فروردین ۱۴۰۵ و روز دوشنبه دهم فروردین ۱۴۰۵ این ساختمان مسکونی مورد اصالت موشک قرار گرفت.",
+          "city": "تهران",
+          "province": "استان تهران",
+          "sources": "",
+          "name:en": "Targeted Assassination"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-03T09:51:47.344Z",
+        "updatedAt": "2026-04-03T09:51:47.344Z",
+        "name:en": "Targeted Assassination"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92887,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.49946433612317,
+          35.77158944180378
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "ترور هدفمند",
+        "unofficial_name:fa": "",
+        "date": 1774053000,
+        "geolocates": "",
+        "description": "ساعت چهار صبح روز اول فروردین ۱۴۰۵ ، ساختمون مربوط به دولت هدف موشک قرار گرفت و متاسفانه چندین کشته و زخمی به جای گذاشته از همسایه ها.",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "id": "MzI6M2JmYTc0NTRhODcw",
+        "publicId": "MzI6M2JmYTc0NTRhODcw",
+        "sourceId": "3bfa7454a870",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "ترور هدفمند",
+          "unofficial_name:fa": "",
+          "date": 1774053000,
+          "geolocates": "",
+          "description": "ساعت چهار صبح روز اول فروردین ۱۴۰۵ ، ساختمون مربوط به دولت هدف موشک قرار گرفت و متاسفانه چندین کشته و زخمی به جای گذاشته از همسایه ها.",
+          "city": "تهران",
+          "province": "استان تهران",
+          "sources": "",
+          "name:en": "Targeted Assassination"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-03T09:52:16.074Z",
+        "updatedAt": "2026-04-03T09:52:16.074Z",
+        "name:en": "Targeted Assassination"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92888,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.267168844879535,
+          36.61118023168203
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "سایت موشکی",
+        "unofficial_name:fa": "",
+        "date": 1775142000,
+        "geolocates": "",
+        "description": "انفجار توسط بمبهای سنگر شکن 4 دفعه ساعت18:30روز13فروردین",
+        "city": "شهرستان زنجان",
+        "province": "استان زنجان",
+        "sources": "",
+        "id": "MzI6NThlMGVkYzllZTY1",
+        "publicId": "MzI6NThlMGVkYzllZTY1",
+        "sourceId": "58e0edc9ee65",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "سایت موشکی",
+          "unofficial_name:fa": "",
+          "date": 1775142000,
+          "geolocates": "",
+          "description": "انفجار توسط بمبهای سنگر شکن 4 دفعه ساعت18:30روز13فروردین",
+          "city": "شهرستان زنجان",
+          "province": "استان زنجان",
+          "sources": "",
+          "name:en": "Missile Site"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-03T09:56:37.831Z",
+        "updatedAt": "2026-04-03T09:56:53.657Z",
+        "name:en": "Missile Site"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92890,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.493243420906396,
+          35.71081342799093
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "date": 1772440200,
+        "geolocates": "",
+        "description": "برخورد موشک روز ۱۱ اسفند",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "id": "MzI6OTRlMTQ2MTBiN2Yy",
+        "publicId": "MzI6OTRlMTQ2MTBiN2Yy",
+        "sourceId": "94e14610b7f2",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "",
+          "unofficial_name:fa": "",
+          "date": 1772440200,
+          "geolocates": "",
+          "description": "برخورد موشک روز ۱۱ اسفند",
+          "city": "تهران",
+          "province": "استان تهران",
+          "sources": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-03T10:19:32.297Z",
+        "updatedAt": "2026-04-03T10:19:32.297Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92891,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.48893064254136,
+          35.772720353742855
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "ترور هدفمند",
+        "unofficial_name:fa": "",
+        "date": 1774945800,
+        "geolocates": "",
+        "description": "",
+        "city": "",
+        "province": "",
+        "sources": "ساختمان نقطه زنی شده احتمالا توسط پهپاد",
+        "id": "MzI6ZDM1ZmE3ZjJlNWQx",
+        "publicId": "MzI6ZDM1ZmE3ZjJlNWQx",
+        "sourceId": "d35fa7f2e5d1",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "ترور هدفمند",
+          "unofficial_name:fa": "",
+          "date": 1774945800,
+          "geolocates": "",
+          "description": "",
+          "city": "",
+          "province": "",
+          "sources": "ساختمان نقطه زنی شده احتمالا توسط پهپاد",
+          "name:en": "Targeted Assassination"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-03T10:20:14.305Z",
+        "updatedAt": "2026-04-03T10:20:14.305Z",
+        "name:en": "Targeted Assassination"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92892,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.45051875643941,
+          35.7568136682893
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "ترور هدفمند",
+        "unofficial_name:fa": "",
+        "date": 1772440200,
+        "geolocates": "",
+        "description": "دو خانه در این محل در دوشنبه ۱۱ اسفند منفجر شدند",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "id": "MzI6ODEwY2FlZWNjYjM5",
+        "publicId": "MzI6ODEwY2FlZWNjYjM5",
+        "sourceId": "810caeeccb39",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "ترور هدفمند",
+          "unofficial_name:fa": "",
+          "date": 1772440200,
+          "geolocates": "",
+          "description": "دو خانه در این محل در دوشنبه ۱۱ اسفند منفجر شدند",
+          "city": "تهران",
+          "province": "استان تهران",
+          "sources": "",
+          "name:en": "Targeted Assassination"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-03T10:20:54.839Z",
+        "updatedAt": "2026-04-03T10:20:54.839Z",
+        "name:en": "Targeted Assassination"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92898,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.03656398505379,
+          35.829397085138254
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پل B1",
+        "unofficial_name:fa": "",
+        "date": 1775133000,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان کرج",
+        "province": "استان البرز",
+        "sources": "https://x.com/zarGEOINT/status/2039671396482023790?s=20",
+        "id": "MzI6NTY2Mjg4N2E2YjNm",
+        "publicId": "MzI6NTY2Mjg4N2E2YjNm",
+        "sourceId": "5662887a6b3f",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "پل B1",
+          "unofficial_name:fa": "",
+          "date": 1775133000,
+          "geolocates": "",
+          "description": "",
+          "city": "شهرستان کرج",
+          "province": "استان البرز",
+          "sources": "https://x.com/zarGEOINT/status/2039671396482023790?s=20",
+          "name:en": "Bridge B1"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-04T00:11:04.397Z",
+        "updatedAt": "2026-04-04T00:11:04.397Z",
+        "name:en": "Bridge B1"
+      }
     }
   ],
   "metadata": {
-    "total": 590,
+    "total": 605,
     "layerId": 32,
     "clustered": false,
     "simplified": false

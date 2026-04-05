@@ -19285,10 +19285,178 @@
         "name:en": "Allama Tabatabai School and Basij Base",
         "description:en": "Allama Tabatabai girls school alongside the Basij resistance base and Imam Hossein battalion"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 92899,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.06456941436224,
+          37.562948272137305
+        ]
+      },
+      "properties": {
+        "name:fa": "انبار نفت ارومیه",
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "date": 1775229384,
+        "description": "انبار نفت ارومیه",
+        "sources": "",
+        "id": "MzY6MjJmOTU5NjA4M2Uz",
+        "publicId": "MzY6MjJmOTU5NjA4M2Uz",
+        "sourceId": "22f9596083e3",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "انبار نفت ارومیه",
+          "city": "ارومیه",
+          "province": "استان آذربایجان غربی",
+          "date": 1775229384,
+          "description": "انبار نفت ارومیه",
+          "sources": "",
+          "name:en": "Urmia Oil Depot",
+          "description:en": "Urmia Oil Depot"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-04T00:34:27.075Z",
+        "updatedAt": "2026-04-04T00:34:27.075Z",
+        "name:en": "Urmia Oil Depot",
+        "description:en": "Urmia Oil Depot"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92901,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.46509705444049,
+          36.669747418443364
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد ثارالله",
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "date": 1775226319,
+        "description": "مسجد ثار الله. مسجد جواد رسولی. محل تجمع اطلاعاتی ها، پاسداران، مزدوران و آدمکشان شهر زنجان",
+        "sources": "",
+        "id": "MzY6YmY4Njc5M2MxNjUz",
+        "publicId": "MzY6YmY4Njc5M2MxNjUz",
+        "sourceId": "bf86793c1653",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مسجد ثارالله",
+          "city": "زنجان",
+          "province": "استان زنجان",
+          "date": 1775226319,
+          "description": "مسجد ثار الله. مسجد جواد رسولی. محل تجمع اطلاعاتی ها، پاسداران، مزدوران و آدمکشان شهر زنجان",
+          "sources": "",
+          "name:en": "Tharallah Mosque",
+          "description:en": "Tharallah Mosque, also known as Javad Rasouli Mosque. A gathering place for intelligence agents, Revolutionary Guards, mercenaries, and assassins in Zanjan city."
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-04T00:40:26.845Z",
+        "updatedAt": "2026-04-04T00:40:26.845Z",
+        "name:en": "Tharallah Mosque",
+        "description:en": "Tharallah Mosque, also known as Javad Rasouli Mosque. A gathering place for intelligence agents, Revolutionary Guards, mercenaries, and assassins in Zanjan city."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92902,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.35289365136299,
+          35.705993591135325
+        ]
+      },
+      "properties": {
+        "name:fa": "محل ساخت موتورهای توربوجت پهپاد",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1775264810,
+        "description": "محل ساخت موتورهای توربو جت پهپادهای انتحاری",
+        "sources": "",
+        "id": "MzY6NzBmMjEyOGIwZTk4",
+        "publicId": "MzY6NzBmMjEyOGIwZTk4",
+        "sourceId": "70f2128b0e98",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "محل ساخت موتورهای توربوجت پهپاد",
+          "city": "تهران",
+          "province": "استان تهران",
+          "date": 1775264810,
+          "description": "محل ساخت موتورهای توربو جت پهپادهای انتحاری",
+          "sources": "",
+          "name:en": "Turbofan Drone Engine Manufacturing Facility",
+          "description:en": "Manufacturing facility for turbofan engines used in kamikaze drones"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-04T01:40:06.032Z",
+        "updatedAt": "2026-04-04T01:40:06.032Z",
+        "name:en": "Turbofan Drone Engine Manufacturing Facility",
+        "description:en": "Manufacturing facility for turbofan engines used in kamikaze drones"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92903,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.01063178400784,
+          37.198694671724525
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "لاهيجان",
+        "province": "استان گیلان",
+        "date": 1775216709,
+        "description": "",
+        "sources": "",
+        "id": "MzY6MzJkOWQzOTY5MTRk",
+        "publicId": "MzY6MzJkOWQzOTY5MTRk",
+        "sourceId": "32d9d396914d",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "city": "لاهيجان",
+          "province": "استان گیلان",
+          "date": 1775216709,
+          "description": "",
+          "sources": "",
+          "name:en": "Checkpoint",
+          "description:en": ""
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-04T01:43:11.995Z",
+        "updatedAt": "2026-04-04T01:43:11.995Z",
+        "name:en": "Checkpoint",
+        "description:en": ""
+      }
     }
   ],
   "metadata": {
-    "total": 482,
+    "total": 486,
     "layerId": 36,
     "clustered": false,
     "simplified": false
