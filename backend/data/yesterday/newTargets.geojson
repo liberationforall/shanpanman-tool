@@ -26335,10 +26335,280 @@
         "updatedAt": "2026-04-04T00:11:04.397Z",
         "name:en": "Bridge B1"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 92907,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.43763036441902,
+          35.82090969948112
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "ساختمانی در دربند",
+        "unofficial_name:fa": "",
+        "date": 1775275560,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان شمیرانات",
+        "province": "استان تهران",
+        "sources": "https://x.com/acceladealer/status/2040355679966244866?s=20",
+        "id": "MzI6MGFkNDJjMDJiNDdh",
+        "publicId": "MzI6MGFkNDJjMDJiNDdh",
+        "sourceId": "0ad42c02b47a",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "ساختمانی در دربند",
+          "unofficial_name:fa": "",
+          "date": 1775275560,
+          "geolocates": "",
+          "description": "",
+          "city": "شهرستان شمیرانات",
+          "province": "استان تهران",
+          "sources": "https://x.com/acceladealer/status/2040355679966244866?s=20",
+          "name:en": "Building in Darband"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-04T10:07:06.378Z",
+        "updatedAt": "2026-04-04T10:07:06.378Z",
+        "name:en": "Building in Darband"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92908,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.08358837039103,
+          30.45385817164545
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پتروشیمی ماهشهر",
+        "unofficial_name:fa": "",
+        "date": 1775287140,
+        "geolocates": "",
+        "description": "",
+        "city": "بندر امام خمینی",
+        "province": "استان خوزستان",
+        "sources": "https://x.com/hey_itsmyturn/status/2040369748580458723, https://x.com/acceladealer/status/2040359680573120669",
+        "id": "MzI6NjgxMzNiOGEyNWIx",
+        "publicId": "MzI6NjgxMzNiOGEyNWIx",
+        "sourceId": "68133b8a25b1",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "پتروشیمی ماهشهر",
+          "unofficial_name:fa": "",
+          "date": 1775287140,
+          "geolocates": "",
+          "description": "",
+          "city": "بندر امام خمینی",
+          "province": "استان خوزستان",
+          "sources": "https://x.com/hey_itsmyturn/status/2040369748580458723, https://x.com/acceladealer/status/2040359680573120669",
+          "name:en": "Marun Petrochemical"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-04T10:09:11.202Z",
+        "updatedAt": "2026-04-04T10:09:11.202Z",
+        "name:en": "Marun Petrochemical"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92909,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.58213080864547,
+          29.523098783321345
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "تیپ ۵۵ هوابرد",
+        "unofficial_name:fa": "",
+        "date": 1772699400,
+        "geolocates": "",
+        "description": "",
+        "city": "دودمان",
+        "province": "استان فارس",
+        "sources": "https://x.com/acceladealer/status/2040421353753293151?s=20",
+        "id": "MzI6ZjBhMjQ4MDE3YmVk",
+        "publicId": "MzI6ZjBhMjQ4MDE3YmVk",
+        "sourceId": "f0a248017bed",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "تیپ ۵۵ هوابرد",
+          "unofficial_name:fa": "",
+          "date": 1772699400,
+          "geolocates": "",
+          "description": "",
+          "city": "دودمان",
+          "province": "استان فارس",
+          "sources": "https://x.com/acceladealer/status/2040421353753293151?s=20",
+          "name:en": "55th Air Defense Brigade"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-04T14:44:17.155Z",
+        "updatedAt": "2026-04-04T14:44:17.155Z",
+        "name:en": "55th Air Defense Brigade"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92910,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.041515970749,
+          37.96016098954814
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پرتابگر موشک",
+        "unofficial_name:fa": "",
+        "date": 1775291400,
+        "geolocates": "",
+        "description": "نیروی هوایی یک کامیون را که به‌عنوان پرتابگر متحرک موشک‌های بالستیک در ایران مورد استفاده قرار می‌گرفت، منهدم کرد",
+        "city": "شهرستان تبریز",
+        "province": "استان آذربایجان شرقی",
+        "sources": "https://x.com/MiddleEastBuka/status/2040431099843657805?s=20",
+        "id": "MzI6YWI4YTc5MTk1NzE2",
+        "publicId": "MzI6YWI4YTc5MTk1NzE2",
+        "sourceId": "ab8a79195716",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "پرتابگر موشک",
+          "unofficial_name:fa": "",
+          "date": 1775291400,
+          "geolocates": "",
+          "description": "نیروی هوایی یک کامیون را که به‌عنوان پرتابگر متحرک موشک‌های بالستیک در ایران مورد استفاده قرار می‌گرفت، منهدم کرد",
+          "city": "شهرستان تبریز",
+          "province": "استان آذربایجان شرقی",
+          "sources": "https://x.com/MiddleEastBuka/status/2040431099843657805?s=20",
+          "name:en": "Missile Launcher"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-04T14:46:53.281Z",
+        "updatedAt": "2026-04-04T14:46:53.281Z",
+        "name:en": "Missile Launcher"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92913,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39268327942975,
+          35.80521580468937
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پژوهشگاه لیزر و پلاسما",
+        "unofficial_name:fa": "",
+        "date": 1775219400,
+        "geolocates": "",
+        "description": "",
+        "city": "تجریش",
+        "province": "استان تهران",
+        "sources": "https://x.com/zarGEOINT/status/2040187384705233114?s=20",
+        "id": "MzI6YzNjYmI0NjcxYjcw",
+        "publicId": "MzI6YzNjYmI0NjcxYjcw",
+        "sourceId": "c3cbb4671b70",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "پژوهشگاه لیزر و پلاسما",
+          "unofficial_name:fa": "",
+          "date": 1775219400,
+          "geolocates": "",
+          "description": "",
+          "city": "تجریش",
+          "province": "استان تهران",
+          "sources": "https://x.com/zarGEOINT/status/2040187384705233114?s=20",
+          "name:en": "Laser and Plasma Research Institute"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-04T15:11:14.684Z",
+        "updatedAt": "2026-04-04T15:11:31.938Z",
+        "name:en": "Laser and Plasma Research Institute"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92914,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.02803328068913,
+          30.505073071336525
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "گذرگاه شلمچه",
+        "unofficial_name:fa": "",
+        "date": 1775287800,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان خرمشهر",
+        "province": "استان خوزستان",
+        "sources": "https://x.com/zarGEOINT/status/2040379827618787386?s=20",
+        "id": "MzI6OGJmYmRlZDkwOWYx",
+        "publicId": "MzI6OGJmYmRlZDkwOWYx",
+        "sourceId": "8bfbded909f1",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "گذرگاه شلمچه",
+          "unofficial_name:fa": "",
+          "date": 1775287800,
+          "geolocates": "",
+          "description": "",
+          "city": "شهرستان خرمشهر",
+          "province": "استان خوزستان",
+          "sources": "https://x.com/zarGEOINT/status/2040379827618787386?s=20",
+          "name:en": "Shalamcheh Crossing"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-04T15:13:29.159Z",
+        "updatedAt": "2026-04-04T15:13:29.159Z",
+        "name:en": "Shalamcheh Crossing"
+      }
     }
   ],
   "metadata": {
-    "total": 605,
+    "total": 611,
     "layerId": 32,
     "clustered": false,
     "simplified": false

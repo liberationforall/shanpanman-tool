@@ -19453,10 +19453,178 @@
         "name:en": "Checkpoint",
         "description:en": ""
       }
+    },
+    {
+      "type": "Feature",
+      "id": 92904,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.9804369040304,
+          37.21406849248734
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "شهرستان لاهیجان",
+        "province": "استان گیلان",
+        "date": 1775216824,
+        "description": "ایست بازرسی",
+        "sources": "",
+        "id": "MzY6NWFlZDVkZDQwYWUx",
+        "publicId": "MzY6NWFlZDVkZDQwYWUx",
+        "sourceId": "5aed5dd40ae1",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "city": "شهرستان لاهیجان",
+          "province": "استان گیلان",
+          "date": 1775216824,
+          "description": "ایست بازرسی",
+          "sources": "",
+          "name:en": "Inspection Checkpoint",
+          "description:en": "Inspection Checkpoint"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-04T03:08:21.313Z",
+        "updatedAt": "2026-04-04T03:08:21.313Z",
+        "name:en": "Inspection Checkpoint",
+        "description:en": "Inspection Checkpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92905,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.974762657203854,
+          37.21562423901878
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "شهرستان لاهیجان",
+        "province": "استان گیلان",
+        "date": 1775216780,
+        "description": "ایست بازرسی",
+        "sources": "",
+        "id": "MzY6N2MyOGFhMmI2MDlh",
+        "publicId": "MzY6N2MyOGFhMmI2MDlh",
+        "sourceId": "7c28aa2b609a",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "city": "شهرستان لاهیجان",
+          "province": "استان گیلان",
+          "date": 1775216780,
+          "description": "ایست بازرسی",
+          "sources": "",
+          "name:en": "Checkpoint",
+          "description:en": "Checkpoint"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-04T03:08:31.667Z",
+        "updatedAt": "2026-04-04T03:08:31.667Z",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92911,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.35456169917228,
+          35.54249836978974
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "شهرستان تهران",
+        "province": "استان تهران",
+        "date": "",
+        "description": "ایست بازرسی بود تعداد دو عدد ماشین یک ماشین شبیه به تانک بود یک ماشینم تویتا بود که پشتش دوشکا گذاشته بودن تعداد سرباز ها هم حدود سی نفر بود",
+        "sources": "",
+        "id": "MzY6MWE1MzYzNWIwZjc5",
+        "publicId": "MzY6MWE1MzYzNWIwZjc5",
+        "sourceId": "1a53635b0f79",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "city": "شهرستان تهران",
+          "province": "استان تهران",
+          "date": "",
+          "description": "ایست بازرسی بود تعداد دو عدد ماشین یک ماشین شبیه به تانک بود یک ماشینم تویتا بود که پشتش دوشکا گذاشته بودن تعداد سرباز ها هم حدود سی نفر بود",
+          "sources": "",
+          "name:en": "Inspection Checkpoint",
+          "description:en": "It was an inspection checkpoint with two vehicles. One vehicle was similar to a tank, and one was a Toyota that had a Dushka mounted on its back. The number of soldiers was approximately thirty people."
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-04T15:06:13.998Z",
+        "updatedAt": "2026-04-04T15:06:13.998Z",
+        "name:en": "Inspection Checkpoint",
+        "description:en": "It was an inspection checkpoint with two vehicles. One vehicle was similar to a tank, and one was a Toyota that had a Dushka mounted on its back. The number of soldiers was approximately thirty people."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92912,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.97653249283945,
+          39.04624791095344
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "شهرستان شوط",
+        "province": "استان آذربایجان غربی",
+        "date": "",
+        "description": "گیت کنترل منطقه آزاد ماکو",
+        "sources": "",
+        "id": "MzY6NTQ5NzYxZTY2NDlm",
+        "publicId": "MzY6NTQ5NzYxZTY2NDlm",
+        "sourceId": "549761e6649f",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "city": "شهرستان شوط",
+          "province": "استان آذربایجان غربی",
+          "date": "",
+          "description": "گیت کنترل منطقه آزاد ماکو",
+          "sources": "",
+          "name:en": "Inspection Post",
+          "description:en": "Control gate of Maku Free Trade Zone"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-04T15:06:52.964Z",
+        "updatedAt": "2026-04-04T15:06:52.964Z",
+        "name:en": "Inspection Post",
+        "description:en": "Control gate of Maku Free Trade Zone"
+      }
     }
   ],
   "metadata": {
-    "total": 486,
+    "total": 490,
     "layerId": 36,
     "clustered": false,
     "simplified": false
