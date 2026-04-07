@@ -19621,10 +19621,682 @@
         "name:en": "Inspection Post",
         "description:en": "Control gate of Maku Free Trade Zone"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 92924,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.04489950111713,
+          37.53751898609053
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای سرکوبگر",
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "date": "",
+        "description": "",
+        "sources": "",
+        "id": "MzY6MTU4NjUwZjViZGU1",
+        "publicId": "MzY6MTU4NjUwZjViZGU1",
+        "sourceId": "158650f5bde5",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تجمع نیروهای سرکوبگر",
+          "city": "ارومیه",
+          "province": "استان آذربایجان غربی",
+          "date": "",
+          "description": "",
+          "sources": "",
+          "name:en": "Tajem-e Niruha-ye Sarkobgar",
+          "description:en": "Assembly of Suppressive Forces"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-06T12:11:57.274Z",
+        "updatedAt": "2026-04-06T12:11:57.274Z",
+        "name:en": "Tajem-e Niruha-ye Sarkobgar",
+        "description:en": "Assembly of Suppressive Forces"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92925,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.94754816339574,
+          37.25193641615542
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "آستانه اشرفیه",
+        "province": "استان گیلان",
+        "date": "",
+        "description": "",
+        "sources": "",
+        "id": "MzY6ZWVmYzUwYmY3MTUy",
+        "publicId": "MzY6ZWVmYzUwYmY3MTUy",
+        "sourceId": "eefc50bf7152",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "city": "آستانه اشرفیه",
+          "province": "استان گیلان",
+          "date": "",
+          "description": "",
+          "sources": "",
+          "name:en": "Checkpoint",
+          "description:en": "An inspection or control point used for monitoring and verification purposes."
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-06T12:14:09.294Z",
+        "updatedAt": "2026-04-06T12:14:09.294Z",
+        "name:en": "Checkpoint",
+        "description:en": "An inspection or control point used for monitoring and verification purposes."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92932,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.332783482795605,
+          35.74036706411661
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": "",
+        "description": "ایست بازرسی در بلوار اشرفی اصفهانی رو به پایین، زیر پل حکیم، روز ندیدمشون، معمولا عصر یا شب میان",
+        "sources": "",
+        "id": "MzY6YzVkOTU1Njk5OTJj",
+        "publicId": "MzY6YzVkOTU1Njk5OTJj",
+        "sourceId": "c5d95569992c",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "city": "تهران",
+          "province": "استان تهران",
+          "date": "",
+          "description": "ایست بازرسی در بلوار اشرفی اصفهانی رو به پایین، زیر پل حکیم، روز ندیدمشون، معمولا عصر یا شب میان",
+          "sources": "",
+          "name:en": "Inspection Checkpoint",
+          "description:en": "Inspection checkpoint on Ashrafodin Esfahan Boulevard going downward, under Hakim Bridge, I haven't seen them during the day, usually they come in the afternoon or evening"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-06T12:23:41.717Z",
+        "updatedAt": "2026-04-06T12:23:41.717Z",
+        "name:en": "Inspection Checkpoint",
+        "description:en": "Inspection checkpoint on Ashrafodin Esfahan Boulevard going downward, under Hakim Bridge, I haven't seen them during the day, usually they come in the afternoon or evening"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92933,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3421028827475,
+          35.735491795231866
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": "",
+        "description": "ایست بازرسی در بلوار مرزداران به سمت شرق، قبل از ورودی یادگار امام",
+        "sources": "",
+        "id": "MzY6ODE3YmZiYTZkZGJh",
+        "publicId": "MzY6ODE3YmZiYTZkZGJh",
+        "sourceId": "817bfba6ddba",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "city": "تهران",
+          "province": "استان تهران",
+          "date": "",
+          "description": "ایست بازرسی در بلوار مرزداران به سمت شرق، قبل از ورودی یادگار امام",
+          "sources": "",
+          "name:en": "Checkpoint",
+          "description:en": "Checkpoint on Marzdaran Boulevard heading east, before the Imam Memorial entrance"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-06T12:24:18.655Z",
+        "updatedAt": "2026-04-06T12:24:18.655Z",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint on Marzdaran Boulevard heading east, before the Imam Memorial entrance"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92936,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.008064480796975,
+          35.80342500806496
+        ]
+      },
+      "properties": {
+        "name:fa": "صنایع موشکی",
+        "city": "کرج",
+        "province": "استان البرز",
+        "date": "",
+        "description": "کارخانه تولید کلاهک موشکهای سوخت جامد در دو طبقه .. طبقه زیرین محل مونتاژ و انبار سوخت جامد . سوله های بالا انبوهی از ماشین‌آلات cnc جهت ساخت ...مدیر پروژه شکر نیا و شکرالهی",
+        "sources": "",
+        "id": "MzY6MDY5M2YxYTAzZmFl",
+        "publicId": "MzY6MDY5M2YxYTAzZmFl",
+        "sourceId": "0693f1a03fae",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "صنایع موشکی",
+          "city": "کرج",
+          "province": "استان البرز",
+          "date": "",
+          "description": "کارخانه تولید کلاهک موشکهای سوخت جامد در دو طبقه .. طبقه زیرین محل مونتاژ و انبار سوخت جامد . سوله های بالا انبوهی از ماشین‌آلات cnc جهت ساخت ...مدیر پروژه شکر نیا و شکرالهی",
+          "sources": "",
+          "name:en": "Missile Industries",
+          "description:en": "A factory for producing warheads for solid-fuel missiles in two stories. The lower floor is the assembly area and solid fuel warehouse. The upper sheds contain a large collection of CNC machines for manufacturing. Project managers are Shekrnia and Shokrallahi."
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-06T12:25:58.950Z",
+        "updatedAt": "2026-04-06T12:25:58.950Z",
+        "name:en": "Missile Industries",
+        "description:en": "A factory for producing warheads for solid-fuel missiles in two stories. The lower floor is the assembly area and solid fuel warehouse. The upper sheds contain a large collection of CNC machines for manufacturing. Project managers are Shekrnia and Shokrallahi."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92937,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.97316602855088,
+          35.80486496895362
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "کرج",
+        "province": "استان البرز",
+        "date": "",
+        "description": "ایست بازرسی سپاه و بسیج",
+        "sources": "",
+        "id": "MzY6Y2Y2NTE4NmY1YmM5",
+        "publicId": "MzY6Y2Y2NTE4NmY1YmM5",
+        "sourceId": "cf65186f5bc9",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "city": "کرج",
+          "province": "استان البرز",
+          "date": "",
+          "description": "ایست بازرسی سپاه و بسیج",
+          "sources": "",
+          "name:en": "Checkpoint",
+          "description:en": "Checkpoint of the Islamic Revolutionary Guard Corps and Basij"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-06T12:26:32.162Z",
+        "updatedAt": "2026-04-06T12:26:32.162Z",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint of the Islamic Revolutionary Guard Corps and Basij"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92938,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.87934234651499,
+          35.73221574635926
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "شهرستان کرج",
+        "province": "استان البرز",
+        "date": "",
+        "description": "ایست بازرسی سپاه و بسیج تالار اجلاس",
+        "sources": "",
+        "id": "MzY6MzZlZjEyODVmMTZl",
+        "publicId": "MzY6MzZlZjEyODVmMTZl",
+        "sourceId": "36ef1285f16e",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "city": "شهرستان کرج",
+          "province": "استان البرز",
+          "date": "",
+          "description": "ایست بازرسی سپاه و بسیج تالار اجلاس",
+          "sources": "",
+          "name:en": "Checkpoint",
+          "description:en": "Checkpoint of IRGC and Basij Assembly Hall"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-06T12:27:19.717Z",
+        "updatedAt": "2026-04-06T12:27:19.717Z",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint of IRGC and Basij Assembly Hall"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92941,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.24802199524834,
+          35.709257043028686
+        ]
+      },
+      "properties": {
+        "name:fa": "برنامه پهپادی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": "",
+        "description": "شرکت تام ایران‌خودرو ساخت موتور های پهباد شاهد ۱۳۶ و تست اولیه موتور در این ساختمان انجام شد.شرکت تابع دانش پژوه",
+        "sources": "",
+        "id": "MzY6YWViODY5YTU3OWYy",
+        "publicId": "MzY6YWViODY5YTU3OWYy",
+        "sourceId": "aeb869a579f2",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "برنامه پهپادی",
+          "city": "تهران",
+          "province": "استان تهران",
+          "date": "",
+          "description": "شرکت تام ایران‌خودرو ساخت موتور های پهباد شاهد ۱۳۶ و تست اولیه موتور در این ساختمان انجام شد.شرکت تابع دانش پژوه",
+          "sources": "",
+          "name:en": "Drone Program",
+          "description:en": "A subsidiary of Iran Khodro Company that manufactures engines for Shahed 136 drones and conducted initial engine testing in this building. The company is a subsidiary of Knowledge Research."
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-06T12:29:57.475Z",
+        "updatedAt": "2026-04-06T12:29:57.475Z",
+        "name:en": "Drone Program",
+        "description:en": "A subsidiary of Iran Khodro Company that manufactures engines for Shahed 136 drones and conducted initial engine testing in this building. The company is a subsidiary of Knowledge Research."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92943,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.472816899033944,
+          35.79945613521278
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای سرکوب",
+        "city": "تجریش",
+        "province": "استان تهران",
+        "date": "",
+        "description": "تجمع نیروهای سرکوب",
+        "sources": "",
+        "id": "MzY6MGI5MWM5YWM2YjYz",
+        "publicId": "MzY6MGI5MWM5YWM2YjYz",
+        "sourceId": "0b91c9ac6b63",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تجمع نیروهای سرکوب",
+          "city": "تجریش",
+          "province": "استان تهران",
+          "date": "",
+          "description": "تجمع نیروهای سرکوب",
+          "sources": "",
+          "name:en": "Tajamoe Nirohaye Sarkob",
+          "description:en": "Tajamoe Nirohaye Sarkob"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-06T12:31:25.503Z",
+        "updatedAt": "2026-04-06T12:31:25.503Z",
+        "name:en": "Tajamoe Nirohaye Sarkob",
+        "description:en": "Tajamoe Nirohaye Sarkob"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92944,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.55524879153498,
+          35.73711067548436
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": "",
+        "description": "ایست بازرسی من ساعت 6 صبح دیدمشون",
+        "sources": "",
+        "id": "MzY6ZTkwZjU0YTQ2OWI2",
+        "publicId": "MzY6ZTkwZjU0YTQ2OWI2",
+        "sourceId": "e90f54a469b6",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "city": "تهران",
+          "province": "استان تهران",
+          "date": "",
+          "description": "ایست بازرسی من ساعت 6 صبح دیدمشون",
+          "sources": "",
+          "name:en": "Inspection Station",
+          "description:en": "I saw them at the inspection station at 6 AM"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-06T12:32:38.816Z",
+        "updatedAt": "2026-04-06T12:32:38.816Z",
+        "name:en": "Inspection Station",
+        "description:en": "I saw them at the inspection station at 6 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92945,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.62372749570338,
+          30.40619722948793
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "شهرستان گچساران",
+        "province": "استان کهگیلویه و بویراحمد",
+        "date": "",
+        "description": "ایست بازرسی",
+        "sources": "",
+        "id": "MzY6Yjk5OTI3MWRhY2Vl",
+        "publicId": "MzY6Yjk5OTI3MWRhY2Vl",
+        "sourceId": "b999271dacee",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "city": "شهرستان گچساران",
+          "province": "استان کهگیلویه و بویراحمد",
+          "date": "",
+          "description": "ایست بازرسی",
+          "sources": "",
+          "name:en": "Inspection Station",
+          "description:en": "Inspection Station"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-06T12:36:51.777Z",
+        "updatedAt": "2026-04-06T12:36:51.777Z",
+        "name:en": "Inspection Station",
+        "description:en": "Inspection Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92946,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.28367983636247,
+          38.068276903955734
+        ]
+      },
+      "properties": {
+        "name:fa": "استقرار نیروهای بسیج",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "date": 1775495676,
+        "description": "محل استقرار همیشگی نیروهای بسیج و سرکوب در تعداد بالا",
+        "sources": "",
+        "id": "MzY6ZjJiMDdmM2U5MWRh",
+        "publicId": "MzY6ZjJiMDdmM2U5MWRh",
+        "sourceId": "f2b07f3e91da",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "استقرار نیروهای بسیج",
+          "city": "تبریز",
+          "province": "استان آذربایجان شرقی",
+          "date": 1775495676,
+          "description": "محل استقرار همیشگی نیروهای بسیج و سرکوب در تعداد بالا",
+          "sources": "",
+          "name:en": "Basij Forces Garrison",
+          "description:en": "Permanent settlement location of Basij forces and suppression in large numbers"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-06T19:03:13.022Z",
+        "updatedAt": "2026-04-06T19:03:13.022Z",
+        "name:en": "Basij Forces Garrison",
+        "description:en": "Permanent settlement location of Basij forces and suppression in large numbers"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92947,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.28724060540824,
+          38.07422357297773
+        ]
+      },
+      "properties": {
+        "name:fa": "محل استقرار نیرو",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "date": 1775495504,
+        "description": "محل استقرار نیروها و خودروهای سرکوب",
+        "sources": "",
+        "id": "MzY6NGNjOWNmZTEzMDIx",
+        "publicId": "MzY6NGNjOWNmZTEzMDIx",
+        "sourceId": "4cc9cfe13021",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "محل استقرار نیرو",
+          "city": "تبریز",
+          "province": "استان آذربایجان شرقی",
+          "date": 1775495504,
+          "description": "محل استقرار نیروها و خودروهای سرکوب",
+          "sources": "",
+          "name:en": "Military Base",
+          "description:en": "A place where security forces and riot control vehicles are stationed"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-06T19:03:58.797Z",
+        "updatedAt": "2026-04-06T19:03:58.797Z",
+        "name:en": "Military Base",
+        "description:en": "A place where security forces and riot control vehicles are stationed"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92948,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.285310053847695,
+          38.07119693593606
+        ]
+      },
+      "properties": {
+        "name:fa": "استقرار نیروهای بسیج",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "date": 1775495577,
+        "description": "محل استقرار نیروهای بسیج و نیروهای سرکوب در تعداد زیاد",
+        "sources": "",
+        "id": "MzY6Njg1MWU3Nzc4ZTIx",
+        "publicId": "MzY6Njg1MWU3Nzc4ZTIx",
+        "sourceId": "6851e7778e21",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "استقرار نیروهای بسیج",
+          "city": "تبریز",
+          "province": "استان آذربایجان شرقی",
+          "date": 1775495577,
+          "description": "محل استقرار نیروهای بسیج و نیروهای سرکوب در تعداد زیاد",
+          "sources": "",
+          "name:en": "Basij Forces Garrison",
+          "description:en": "A location for the deployment of Basij forces and suppression forces in large numbers"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-06T19:04:22.746Z",
+        "updatedAt": "2026-04-06T19:04:22.746Z",
+        "name:en": "Basij Forces Garrison",
+        "description:en": "A location for the deployment of Basij forces and suppression forces in large numbers"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92950,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.19462292903469,
+          35.75700287803244
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1775487885,
+        "description": "ایست بازرسی",
+        "sources": "",
+        "id": "MzY6ZjMwMTFiODhjOTM1",
+        "publicId": "MzY6ZjMwMTFiODhjOTM1",
+        "sourceId": "f3011b88c935",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "city": "تهران",
+          "province": "استان تهران",
+          "date": 1775487885,
+          "description": "ایست بازرسی",
+          "sources": "",
+          "name:en": "Checkpoint",
+          "description:en": "Checkpoint"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-06T19:34:11.633Z",
+        "updatedAt": "2026-04-06T19:34:11.633Z",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92951,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.01893437989318,
+          36.54574535667011
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "شهرستان ساری",
+        "province": "استان مازندران",
+        "date": 1775503745,
+        "description": "ایست بازرسی بسیج و نیرو انتظامی",
+        "sources": "",
+        "id": "MzY6OWY5ZDI4YjlhN2I5",
+        "publicId": "MzY6OWY5ZDI4YjlhN2I5",
+        "sourceId": "9f9d28b9a7b9",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "city": "شهرستان ساری",
+          "province": "استان مازندران",
+          "date": 1775503745,
+          "description": "ایست بازرسی بسیج و نیرو انتظامی",
+          "sources": "",
+          "name:en": "Inspection Post",
+          "description:en": "Inspection post of Basij and police force"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-06T19:35:18.214Z",
+        "updatedAt": "2026-04-06T19:35:18.214Z",
+        "name:en": "Inspection Post",
+        "description:en": "Inspection post of Basij and police force"
+      }
     }
   ],
   "metadata": {
-    "total": 490,
+    "total": 506,
     "layerId": 36,
     "clustered": false,
     "simplified": false
