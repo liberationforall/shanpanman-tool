@@ -26605,10 +26605,100 @@
         "updatedAt": "2026-04-04T15:13:29.159Z",
         "name:en": "Shalamcheh Crossing"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 92915,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.52975142514603,
+          27.578390375693616
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "برق دماوند عسلویه",
+        "unofficial_name:fa": "",
+        "date": 1775464200,
+        "geolocates": "",
+        "description": "",
+        "city": "عسلویه",
+        "province": "استان بوشهر",
+        "sources": "https://x.com/hey_itsmyturn/status/2041119801305669714?s=20",
+        "id": "MzI6NjhlM2ZlNWFiMDM0",
+        "publicId": "MzI6NjhlM2ZlNWFiMDM0",
+        "sourceId": "68e3fe5ab034",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "برق دماوند عسلویه",
+          "unofficial_name:fa": "",
+          "date": 1775464200,
+          "geolocates": "",
+          "description": "",
+          "city": "عسلویه",
+          "province": "استان بوشهر",
+          "sources": "https://x.com/hey_itsmyturn/status/2041119801305669714?s=20",
+          "name:en": "Barq Damavand Asaluyeh"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-06T11:57:15.289Z",
+        "updatedAt": "2026-04-06T11:57:15.289Z",
+        "name:en": "Barq Damavand Asaluyeh"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92942,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.482479835366945,
+          35.805002946956535
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "چهارم شرقی آجودانیه",
+        "unofficial_name:fa": "",
+        "date": 1775032200,
+        "geolocates": "",
+        "description": "حمله به این ساختمان واقع در چهارم شرقی آجودانیه ساختمان بانک پاسارگاد در تاریخ چهارشنبه ۱۲ فروردین",
+        "city": "تجریش",
+        "province": "استان تهران",
+        "sources": "",
+        "id": "MzI6MjkzMmQ4MGQ5NTM5",
+        "publicId": "MzI6MjkzMmQ4MGQ5NTM5",
+        "sourceId": "2932d80d9539",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "چهارم شرقی آجودانیه",
+          "unofficial_name:fa": "",
+          "date": 1775032200,
+          "geolocates": "",
+          "description": "حمله به این ساختمان واقع در چهارم شرقی آجودانیه ساختمان بانک پاسارگاد در تاریخ چهارشنبه ۱۲ فروردین",
+          "city": "تجریش",
+          "province": "استان تهران",
+          "sources": "",
+          "name:en": "Chaharam Sharqi Ajudaniyeh"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-06T12:30:51.729Z",
+        "updatedAt": "2026-04-06T12:30:51.729Z",
+        "name:en": "Chaharam Sharqi Ajudaniyeh"
+      }
     }
   ],
   "metadata": {
-    "total": 611,
+    "total": 613,
     "layerId": 32,
     "clustered": false,
     "simplified": false
