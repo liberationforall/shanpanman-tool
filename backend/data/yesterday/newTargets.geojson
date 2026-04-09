@@ -26695,10 +26695,55 @@
         "updatedAt": "2026-04-06T12:30:51.729Z",
         "name:en": "Chaharam Sharqi Ajudaniyeh"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 92954,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.04970496534105,
+          37.65711140986865
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "فرودگاه ارومیه",
+        "unofficial_name:fa": "",
+        "date": 1775478600,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان ارومیه",
+        "province": "استان آذربایجان غربی",
+        "sources": "https://x.com/acceladealer/status/2041190464116621588?s=20",
+        "id": "MzI6YmVmNDRkNjNmNjRi",
+        "publicId": "MzI6YmVmNDRkNjNmNjRi",
+        "sourceId": "bef44d63f64b",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "فرودگاه ارومیه",
+          "unofficial_name:fa": "",
+          "date": 1775478600,
+          "geolocates": "",
+          "description": "",
+          "city": "شهرستان ارومیه",
+          "province": "استان آذربایجان غربی",
+          "sources": "https://x.com/acceladealer/status/2041190464116621588?s=20",
+          "name:en": "Urmia Airport"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-07T21:15:04.216Z",
+        "updatedAt": "2026-04-07T21:15:04.216Z",
+        "name:en": "Urmia Airport"
+      }
     }
   ],
   "metadata": {
-    "total": 613,
+    "total": 614,
     "layerId": 32,
     "clustered": false,
     "simplified": false
