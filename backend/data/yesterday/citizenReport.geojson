@@ -100832,10 +100832,1209 @@
         "name:en": "Urmia Airport",
         "description:en": ""
       }
+    },
+    {
+      "type": "Feature",
+      "id": 92955,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.078869766770765,
+          27.101761198882002
+        ]
+      },
+      "properties": {
+        "name:fa": "ستاد فرماندهی انتظامی میناب",
+        "description": "ستاد فرماندهی انتظامی میناب",
+        "date": 1775578001,
+        "city": "میناب",
+        "province": "استان هرمزگان",
+        "id": "MzpmODU5Nzc4ZTA3YmE",
+        "publicId": "MzpmODU5Nzc4ZTA3YmE",
+        "sourceId": "f859778e07ba",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ستاد فرماندهی انتظامی میناب",
+          "description": "ستاد فرماندهی انتظامی میناب",
+          "date": 1775578001,
+          "city": "میناب",
+          "province": "استان هرمزگان",
+          "name:en": "Minab Police Command Headquarters",
+          "description:en": "Minab Police Command Headquarters"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T03:58:50.384Z",
+        "updatedAt": "2026-04-09T03:58:50.384Z",
+        "name:en": "Minab Police Command Headquarters",
+        "description:en": "Minab Police Command Headquarters"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92956,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.718212754932125,
+          35.74792800803418
+        ]
+      },
+      "properties": {
+        "name:fa": "پل لجستیکی",
+        "city": "شهرستان پردیس",
+        "province": "استان تهران",
+        "date": 1775572419,
+        "description": "پل لجستیکی و تحرکات نظامی در روز های اخیر. هم اکنون ساعت 18:03 ۷ اوریل تحرکات نظامی مشاهده شده بر روی این پل سریعا خواستار اقدام",
+        "sources": "",
+        "id": "MzY6MGZlYmI4MDAxNWNm",
+        "publicId": "MzY6MGZlYmI4MDAxNWNm",
+        "sourceId": "0febb80015cf",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پل لجستیکی",
+          "city": "شهرستان پردیس",
+          "province": "استان تهران",
+          "date": 1775572419,
+          "description": "پل لجستیکی و تحرکات نظامی در روز های اخیر. هم اکنون ساعت 18:03 ۷ اوریل تحرکات نظامی مشاهده شده بر روی این پل سریعا خواستار اقدام",
+          "sources": "",
+          "name:en": "Logistics Bridge",
+          "description:en": "Logistics bridge and military movements in recent days. Currently at 18:03 on April 7, military movements have been observed on this bridge, urgently requesting action"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T04:01:35.710Z",
+        "updatedAt": "2026-04-09T04:01:35.710Z",
+        "name:en": "Logistics Bridge",
+        "description:en": "Logistics bridge and military movements in recent days. Currently at 18:03 on April 7, military movements have been observed on this bridge, urgently requesting action"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92989,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.81953992616826,
+          30.1138955743712
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "سالن باباکلان - مورد استفاده نظامی",
+        "unofficial_name:fa": "",
+        "date": 1774081800,
+        "geolocates": "",
+        "description": "",
+        "city": "باباکلان",
+        "province": "استان کهگیلویه و بویراحمد",
+        "sources": "",
+        "id": "MzI6MGYwMTE0NDk3OGI1",
+        "publicId": "MzI6MGYwMTE0NDk3OGI1",
+        "sourceId": "0f01144978b5",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "سالن باباکلان - مورد استفاده نظامی",
+          "unofficial_name:fa": "",
+          "date": 1774081800,
+          "geolocates": "",
+          "description": "",
+          "city": "باباکلان",
+          "province": "استان کهگیلویه و بویراحمد",
+          "sources": "",
+          "name:en": "Babaklan Hall - Military Use",
+          "description:en": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T11:08:54.022Z",
+        "updatedAt": "2026-04-09T11:08:54.022Z",
+        "name:en": "Babaklan Hall - Military Use",
+        "description:en": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92990,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.94967826391968,
+          34.85620956519888
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پرتابگر موشک",
+        "unofficial_name:fa": "",
+        "date": 1775381400,
+        "geolocates": "",
+        "description": "انهدام لانچر موشکی و کامیون حامل موشک در جادە سنندج کامیاران",
+        "city": "شهرستان کامیاران",
+        "province": "استان کردستان",
+        "sources": "https://x.com/MiddleEastBuka/status/2040791733626118275",
+        "id": "MzI6N2Y4ZDQ5MzY2Zjhh",
+        "publicId": "MzI6N2Y4ZDQ5MzY2Zjhh",
+        "sourceId": "7f8d49366f8a",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "پرتابگر موشک",
+          "unofficial_name:fa": "",
+          "date": 1775381400,
+          "geolocates": "",
+          "description": "انهدام لانچر موشکی و کامیون حامل موشک در جادە سنندج کامیاران",
+          "city": "شهرستان کامیاران",
+          "province": "استان کردستان",
+          "sources": "https://x.com/MiddleEastBuka/status/2040791733626118275",
+          "name:en": "Rocket Launcher",
+          "description:en": "Destruction of a missile launcher and missile-carrying truck on the Sanandaj-Kamyaran road"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T11:11:50.484Z",
+        "updatedAt": "2026-04-09T11:11:50.484Z",
+        "name:en": "Rocket Launcher",
+        "description:en": "Destruction of a missile launcher and missile-carrying truck on the Sanandaj-Kamyaran road"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92991,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.19084311864981,
+          37.488807019093485
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "سواله ناشناس",
+        "unofficial_name:fa": "",
+        "date": 1775284200,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان ارومیه",
+        "province": "استان آذربایجان غربی",
+        "sources": "",
+        "id": "MzI6OGIyNjVkYTlmMWY2",
+        "publicId": "MzI6OGIyNjVkYTlmMWY2",
+        "sourceId": "8b265da9f1f6",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "سواله ناشناس",
+          "unofficial_name:fa": "",
+          "date": 1775284200,
+          "geolocates": "",
+          "description": "",
+          "city": "شهرستان ارومیه",
+          "province": "استان آذربایجان غربی",
+          "sources": "",
+          "name:en": "Svaleh Nashenās",
+          "description:en": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T11:12:52.279Z",
+        "updatedAt": "2026-04-09T11:12:52.279Z",
+        "name:en": "Svaleh Nashenās",
+        "description:en": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92992,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.06504532535459,
+          36.56354303416805
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه سایبری شهرستان ساری",
+        "city": "ساری",
+        "province": "استان مازندران",
+        "date": 1775602731,
+        "description": "پایگاه سایبری شهرستان ساری",
+        "sources": "",
+        "id": "MzY6MDIxMjY1YjczODA2",
+        "publicId": "MzY6MDIxMjY1YjczODA2",
+        "sourceId": "021265b73806",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه سایبری شهرستان ساری",
+          "city": "ساری",
+          "province": "استان مازندران",
+          "date": 1775602731,
+          "description": "پایگاه سایبری شهرستان ساری",
+          "sources": "",
+          "name:en": "Sari Cyber Base",
+          "description:en": "Sari Cyber Base"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T17:47:01.788Z",
+        "updatedAt": "2026-04-09T17:47:01.788Z",
+        "name:en": "Sari Cyber Base",
+        "description:en": "Sari Cyber Base"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92993,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.031542528790226,
+          36.558366206474915
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": 1775602612,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MTpmNTY2YjJlNjdiYzY",
+        "publicId": "MTpmNTY2YjJlNjdiYzY",
+        "sourceId": "f566b2e67bc6",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه بسیج",
+          "unofficial_name:fa": "",
+          "description": "",
+          "date": 1775602612,
+          "city": "ساری",
+          "province": "استان مازندران",
+          "name:en": "Basij Base",
+          "description:en": "A military or paramilitary facility operated by the Basij, Iran's volunteer militia force."
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T17:47:47.435Z",
+        "updatedAt": "2026-04-09T17:47:47.435Z",
+        "name:en": "Basij Base",
+        "description:en": "A military or paramilitary facility operated by the Basij, Iran's volunteer militia force."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92994,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.7877274456863,
+          35.78573370365318
+        ]
+      },
+      "properties": {
+        "name:fa": "لانچر سپاه",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "دو لانچر سپاه آوردن داخل سوله قایم کردن",
+        "date": 1775744404,
+        "city": "شهرستان ساوجبلاغ",
+        "province": "استان البرز",
+        "id": "Nzo2NWI3N2I1YTliYTg",
+        "publicId": "Nzo2NWI3N2I1YTliYTg",
+        "sourceId": "65b77b5a9ba8",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "لانچر سپاه",
+          "unofficial_name:fa": "",
+          "operator": "",
+          "description": "دو لانچر سپاه آوردن داخل سوله قایم کردن",
+          "date": 1775744404,
+          "city": "شهرستان ساوجبلاغ",
+          "province": "استان البرز",
+          "name:en": "Sepah Launcher",
+          "description:en": "Two Sepah launchers brought into and set up inside the hangar"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T17:49:13.513Z",
+        "updatedAt": "2026-04-09T17:49:13.513Z",
+        "name:en": "Sepah Launcher",
+        "description:en": "Two Sepah launchers brought into and set up inside the hangar"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92995,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.40613963253881,
+          35.73990635502186
+        ]
+      },
+      "properties": {
+        "name:fa": "ساختمان پدافند غیر عامل",
+        "unofficial_name:fa": "",
+        "description": "این ساختمان پدافند غیر عامل ولی در پوشش خانه مسکونی است",
+        "date": 1775706209,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "ODplNjhjMTg5N2Q1Yjg",
+        "publicId": "ODplNjhjMTg5N2Q1Yjg",
+        "sourceId": "e68c1897d5b8",
+        "layerId": 8,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ساختمان پدافند غیر عامل",
+          "unofficial_name:fa": "",
+          "description": "این ساختمان پدافند غیر عامل ولی در پوشش خانه مسکونی است",
+          "date": 1775706209,
+          "city": "تهران",
+          "province": "استان تهران",
+          "name:en": "Passive Defense Building",
+          "description:en": "This is a passive defense building that is covered by a residential house"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T17:50:49.583Z",
+        "updatedAt": "2026-04-09T17:50:49.583Z",
+        "name:en": "Passive Defense Building",
+        "description:en": "This is a passive defense building that is covered by a residential house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92996,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.35166950214284,
+          35.76429839380802
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی و ایجاد ترافیک مصنوعی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1775725000,
+        "description": "ایست بازرسی گذاشتن و مارپیچی مانع گذاشتن تا ترافیک مصنوعی ایجاد بشه.",
+        "sources": "",
+        "id": "MzY6YjgxMjkwZTI1ZDFi",
+        "publicId": "MzY6YjgxMjkwZTI1ZDFi",
+        "sourceId": "b81290e25d1b",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی و ایجاد ترافیک مصنوعی",
+          "city": "تهران",
+          "province": "استان تهران",
+          "date": 1775725000,
+          "description": "ایست بازرسی گذاشتن و مارپیچی مانع گذاشتن تا ترافیک مصنوعی ایجاد بشه.",
+          "sources": "",
+          "name:en": "Inspection Checkpoint and Artificial Traffic Creation Point",
+          "description:en": "An inspection checkpoint where barriers and serpentine obstacles are placed to create artificial traffic."
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T17:51:24.948Z",
+        "updatedAt": "2026-04-09T17:51:24.948Z",
+        "name:en": "Inspection Checkpoint and Artificial Traffic Creation Point",
+        "description:en": "An inspection checkpoint where barriers and serpentine obstacles are placed to create artificial traffic."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92997,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.36185543160397,
+          35.77703137927375
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه سیدالشهدا - محل تجمع بسیج",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1775574350,
+        "description": "نیروهای لباس شخصی و بسیج در حسینیه سیدالشهدا تجمع میکنند و کاروان های شبانه سعادت آباد از اینجا تجهیز می شوند. یک تویوتا وانت خاکستری اتاق ۷۰ با دوشکا جلوی در حسینیه قرار دارد و اول کاروان حرکت میکند.",
+        "sources": "",
+        "id": "MzY6OGQwYmFmODk4ZjA0",
+        "publicId": "MzY6OGQwYmFmODk4ZjA0",
+        "sourceId": "8d0baf898f04",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "حسینیه سیدالشهدا - محل تجمع بسیج",
+          "city": "تهران",
+          "province": "استان تهران",
+          "date": 1775574350,
+          "description": "نیروهای لباس شخصی و بسیج در حسینیه سیدالشهدا تجمع میکنند و کاروان های شبانه سعادت آباد از اینجا تجهیز می شوند. یک تویوتا وانت خاکستری اتاق ۷۰ با دوشکا جلوی در حسینیه قرار دارد و اول کاروان حرکت میکند.",
+          "sources": "",
+          "name:en": "Hosseinieh Seyyed al-Shohada - Basij Gathering Place",
+          "description:en": "Plainclothes forces and Basij gather at Hosseinieh Seyyed al-Shohada, and night convoys to Saadatabad are equipped from here. A gray Toyota van, room 70, with a Dushka is positioned in front of the Hosseinieh entrance and leads the first convoy."
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T17:52:21.502Z",
+        "updatedAt": "2026-04-09T17:52:21.502Z",
+        "name:en": "Hosseinieh Seyyed al-Shohada - Basij Gathering Place",
+        "description:en": "Plainclothes forces and Basij gather at Hosseinieh Seyyed al-Shohada, and night convoys to Saadatabad are equipped from here. A gray Toyota van, room 70, with a Dushka is positioned in front of the Hosseinieh entrance and leads the first convoy."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92998,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.940644671099875,
+          35.857371100501524
+        ]
+      },
+      "properties": {
+        "name:fa": "رفت و آمد سپاهیان",
+        "city": "کرج",
+        "province": "استان البرز",
+        "date": 1775731648,
+        "description": "سپاهیان با لباس شخصی رفت و امد می کنند مدام",
+        "sources": "",
+        "id": "MzY6ZThmMTk0NGI4Nzcw",
+        "publicId": "MzY6ZThmMTk0NGI4Nzcw",
+        "sourceId": "e8f1944b8770",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "رفت و آمد سپاهیان",
+          "city": "کرج",
+          "province": "استان البرز",
+          "date": 1775731648,
+          "description": "سپاهیان با لباس شخصی رفت و امد می کنند مدام",
+          "sources": "",
+          "name:en": "Sepahian Commute",
+          "description:en": "Sepahians in civilian clothes commute constantly"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T17:54:21.352Z",
+        "updatedAt": "2026-04-09T17:54:21.352Z",
+        "name:en": "Sepahian Commute",
+        "description:en": "Sepahians in civilian clothes commute constantly"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92999,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.01115841741898,
+          35.82960613005832
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "برخورد موشک",
+        "unofficial_name:fa": "",
+        "date": 1775467800,
+        "geolocates": "",
+        "description": "دوشنبه ۱۷ فروردین برخورد موشک به جلسه سران فرماندهان هوافضا سپاه و کشته شدن ۱۰ نفر عوامل سپاه و ۸ نفر مردم کاملا عادی که در خانه های مجاور بودن",
+        "city": "کرج",
+        "province": "استان البرز",
+        "sources": "",
+        "id": "MzI6YWU2Zjg4ZDliZTUx",
+        "publicId": "MzI6YWU2Zjg4ZDliZTUx",
+        "sourceId": "ae6f88d9be51",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "برخورد موشک",
+          "unofficial_name:fa": "",
+          "date": 1775467800,
+          "geolocates": "",
+          "description": "دوشنبه ۱۷ فروردین برخورد موشک به جلسه سران فرماندهان هوافضا سپاه و کشته شدن ۱۰ نفر عوامل سپاه و ۸ نفر مردم کاملا عادی که در خانه های مجاور بودن",
+          "city": "کرج",
+          "province": "استان البرز",
+          "sources": "",
+          "name:en": "Missile Strike",
+          "description:en": "Monday, 7 April missile strike on a meeting of aerospace commanders of the IRGC and killing of 10 IRGC personnel and 8 civilians who were in neighboring houses"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T17:56:33.119Z",
+        "updatedAt": "2026-04-09T17:56:33.119Z",
+        "name:en": "Missile Strike",
+        "description:en": "Monday, 7 April missile strike on a meeting of aerospace commanders of the IRGC and killing of 10 IRGC personnel and 8 civilians who were in neighboring houses"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93000,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.37728020244924,
+          35.67686765097862
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد چهارده معصوم",
+        "description": "افراد بسیجی و طرفدار نظام بعضی شبا اینجا تجمع میکنن.",
+        "date": 1775685925,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "NDpkMGQ4NjZhYjYyMmU",
+        "publicId": "NDpkMGQ4NjZhYjYyMmU",
+        "sourceId": "d0d866ab622e",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مسجد چهارده معصوم",
+          "description": "افراد بسیجی و طرفدار نظام بعضی شبا اینجا تجمع میکنن.",
+          "date": 1775685925,
+          "city": "تهران",
+          "province": "استان تهران",
+          "name:en": "Mashhad Chahardeah Masoum Mosque",
+          "description:en": "Basij members and system supporters sometimes gather here at night."
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T17:56:40.155Z",
+        "updatedAt": "2026-04-09T17:56:40.155Z",
+        "name:en": "Mashhad Chahardeah Masoum Mosque",
+        "description:en": "Basij members and system supporters sometimes gather here at night."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93001,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.37354927357626,
+          35.673493445725015
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج مقداد",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": 1775686165,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MTpmMTMxMTljODAyNTM",
+        "publicId": "MTpmMTMxMTljODAyNTM",
+        "sourceId": "f13119c80253",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه بسیج مقداد",
+          "unofficial_name:fa": "",
+          "description": "",
+          "date": 1775686165,
+          "city": "تهران",
+          "province": "استان تهران",
+          "name:en": "Pasdaran Basij Moqdad Base",
+          "description:en": "Basij mobilization base named after Moqdad"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T17:57:16.108Z",
+        "updatedAt": "2026-04-09T17:57:16.108Z",
+        "name:en": "Pasdaran Basij Moqdad Base",
+        "description:en": "Basij mobilization base named after Moqdad"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93002,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.36902182905379,
+          35.67766079529025
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "کلانتری هفت چنار",
+        "unofficial_name:fa": "",
+        "date": 1773397800,
+        "geolocates": "",
+        "description": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "https://www.instagram.com/reel/DV0XAD3Ex26/",
+        "id": "MzI6ZDM4MDQ4YjY1NzMx",
+        "publicId": "MzI6ZDM4MDQ4YjY1NzMx",
+        "sourceId": "d38048b65731",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "کلانتری هفت چنار",
+          "unofficial_name:fa": "",
+          "date": 1773397800,
+          "geolocates": "",
+          "description": "",
+          "city": "تهران",
+          "province": "استان تهران",
+          "sources": "https://www.instagram.com/reel/DV0XAD3Ex26/",
+          "name:en": "Kolantari Haft Chenar",
+          "description:en": "Kolantari (police station) located in the Haft Chenar area"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T18:00:13.643Z",
+        "updatedAt": "2026-04-09T18:00:13.643Z",
+        "name:en": "Kolantari Haft Chenar",
+        "description:en": "Kolantari (police station) located in the Haft Chenar area"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93003,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.19885853473755,
+          36.1999830091476
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند هوایی",
+        "unofficial_name:fa": "",
+        "description": "در تاگی یک پدافند هوایی گذاشتن که شبانه ساعت سه آوردن و برقرار کردن.",
+        "date": 1775706960,
+        "city": "خرمدره",
+        "province": "استان زنجان",
+        "id": "ODo3ZWI1MzUwOWFhOTk",
+        "publicId": "ODo3ZWI1MzUwOWFhOTk",
+        "sourceId": "7eb53509aa99",
+        "layerId": 8,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پدافند هوایی",
+          "unofficial_name:fa": "",
+          "description": "در تاگی یک پدافند هوایی گذاشتن که شبانه ساعت سه آوردن و برقرار کردن.",
+          "date": 1775706960,
+          "city": "خرمدره",
+          "province": "استان زنجان",
+          "name:en": "Air Defense",
+          "description:en": "An air defense system was installed in Tagi that was brought and established at three o'clock in the night."
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T18:25:14.073Z",
+        "updatedAt": "2026-04-09T18:25:14.073Z",
+        "name:en": "Air Defense",
+        "description:en": "An air defense system was installed in Tagi that was brought and established at three o'clock in the night."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93004,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.45835403510151,
+          35.718236506835595
+        ]
+      },
+      "properties": {
+        "name:fa": "حمل مهمات موشکی",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "حمل 6 کامیون مهمات موشکی به این نقطه",
+        "date": 1775578305,
+        "city": "قشلاق نوروز",
+        "province": "استان کردستان",
+        "id": "NzphOGVjYjRlMWFmYjE",
+        "publicId": "NzphOGVjYjRlMWFmYjE",
+        "sourceId": "a8ecb4e1afb1",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "حمل مهمات موشکی",
+          "unofficial_name:fa": "",
+          "operator": "",
+          "description": "حمل 6 کامیون مهمات موشکی به این نقطه",
+          "date": 1775578305,
+          "city": "قشلاق نوروز",
+          "province": "استان کردستان",
+          "name:en": "Missile Ammunition Transport",
+          "description:en": "Transport of 6 trucks of missile ammunition to this location"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T18:26:55.903Z",
+        "updatedAt": "2026-04-09T18:26:55.903Z",
+        "name:en": "Missile Ammunition Transport",
+        "description:en": "Transport of 6 trucks of missile ammunition to this location"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93005,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.07776094670692,
+          27.839022775550703
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی کنگان",
+        "city": "شهرستان کنگان",
+        "province": "استان بوشهر",
+        "date": 1775749628,
+        "description": "ایست بازرسی ورودی شهر کنگان از سمت اتوبان و محل استراحت هم این طرف سمت خروجی داخل واحد تجاری",
+        "sources": "",
+        "id": "MzY6MGRmMDBkNGU5ZDAw",
+        "publicId": "MzY6MGRmMDBkNGU5ZDAw",
+        "sourceId": "0df00d4e9d00",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی کنگان",
+          "city": "شهرستان کنگان",
+          "province": "استان بوشهر",
+          "date": 1775749628,
+          "description": "ایست بازرسی ورودی شهر کنگان از سمت اتوبان و محل استراحت هم این طرف سمت خروجی داخل واحد تجاری",
+          "sources": "",
+          "name:en": "Kanggan Inspection Station",
+          "description:en": "An inspection station at the entrance of Kanggan city from the highway side, with a rest area on this side towards the exit inside the commercial unit"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T18:27:30.971Z",
+        "updatedAt": "2026-04-09T18:27:30.971Z",
+        "name:en": "Kanggan Inspection Station",
+        "description:en": "An inspection station at the entrance of Kanggan city from the highway side, with a rest area on this side towards the exit inside the commercial unit"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93006,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.07072837078704,
+          28.054980961192484
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج شهر ریز",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": 1775749514,
+        "city": "ریز",
+        "province": "استان بوشهر",
+        "id": "MTpiMmQwMDJjMmVhODc",
+        "publicId": "MTpiMmQwMDJjMmVhODc",
+        "sourceId": "b2d002c2ea87",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "بسیج شهر ریز",
+          "unofficial_name:fa": "",
+          "description": "",
+          "date": 1775749514,
+          "city": "ریز",
+          "province": "استان بوشهر",
+          "name:en": "Basij Shahr Riz",
+          "description:en": ""
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T18:30:44.662Z",
+        "updatedAt": "2026-04-09T18:30:44.662Z",
+        "name:en": "Basij Shahr Riz",
+        "description:en": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93007,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.35330942383516,
+          27.810988573502158
+        ]
+      },
+      "properties": {
+        "name:fa": "نیروی انتظامی جم",
+        "description": "نیروی انتظامی شهر جم، طبقه دوم اداره اطلاعات و شنود اطلاعات مردم",
+        "date": 1775749101,
+        "city": "جم",
+        "province": "استان بوشهر",
+        "id": "MzpkMWU5ZTFlYzIzM2U",
+        "publicId": "MzpkMWU5ZTFlYzIzM2U",
+        "sourceId": "d1e9e1ec233e",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "نیروی انتظامی جم",
+          "description": "نیروی انتظامی شهر جم، طبقه دوم اداره اطلاعات و شنود اطلاعات مردم",
+          "date": 1775749101,
+          "city": "جم",
+          "province": "استان بوشهر",
+          "name:en": "Jam Police Force",
+          "description:en": "Jam City Police Force, second tier of the information and intelligence gathering bureau"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T18:33:35.350Z",
+        "updatedAt": "2026-04-09T18:33:35.350Z",
+        "name:en": "Jam Police Force",
+        "description:en": "Jam City Police Force, second tier of the information and intelligence gathering bureau"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93008,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.323547316896594,
+          38.06606561383461
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای بسیج",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "date": 1775541100,
+        "description": "محل تجمع نیروهای بسیج، سرکوب و ماشین الات سنگین نظامی",
+        "sources": "",
+        "id": "MzY6NjAzYWMwMWFhM2E4",
+        "publicId": "MzY6NjAzYWMwMWFhM2E4",
+        "sourceId": "603ac01aa3a8",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تجمع نیروهای بسیج",
+          "city": "تبریز",
+          "province": "استان آذربایجان شرقی",
+          "date": 1775541100,
+          "description": "محل تجمع نیروهای بسیج، سرکوب و ماشین الات سنگین نظامی",
+          "sources": "",
+          "name:en": "Basij Forces Assembly Point",
+          "description:en": "A gathering place for Basij forces, suppression equipment, and heavy military machinery"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T18:50:39.299Z",
+        "updatedAt": "2026-04-09T18:50:39.299Z",
+        "name:en": "Basij Forces Assembly Point",
+        "description:en": "A gathering place for Basij forces, suppression equipment, and heavy military machinery"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93009,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.25444383802008,
+          38.07364565548784
+        ]
+      },
+      "properties": {
+        "name:fa": "استقرار نیروهای بسیج",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "date": 1775540870,
+        "description": "محل استقرار نیروهای بسیج و نیروهای سرکوب و ماشین آلات سرکوب زیر پل",
+        "sources": "",
+        "id": "MzY6ZGMzODhlYThkMGEz",
+        "publicId": "MzY6ZGMzODhlYThkMGEz",
+        "sourceId": "dc388ea8d0a3",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "استقرار نیروهای بسیج",
+          "city": "تبریز",
+          "province": "استان آذربایجان شرقی",
+          "date": 1775540870,
+          "description": "محل استقرار نیروهای بسیج و نیروهای سرکوب و ماشین آلات سرکوب زیر پل",
+          "sources": "",
+          "name:en": "Basij Forces Station",
+          "description:en": "Station for Basij forces and suppression forces with suppression machinery under the bridge"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T18:51:05.050Z",
+        "updatedAt": "2026-04-09T18:51:05.050Z",
+        "name:en": "Basij Forces Station",
+        "description:en": "Station for Basij forces and suppression forces with suppression machinery under the bridge"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93010,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.244886761027516,
+          38.07341313988849
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع نیروهای بسیج",
+        "unofficial_name:fa": "",
+        "description": "محل تجمع نیروهای بسیج و سرکوب",
+        "date": 1775540931,
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzY6MmIyNWI3NDIyMzZk",
+        "publicId": "MzY6MmIyNWI3NDIyMzZk",
+        "sourceId": "2b25b742236d",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "محل تجمع نیروهای بسیج",
+          "unofficial_name:fa": "",
+          "description": "محل تجمع نیروهای بسیج و سرکوب",
+          "date": 1775540931,
+          "city": "تبریز",
+          "province": "استان آذربایجان شرقی",
+          "name:en": "Basij Forces Gathering Place",
+          "description:en": "Gathering place of Basij forces and suppression forces"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T18:51:40.581Z",
+        "updatedAt": "2026-04-09T18:51:55.829Z",
+        "name:en": "Basij Forces Gathering Place",
+        "description:en": "Gathering place of Basij forces and suppression forces"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93011,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.24483726985318,
+          38.073070048579694
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع نیروهای بسیج",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "date": 1775540964,
+        "description": "محل تجمع نیروهای بسیج و سرکوب",
+        "sources": "",
+        "id": "MzY6NTdjMGE0ZTdmMDhk",
+        "publicId": "MzY6NTdjMGE0ZTdmMDhk",
+        "sourceId": "57c0a4e7f08d",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "محل تجمع نیروهای بسیج",
+          "city": "تبریز",
+          "province": "استان آذربایجان شرقی",
+          "date": 1775540964,
+          "description": "محل تجمع نیروهای بسیج و سرکوب",
+          "sources": "",
+          "name:en": "Basij Forces Assembly Point",
+          "description:en": "Assembly point of Basij forces and suppression"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T18:52:07.311Z",
+        "updatedAt": "2026-04-09T18:52:07.311Z",
+        "name:en": "Basij Forces Assembly Point",
+        "description:en": "Assembly point of Basij forces and suppression"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93012,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.06032254675162,
+          37.533282789204264
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": 1775591783,
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "name:fa": "نیروی اطلاعاتی",
+        "id": "MjpiOGJjNDViNTZjNTY",
+        "publicId": "MjpiOGJjNDViNTZjNTY",
+        "sourceId": "b8bc45b56c56",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "unofficial_name:fa": "",
+          "description": "",
+          "date": 1775591783,
+          "city": "ارومیه",
+          "province": "استان آذربایجان غربی",
+          "name:fa": "نیروی اطلاعاتی",
+          "name:en": "Intelligence Force",
+          "description:en": ""
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-10T01:46:58.904Z",
+        "updatedAt": "2026-04-10T01:46:58.904Z",
+        "name:en": "Intelligence Force",
+        "description:en": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93013,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.142929835945864,
+          37.61233002345021
+        ]
+      },
+      "properties": {
+        "name:fa": "منطقه نظامی سپاه",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": 1775545423,
+        "city": "شهرستان ارومیه",
+        "province": "استان آذربایجان غربی",
+        "id": "MTI6NGI5MTBkMzY4ODg4",
+        "publicId": "MTI6NGI5MTBkMzY4ODg4",
+        "sourceId": "4b910d368888",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "منطقه نظامی سپاه",
+          "unofficial_name:fa": "",
+          "description": "",
+          "date": 1775545423,
+          "city": "شهرستان ارومیه",
+          "province": "استان آذربایجان غربی",
+          "name:en": "Sepah Military Zone",
+          "description:en": ""
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-10T01:48:21.667Z",
+        "updatedAt": "2026-04-10T01:48:21.667Z",
+        "name:en": "Sepah Military Zone",
+        "description:en": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93014,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.08150112301402,
+          37.54522996471027
+        ]
+      },
+      "properties": {
+        "name:fa": "مکان نظامی",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": 1775513163,
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "id": "MTI6ODUyMDQxM2YzYmU1",
+        "publicId": "MTI6ODUyMDQxM2YzYmU1",
+        "sourceId": "8520413f3be5",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مکان نظامی",
+          "unofficial_name:fa": "",
+          "description": "",
+          "date": 1775513163,
+          "city": "ارومیه",
+          "province": "استان آذربایجان غربی",
+          "name:en": "Military Place",
+          "description:en": ""
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-10T01:48:56.245Z",
+        "updatedAt": "2026-04-10T01:48:56.245Z",
+        "name:en": "Military Place",
+        "description:en": ""
+      }
     }
   ],
   "metadata": {
-    "total": 2464,
+    "total": 2492,
     "citizenReport": true,
     "clustered": false,
     "simplified": false

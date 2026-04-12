@@ -26746,10 +26746,235 @@
         "updatedAt": "2026-04-08T20:49:25.588Z",
         "name:en": "Urmia Airport"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 92989,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.81953992616826,
+          30.1138955743712
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "سالن باباکلان - مورد استفاده نظامی",
+        "unofficial_name:fa": "",
+        "date": 1774081800,
+        "geolocates": "",
+        "description": "",
+        "city": "باباکلان",
+        "province": "استان کهگیلویه و بویراحمد",
+        "sources": "",
+        "id": "MzI6MGYwMTE0NDk3OGI1",
+        "publicId": "MzI6MGYwMTE0NDk3OGI1",
+        "sourceId": "0f01144978b5",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "سالن باباکلان - مورد استفاده نظامی",
+          "unofficial_name:fa": "",
+          "date": 1774081800,
+          "geolocates": "",
+          "description": "",
+          "city": "باباکلان",
+          "province": "استان کهگیلویه و بویراحمد",
+          "sources": "",
+          "name:en": "Babakalan Hall - Military Use"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T11:08:54.022Z",
+        "updatedAt": "2026-04-09T11:08:54.022Z",
+        "name:en": "Babakalan Hall - Military Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92990,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.94967826391968,
+          34.85620956519888
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پرتابگر موشک",
+        "unofficial_name:fa": "",
+        "date": 1775381400,
+        "geolocates": "",
+        "description": "انهدام لانچر موشکی و کامیون حامل موشک در جادە سنندج کامیاران",
+        "city": "شهرستان کامیاران",
+        "province": "استان کردستان",
+        "sources": "https://x.com/MiddleEastBuka/status/2040791733626118275",
+        "id": "MzI6N2Y4ZDQ5MzY2Zjhh",
+        "publicId": "MzI6N2Y4ZDQ5MzY2Zjhh",
+        "sourceId": "7f8d49366f8a",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "پرتابگر موشک",
+          "unofficial_name:fa": "",
+          "date": 1775381400,
+          "geolocates": "",
+          "description": "انهدام لانچر موشکی و کامیون حامل موشک در جادە سنندج کامیاران",
+          "city": "شهرستان کامیاران",
+          "province": "استان کردستان",
+          "sources": "https://x.com/MiddleEastBuka/status/2040791733626118275",
+          "name:en": "Missile Launcher"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T11:11:50.484Z",
+        "updatedAt": "2026-04-09T11:11:50.484Z",
+        "name:en": "Missile Launcher"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92991,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.19084311864981,
+          37.488807019093485
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "سواله ناشناس",
+        "unofficial_name:fa": "",
+        "date": 1775284200,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان ارومیه",
+        "province": "استان آذربایجان غربی",
+        "sources": "",
+        "id": "MzI6OGIyNjVkYTlmMWY2",
+        "publicId": "MzI6OGIyNjVkYTlmMWY2",
+        "sourceId": "8b265da9f1f6",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "سواله ناشناس",
+          "unofficial_name:fa": "",
+          "date": 1775284200,
+          "geolocates": "",
+          "description": "",
+          "city": "شهرستان ارومیه",
+          "province": "استان آذربایجان غربی",
+          "sources": "",
+          "name:en": "Swale Nashenās"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T11:12:52.279Z",
+        "updatedAt": "2026-04-09T11:12:52.279Z",
+        "name:en": "Swale Nashenās"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92999,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.01115841741898,
+          35.82960613005832
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "برخورد موشک",
+        "unofficial_name:fa": "",
+        "date": 1775467800,
+        "geolocates": "",
+        "description": "دوشنبه ۱۷ فروردین برخورد موشک به جلسه سران فرماندهان هوافضا سپاه و کشته شدن ۱۰ نفر عوامل سپاه و ۸ نفر مردم کاملا عادی که در خانه های مجاور بودن",
+        "city": "کرج",
+        "province": "استان البرز",
+        "sources": "",
+        "id": "MzI6YWU2Zjg4ZDliZTUx",
+        "publicId": "MzI6YWU2Zjg4ZDliZTUx",
+        "sourceId": "ae6f88d9be51",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "در حال بررسی",
+          "name:fa": "برخورد موشک",
+          "unofficial_name:fa": "",
+          "date": 1775467800,
+          "geolocates": "",
+          "description": "دوشنبه ۱۷ فروردین برخورد موشک به جلسه سران فرماندهان هوافضا سپاه و کشته شدن ۱۰ نفر عوامل سپاه و ۸ نفر مردم کاملا عادی که در خانه های مجاور بودن",
+          "city": "کرج",
+          "province": "استان البرز",
+          "sources": "",
+          "name:en": "Borkhord Missile"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T17:56:33.119Z",
+        "updatedAt": "2026-04-09T17:56:33.119Z",
+        "name:en": "Borkhord Missile"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93002,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.36902182905379,
+          35.67766079529025
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "کلانتری هفت چنار",
+        "unofficial_name:fa": "",
+        "date": 1773397800,
+        "geolocates": "",
+        "description": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "https://www.instagram.com/reel/DV0XAD3Ex26/",
+        "id": "MzI6ZDM4MDQ4YjY1NzMx",
+        "publicId": "MzI6ZDM4MDQ4YjY1NzMx",
+        "sourceId": "d38048b65731",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "name:fa": "کلانتری هفت چنار",
+          "unofficial_name:fa": "",
+          "date": 1773397800,
+          "geolocates": "",
+          "description": "",
+          "city": "تهران",
+          "province": "استان تهران",
+          "sources": "https://www.instagram.com/reel/DV0XAD3Ex26/",
+          "name:en": "Haft Chenar Police Station"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T18:00:13.643Z",
+        "updatedAt": "2026-04-09T18:00:13.643Z",
+        "name:en": "Haft Chenar Police Station"
+      }
     }
   ],
   "metadata": {
-    "total": 614,
+    "total": 619,
     "layerId": 32,
     "clustered": false,
     "simplified": false
