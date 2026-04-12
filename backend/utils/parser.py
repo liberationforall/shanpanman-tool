@@ -145,7 +145,7 @@ def load_strikes() -> list[dict]:
         in_tehran = district is not False
 
         strike_date_iso = strike_date.isoformat() if strike_date else None
-        if strike_date_iso and strike_date_iso < "2026-02-28":
+        if strike_date_iso and (strike_date_iso < "2026-02-28" or strike_date_iso > date.today().isoformat()):
             continue
 
         strikes.append(
