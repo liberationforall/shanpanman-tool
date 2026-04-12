@@ -163,8 +163,9 @@ def build_translation_cache(yesterday_path: Path, file_type: str = "newTargets")
         if not feature_id:
             continue
         info = _decode_info(props.get("info", {}))
-        name_en = info.get("name:en", "").strip()
-        description_en = info.get("description:en", "").strip()
+        name_en = (info.get("name:en") or props.get("name:en", "")).strip()
+        description_en = info.get("description:en") if "description:en" in info else props.get("description:en", "")
+        description_en = str(description_en).strip() if description_en else ""
         
         if file_type == "citizenReport":
             if name_en or description_en:
@@ -218,13 +219,20 @@ def enrich_geojson(
         feature_id = str(props.get("id", ""))
 
         info = _decode_info(props.get("info", {}))
-        name_fa = info.get("name:fa", "").strip()
-        description_fa = info.get("description", "").strip()
+        name_fa = info.get("name:fa") or props.get("name:fa", "")
+        name_fa = name_fa.strip() if isinstance(name_fa, str) else ""
+        
+        description_fa = info.get("description") or props.get("description", "")
+        description_fa = description_fa.strip() if isinstance(description_fa, str) else ""
+        
         if file_type != "citizenReport":
             description_fa = "" # Targets don't translate description
 
+        existing_name_en = info.get("name:en") or props.get("name:en")
+        existing_desc_en = info.get("description:en") if "description:en" in info else props.get("description:en")
+
         # Already has a translation in today's file – nothing to do
-        if info.get("name:en") and (file_type != "citizenReport" or info.get("description:en") is not None):
+        if existing_name_en and (file_type != "citizenReport" or existing_desc_en is not None):
             skipped += 1
             continue
 
