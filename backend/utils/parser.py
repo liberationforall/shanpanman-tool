@@ -137,8 +137,8 @@ def load_strikes() -> list[dict]:
             tweet_url = match.group(1)
             tweet_id = match.group(2)
 
-        accurate_raw = (info.get("status") or "").lower()
-        accurate = accurate_raw == "تایید شده"
+        verification_tag = info.get("verificationTag") or props.get("verificationTag", "")
+        accurate = verification_tag == "verified"
 
         lon, lat = coords[0], coords[1]
         district = get_district(lon, lat)

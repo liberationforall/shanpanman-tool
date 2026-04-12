@@ -44,18 +44,20 @@ from pydantic import BaseModel
 # Structured output model
 # ---------------------------------------------------------------------------
 
-class FeatureEnrichment(BaseModel):
-    """
-    Structured output returned by Claude for each feature that requires
-    enrichment. Currently only translation, but the schema is intentionally
-    designed to be extended with additional fields in the future (e.g.
-    name_transliteration, category, …).
-    """
-    name_en: str  # English translation of the Farsi location name
+class TargetBatchItem(BaseModel):
+    id: str
+    name_en: str
 
-class CitizenEnrichment(BaseModel):
+class TargetBatchResponse(BaseModel):
+    items: list[TargetBatchItem]
+
+class CitizenBatchItem(BaseModel):
+    id: str
     name_en: str
     description_en: str
+
+class CitizenBatchResponse(BaseModel):
+    items: list[CitizenBatchItem]
 
 
 # ---------------------------------------------------------------------------
@@ -64,59 +66,59 @@ class CitizenEnrichment(BaseModel):
 
 MODEL = "claude-haiku-4-5"   # Fast + cheap; swap to claude-sonnet-4-6 for higher quality
 
+def translate_batch(client: anthropic.Anthropic, batch: list[dict], file_type: str) -> dict:
+    """
+    Ask Claude to translate a batch of locations/reports.
+    Batch is a list of dicts with 'id', 'name_fa', and optionally 'description_fa'.
+    Returns a dict mapping id -> results_dict.
+    """
+    if not batch:
+        return {}
 
-def translate_name(client: anthropic.Anthropic, name_fa: str) -> str:
-    """
-    Ask Claude to translate a single Farsi location name to English.
-    Uses the structured output API to guarantee a well-formed JSON response.
-    """
-    response = client.messages.parse(
-        model=MODEL,
-        max_tokens=256,
-        system=(
+    prompt_lines = []
+    for idx, item in enumerate(batch):
+        prompt_lines.append(f"Item ID: {item['id']}")
+        prompt_lines.append(f"Name: {item['name_fa']}")
+        if file_type == "citizenReport":
+            prompt_lines.append(f"Description: {item.get('description_fa', '')}")
+        prompt_lines.append("---")
+    
+    prompt = "\n".join(prompt_lines)
+
+    if file_type == "citizenReport":
+        system_msg = (
+            "You are an expert Persian-to-English translator. "
+            "Translate the provided batch of Farsi location names and descriptions into English. "
+            "For names, produce the standard, widely-used English romanisation. "
+            "For descriptions, provide a clear, literal English translation. "
+            "Return the translations in the exact same order with matching IDs."
+        )
+        output_format = CitizenBatchResponse
+    else:
+        system_msg = (
             "You are an expert Persian-to-English translator specialising in "
             "Iranian place names, military facilities, and geographic features. "
-            "When translating, produce the standard, widely-used English "
-            "romanisation of the Farsi name. If the name contains a type word "
-            "(e.g. پادگان = military base, پایگاه = base, میدان = square) "
-            "translate it literally. Return ONLY the structured output, nothing else."
-        ),
-        messages=[
-            {
-                "role": "user",
-                "content": f"Translate this Farsi location name to English: {name_fa}",
-            }
-        ],
-        output_format=FeatureEnrichment,
-    )
-    return response.parsed_output.name_en
+            "Translate the batch of Farsi location names to English. "
+            "If the name contains a type word (e.g. پادگان = military base), translate it literally. "
+            "Return the translations with matching IDs."
+        )
+        output_format = TargetBatchResponse
 
-def translate_citizen(client: anthropic.Anthropic, name_fa: str, description_fa: str) -> dict:
-    if not name_fa and not description_fa:
-        return {"name_en": "", "description_en": ""}
-    
     response = client.messages.parse(
         model=MODEL,
-        max_tokens=500,
-        system=(
-            "You are an expert Persian-to-English translator. "
-            "Translate the provided Farsi location name and description into English. "
-            "For the name, produce the standard, widely-used English romanisation. "
-            "For the description, provide a clear, literal English translation. "
-            "Return ONLY the structured output."
-        ),
-        messages=[
-            {
-                "role": "user",
-                "content": f"Name: {name_fa}\nDescription: {description_fa}",
-            }
-        ],
-        output_format=CitizenEnrichment,
+        max_tokens=2048,
+        system=system_msg,
+        messages=[{"role": "user", "content": prompt}],
+        output_format=output_format,
     )
-    return {
-        "name_en": response.parsed_output.name_en,
-        "description_en": response.parsed_output.description_en,
-    }
+
+    results = {}
+    for item in response.parsed_output.items:
+        if file_type == "citizenReport":
+            results[item.id] = {"name_en": item.name_en, "description_en": item.description_en}
+        else:
+            results[item.id] = {"name_en": item.name_en}
+    return results
 
 
 # ---------------------------------------------------------------------------
@@ -209,6 +211,8 @@ def enrich_geojson(
     translated = 0
     skipped = 0
 
+    needs_translation = []
+
     for i, feature in enumerate(features):
         props = feature.get("properties") or {}
         feature_id = str(props.get("id", ""))
@@ -250,34 +254,58 @@ def enrich_geojson(
             print(f"  [{i+1}/{total}] (cache) {name_fa!r} → {info['name:en']!r}")
             continue
 
-        # -- Pass 2: call the LLM for brand-new features --------------------
-        print(f"  [{i+1}/{total}] (llm)   Translating: {name_fa!r}")
-        try:
-            if file_type == "citizenReport":
-                res = translate_citizen(client, name_fa, description_fa)
-                name_en = res["name_en"]
-                desc_en = res["description_en"]
-                info["name:en"] = name_en
-                info["description:en"] = desc_en
-                if "name:fa" in props:
-                    props["name:en"] = name_en
-                if "description" in props:
-                    props["description:en"] = desc_en
-            else:
-                name_en = translate_name(client, name_fa)
-                info["name:en"] = name_en
-                if "name:fa" in props:
-                    props["name:en"] = name_en
+        # Collect for batch translation
+        needs_translation.append({
+            "index": i,
+            "id": feature_id,
+            "name_fa": name_fa,
+            "description_fa": description_fa,
+            "feature": feature,
+            "info": info,
+            "props": props
+        })
 
-            if isinstance(props.get("info"), str):
-                props["info"] = json.dumps(info, ensure_ascii=False)
-            else:
-                props["info"] = info
-            feature["properties"] = props
-            translated += 1
-            print(f"             → {name_en!r}")
+    # -- Pass 2: call the LLM in batches for brand-new features --------------------
+    batch_size = 10
+    total_new = len(needs_translation)
+    
+    for start_idx in range(0, len(needs_translation), batch_size):
+        batch = needs_translation[start_idx:start_idx + batch_size]
+        batch_to_send = [{"id": str(i), "name_fa": item["name_fa"], "description_fa": item["description_fa"]} for i, item in enumerate(batch)]
+        
+        end_idx = min(start_idx + batch_size, total_new)
+        print(f"  [Batch] Translating items {start_idx+1} to {end_idx} of {total_new}")
+        try:
+            results = translate_batch(client, batch_to_send, file_type)
+            for i, item in enumerate(batch):
+                res_idx_str = str(i)
+                if res_idx_str not in results:
+                    continue
+                    
+                name_en = results[res_idx_str].get("name_en", "")
+                desc_en = results[res_idx_str].get("description_en", "")
+                
+                info = item["info"]
+                props = item["props"]
+                
+                info["name:en"] = name_en
+                if "name:fa" in props:
+                    props["name:en"] = name_en
+                
+                if file_type == "citizenReport":
+                    info["description:en"] = desc_en
+                    if "description" in props:
+                        props["description:en"] = desc_en
+                        
+                if isinstance(props.get("info"), str):
+                    props["info"] = json.dumps(info, ensure_ascii=False)
+                else:
+                    props["info"] = info
+                item["feature"]["properties"] = props
+                translated += 1
+                print(f"             → {item['name_fa']!r} to {name_en!r}")
         except Exception as exc:
-            print(f"  [WARN] Failed to translate {name_fa!r}: {exc}")
+            print(f"  [WARN] Failed to translate batch: {exc}")
 
         # Small delay to avoid hitting rate limits on bulk runs
         time.sleep(0.1)

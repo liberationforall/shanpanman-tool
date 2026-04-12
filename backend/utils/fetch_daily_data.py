@@ -75,12 +75,14 @@ def fetch_daily_data(repo_url_template: str, file_type: str, api_key: str = ""):
         shutil.move(str(temp_file_path), str(current_file_path))
         print(f"Successfully updated {current_file_path}")
 
-        # Run translation enrichment if an API key is available
-        if api_key:
-            print("Running translation enrichment...")
+        # Run translation enrichment ONLY for newTargets to save on LLM costs
+        if api_key and file_type == "newTargets":
+            print("Running translation enrichment for newTargets.geojson...")
             enrich_geojson(current_file_path, api_key, file_type=file_type)
-        else:
+        elif not api_key:
             print("Skipping translation: no ANTHROPIC_API_KEY provided.")
+        else:
+            print(f"Skipping translation for {file_type}: Translation is only enabled for newTargets.")
 
     except urllib.error.HTTPError as e:
         # Clean up any partial temp file
