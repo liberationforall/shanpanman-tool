@@ -73711,10 +73711,100 @@
         "createdAt": "2026-04-10T23:18:10.917Z",
         "updatedAt": "2026-04-10T23:18:10.917Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93030,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.610617463038835,
+          29.57325071698037
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع نیرو های سرکوب گر",
+        "city": "شیراز",
+        "province": "استان فارس",
+        "date": 1776006199,
+        "description": "محل تجمع نیرو های سرکوب گر",
+        "sources": "",
+        "id": "MzY6NDJkNjlmODAzMzc2",
+        "publicId": "MzY6NDJkNjlmODAzMzc2",
+        "sourceId": "42d69f803376",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-13T01:57:06.107Z",
+        "updatedAt": "2026-04-13T01:57:06.107Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93031,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.52293724730026,
+          31.436166241959356
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع نیروهای بسیج",
+        "unofficial_name:fa": "",
+        "description": "محل تجمع نیروهای سرکوب و بسیجی و سپاهی در حوزه علمیه کوی شهدا",
+        "date": 1775950809,
+        "city": "هفتگل",
+        "province": "استان خوزستان",
+        "id": "MToyNWE3NTNmMDNmZWE",
+        "publicId": "MToyNWE3NTNmMDNmZWE",
+        "sourceId": "25a753f03fea",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-13T01:57:43.641Z",
+        "updatedAt": "2026-04-13T01:57:43.641Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93032,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.850928074875384,
+          34.6566121846389
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج حضرت ابوالفضل",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": 1776017280,
+        "city": "قم",
+        "province": "استان قم",
+        "id": "MTphY2E4M2YyOThiZDg",
+        "publicId": "MTphY2E4M2YyOThiZDg",
+        "sourceId": "aca83f298bd8",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-13T01:58:35.504Z",
+        "updatedAt": "2026-04-13T01:58:35.504Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2499,
+    "total": 2502,
     "citizenReport": true,
     "clustered": false,
     "simplified": false

@@ -21825,10 +21825,154 @@
           "name:en": "Targeted Assassination"
         }
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93037,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.10192628511223,
+          34.34642893261855
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "اطلاعات میدان نفت",
+        "unofficial_name:fa": "",
+        "date": 1772595000,
+        "geolocates": "",
+        "description": "",
+        "city": "کرمانشاه",
+        "province": "استان کرمانشاه",
+        "sources": "",
+        "id": "MzI6YjQxYjZlN2Q4NjU0",
+        "publicId": "MzI6YjQxYjZlN2Q4NjU0",
+        "sourceId": "b41b6e7d8654",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-13T11:37:59.744Z",
+        "updatedAt": "2026-04-13T11:37:59.744Z",
+        "name:en": "Intelligence Oil Field",
+        "info": {
+          "name:en": "Intelligence Oil Field"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93038,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.25531330135894,
+          35.68642417470957
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "بسیج شهید کاظمیان",
+        "unofficial_name:fa": "",
+        "date": 1772965800,
+        "geolocates": "",
+        "description": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "id": "MzI6ODI4MzZiMTI4ZDJj",
+        "publicId": "MzI6ODI4MzZiMTI4ZDJj",
+        "sourceId": "82836b128d2c",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-13T11:53:17.594Z",
+        "updatedAt": "2026-04-13T11:53:17.594Z",
+        "name:en": "Shahid Kazemian Basij",
+        "info": {
+          "name:en": "Shahid Kazemian Basij"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93039,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4188027791125,
+          32.48836904301143
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "حجاب - محل تجمع سرکوبگران",
+        "unofficial_name:fa": "",
+        "date": 1772969400,
+        "geolocates": "",
+        "description": "",
+        "city": "فولاد شهر",
+        "province": "استان اصفهان",
+        "sources": "https://www.instagram.com/reels/DVnbSCVk0N2/",
+        "id": "MzI6MjFmMmRjZWQ1Zjdl",
+        "publicId": "MzI6MjFmMmRjZWQ1Zjdl",
+        "sourceId": "21f2dced5f7e",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-13T12:18:30.279Z",
+        "updatedAt": "2026-04-13T12:18:30.279Z",
+        "name:en": "Hijab - Oppressors Gathering Place",
+        "info": {
+          "name:en": "Hijab - Oppressors Gathering Place"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93040,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.344388505413406,
+          35.649605067977475
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "کلانتری ۱۵۳ شهرک ولیعصر",
+        "unofficial_name:fa": "",
+        "date": 1772443800,
+        "geolocates": "",
+        "description": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "https://t.me/VahidOnline/71592",
+        "id": "MzI6ODRlODE0ZDU2NzAz",
+        "publicId": "MzI6ODRlODE0ZDU2NzAz",
+        "sourceId": "84e814d56703",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-13T12:19:50.910Z",
+        "updatedAt": "2026-04-13T12:19:50.910Z",
+        "name:en": "Police Station 153 Valieasr District",
+        "info": {
+          "name:en": "Police Station 153 Valieasr District"
+        }
+      }
     }
   ],
   "metadata": {
-    "total": 622,
+    "total": 626,
     "layerId": 32,
     "clustered": false,
     "simplified": false
