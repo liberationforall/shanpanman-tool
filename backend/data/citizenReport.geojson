@@ -65473,36 +65473,6 @@
     },
     {
       "type": "Feature",
-      "id": 92709,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.44708750049381,
-          36.67512494477907
-        ]
-      },
-      "properties": {
-        "name:fa": "ایست بازرسی",
-        "city": "زنجان",
-        "province": "استان زنجان",
-        "date": "",
-        "description": "ایست بازرسی",
-        "sources": "",
-        "id": "MzY6NzhjMzBiZjM4NTVj",
-        "publicId": "MzY6NzhjMzBiZjM4NTVj",
-        "sourceId": "78c30bf3855c",
-        "layerId": 36,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-30T19:15:04.916Z",
-        "updatedAt": "2026-03-30T19:15:04.916Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 92710,
       "geometry": {
         "type": "Point",
@@ -74019,10 +73989,314 @@
         "createdAt": "2026-04-13T12:19:50.910Z",
         "updatedAt": "2026-04-13T12:19:50.910Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93041,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.26692102552141,
+          36.61123450596857
+        ]
+      },
+      "properties": {
+        "name:fa": "سایت موشکی",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "حفاری ۲۴ ساعته سایت موشکی و خارج کردن لانچر پس از توافق آتش بس",
+        "date": 1776089395,
+        "city": "شهرستان زنجان",
+        "province": "استان زنجان",
+        "id": "NzpiZjMxZWI3N2Y2NGM",
+        "publicId": "NzpiZjMxZWI3N2Y2NGM",
+        "sourceId": "bf31eb77f64c",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-14T20:50:53.767Z",
+        "updatedAt": "2026-04-14T20:50:53.767Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93042,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.369574362039685,
+          36.684641433276894
+        ]
+      },
+      "properties": {
+        "name:fa": "استقرار لانچر",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "استقرار لانچر در زیر پل اتوبان زنجان تبریز پس از توافق آتش بس",
+        "date": 1776089245,
+        "city": "شهرستان زنجان",
+        "province": "استان زنجان",
+        "id": "Nzo1ZDlkMDRkODFmODY",
+        "publicId": "Nzo1ZDlkMDRkODFmODY",
+        "sourceId": "5d9d04d81f86",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-14T20:51:19.882Z",
+        "updatedAt": "2026-04-14T20:51:19.882Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93043,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.44716443982534,
+          36.67492745281071
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "date": 1776089172,
+        "description": "استقرار دوباره ایست بازرسی پس از توافق آتش بس",
+        "sources": "",
+        "id": "MzY6MGYyYmY1Njk1OTgy",
+        "publicId": "MzY6MGYyYmY1Njk1OTgy",
+        "sourceId": "0f2bf5695982",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-14T20:51:51.855Z",
+        "updatedAt": "2026-04-14T20:51:51.855Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93044,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.45638806516962,
+          36.68081607546759
+        ]
+      },
+      "properties": {
+        "name:fa": "جابجایی لانچر",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "جابجایی لانچر از ۲۱ فروردین",
+        "date": 1776089117,
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "id": "NzphODE3NmNlZmZiYjM",
+        "publicId": "NzphODE3NmNlZmZiYjM",
+        "sourceId": "a8176ceffbb3",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-14T21:04:02.599Z",
+        "updatedAt": "2026-04-14T21:04:02.599Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93045,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.08858060376437,
+          38.6545540374149
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع بسیج",
+        "unofficial_name:fa": "",
+        "description": "این مکان کلیسای مسیحیان هست و بخاطر اینکه اهالی روستای مهلزان مسیحی نیستن اینجا استفاده نمیشه و همیشه بسته بود ولی مدتی هست به عنوان محل جمع بسیجی ها داره استفاده میشه",
+        "date": 1776195291,
+        "city": "ماحلازان",
+        "province": "استان آذربایجان غربی",
+        "id": "MTo3YjM4OWFhOWI3YTQ",
+        "publicId": "MTo3YjM4OWFhOWI3YTQ",
+        "sourceId": "7b389aa9b7a4",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-14T21:05:22.008Z",
+        "updatedAt": "2026-04-15T01:10:18.543Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93046,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.36102054232515,
+          31.84958328479982
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "lastReport": "",
+        "date": 1776159365,
+        "addressDescription": "",
+        "description": "",
+        "city": "یزد",
+        "province": "استان یزد",
+        "id": "MjA6MDk1ODZiMWVmYzAy",
+        "publicId": "MjA6MDk1ODZiMWVmYzAy",
+        "sourceId": "09586b1efc02",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-14T21:37:10.077Z",
+        "updatedAt": "2026-04-14T21:37:10.077Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93047,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.67185072013021,
+          32.63064866616794
+        ]
+      },
+      "properties": {
+        "name:fa": "ستاد فرماندهی انتظامی اصفهان",
+        "description": "رییس کل ستاد فرماندهی انتظامی اصفهان",
+        "date": 1776117882,
+        "city": "اصفهان",
+        "province": "استان اصفهان",
+        "id": "MzpiODIyNmRiODE3Yjg",
+        "publicId": "MzpiODIyNmRiODE3Yjg",
+        "sourceId": "b8226db817b8",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-14T21:37:58.902Z",
+        "updatedAt": "2026-04-14T21:37:58.902Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93048,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39625954232693,
+          35.752637272093764
+        ]
+      },
+      "properties": {
+        "name:fa": "حوزه بسیج",
+        "unofficial_name:fa": "",
+        "description": "اکثر جلسات شبانه برگزار می شود",
+        "date": 1776157415,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MTpiMGQzY2MxNGQ0ZmQ",
+        "publicId": "MTpiMGQzY2MxNGQ0ZmQ",
+        "sourceId": "b0d3cc14d4fd",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-14T21:39:16.487Z",
+        "updatedAt": "2026-04-14T21:39:16.487Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93049,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.76611155689682,
+          38.430281319332465
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "lastReport": "",
+        "date": 1776153257,
+        "addressDescription": "",
+        "description": "",
+        "city": "مرند",
+        "province": "استان آذربایجان شرقی",
+        "id": "MjA6MTcyYzQ1MjkzMjU5",
+        "publicId": "MjA6MTcyYzQ1MjkzMjU5",
+        "sourceId": "172c45293259",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-14T21:40:13.229Z",
+        "updatedAt": "2026-04-14T21:40:13.229Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93050,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.77400339580112,
+          38.42925261384809
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "مرند",
+        "province": "استان آذربایجان شرقی",
+        "date": 1776152441,
+        "description": "",
+        "sources": "",
+        "id": "MzY6MWQ5OWNiYjMxNjc2",
+        "publicId": "MzY6MWQ5OWNiYjMxNjc2",
+        "sourceId": "1d99cbb31676",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-14T21:40:30.032Z",
+        "updatedAt": "2026-04-14T21:40:30.032Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2509,
+    "total": 2518,
     "citizenReport": true,
     "clustered": false,
     "simplified": false

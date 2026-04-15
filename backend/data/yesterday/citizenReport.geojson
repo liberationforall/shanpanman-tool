@@ -73801,10 +73801,228 @@
         "createdAt": "2026-04-13T01:58:35.504Z",
         "updatedAt": "2026-04-13T01:58:35.504Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93033,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.396448530610456,
+          35.799801233294815
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی بسیج",
+        "city": "تجریش",
+        "province": "استان تهران",
+        "date": 1776029407,
+        "description": "ایست بازرسی بزرگ بسیجیها در میدان دانشجو تا بعد از مسجد النبی، شعار و سینه زنی و ایجاد مزاحمت برای خودروها",
+        "sources": "",
+        "id": "MzY6MmVjMzdhYjUyZTAz",
+        "publicId": "MzY6MmVjMzdhYjUyZTAz",
+        "sourceId": "2ec37ab52e03",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-13T02:00:42.277Z",
+        "updatedAt": "2026-04-13T02:00:42.277Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93034,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39816501046465,
+          35.805306176095584
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد النبی ولنجک",
+        "city": "تجریش",
+        "province": "استان تهران",
+        "date": 1776029006,
+        "description": "هر شب ماشین‌ها را ردیف می‌کنند با یک وانت و درون آن عکس امام و ۸ نورافکن، با اسپیکر و صدای بلند به اسرائیل و آمریکا و منافق فحش میدن",
+        "sources": "",
+        "id": "MzY6NTEzZjkwODk5YWMz",
+        "publicId": "MzY6NTEzZjkwODk5YWMz",
+        "sourceId": "513f90899ac3",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-13T02:02:15.796Z",
+        "updatedAt": "2026-04-13T02:02:15.796Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93036,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.62149610490599,
+          31.28662433494189
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای سرکوب",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "date": "",
+        "description": "",
+        "sources": "",
+        "id": "MzY6Mzc4NjNmOTE4NjZj",
+        "publicId": "MzY6Mzc4NjNmOTE4NjZj",
+        "sourceId": "37863f91866c",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-13T11:27:51.764Z",
+        "updatedAt": "2026-04-13T11:27:51.764Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93037,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.10192628511223,
+          34.34642893261855
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "اطلاعات میدان نفت",
+        "unofficial_name:fa": "",
+        "date": 1772595000,
+        "geolocates": "",
+        "description": "",
+        "city": "کرمانشاه",
+        "province": "استان کرمانشاه",
+        "sources": "",
+        "id": "MzI6YjQxYjZlN2Q4NjU0",
+        "publicId": "MzI6YjQxYjZlN2Q4NjU0",
+        "sourceId": "b41b6e7d8654",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-13T11:37:59.744Z",
+        "updatedAt": "2026-04-13T11:37:59.744Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93038,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.25531330135894,
+          35.68642417470957
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "بسیج شهید کاظمیان",
+        "unofficial_name:fa": "",
+        "date": 1772965800,
+        "geolocates": "",
+        "description": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "id": "MzI6ODI4MzZiMTI4ZDJj",
+        "publicId": "MzI6ODI4MzZiMTI4ZDJj",
+        "sourceId": "82836b128d2c",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-13T11:53:17.594Z",
+        "updatedAt": "2026-04-13T11:53:17.594Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93039,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4188027791125,
+          32.48836904301143
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "حجاب - محل تجمع سرکوبگران",
+        "unofficial_name:fa": "",
+        "date": 1772969400,
+        "geolocates": "",
+        "description": "",
+        "city": "فولاد شهر",
+        "province": "استان اصفهان",
+        "sources": "https://www.instagram.com/reels/DVnbSCVk0N2/",
+        "id": "MzI6MjFmMmRjZWQ1Zjdl",
+        "publicId": "MzI6MjFmMmRjZWQ1Zjdl",
+        "sourceId": "21f2dced5f7e",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-13T12:18:30.279Z",
+        "updatedAt": "2026-04-13T12:18:30.279Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93040,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.344388505413406,
+          35.649605067977475
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "کلانتری ۱۵۳ شهرک ولیعصر",
+        "unofficial_name:fa": "",
+        "date": 1772443800,
+        "geolocates": "",
+        "description": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "https://t.me/VahidOnline/71592",
+        "id": "MzI6ODRlODE0ZDU2NzAz",
+        "publicId": "MzI6ODRlODE0ZDU2NzAz",
+        "sourceId": "84e814d56703",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-13T12:19:50.910Z",
+        "updatedAt": "2026-04-13T12:19:50.910Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2502,
+    "total": 2509,
     "citizenReport": true,
     "clustered": false,
     "simplified": false
