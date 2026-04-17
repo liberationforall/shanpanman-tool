@@ -9624,34 +9624,6 @@
     },
     {
       "type": "Feature",
-      "id": 90667,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.29018519183012,
-          38.20478572040116
-        ]
-      },
-      "properties": {
-        "name:fa": "",
-        "description": "",
-        "city": "اردبیل",
-        "province": "استان اردبیل",
-        "id": "MzowZjdhNjZlNWVkYmQ",
-        "publicId": "MzowZjdhNjZlNWVkYmQ",
-        "sourceId": "0f7a66e5edbd",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-19T18:41:05.439Z",
-        "updatedAt": "2026-03-26T02:08:43.448Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 90668,
       "geometry": {
         "type": "Point",
@@ -14300,35 +14272,6 @@
     },
     {
       "type": "Feature",
-      "id": 90885,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          46.36581623697569,
-          38.037302729149616
-        ]
-      },
-      "properties": {
-        "city": "تبریز",
-        "date": "",
-        "name:fa": "کلانتری ۲۰",
-        "province": "استان آذربایجان شرقی",
-        "description": "",
-        "id": "Mzo4ZTY4YzEzZTNkM2E",
-        "publicId": "Mzo4ZTY4YzEzZTNkM2E",
-        "sourceId": "8e68c13e3d3a",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-21T20:25:45.906Z",
-        "updatedAt": "2026-04-08T20:49:25.237Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 90886,
       "geometry": {
         "type": "Point",
@@ -15183,35 +15126,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-21T22:22:19.226Z",
         "updatedAt": "2026-03-26T02:08:59.228Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 90915,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.32519464476263,
-          38.284788311742545
-        ]
-      },
-      "properties": {
-        "name:fa": "اداره راهداری",
-        "description": "اداره راهداری و حمل و نقل جاده‌ای شهرستان اردبیل",
-        "date": "",
-        "city": "شهرستان اردبیل",
-        "province": "استان اردبیل",
-        "id": "MzpiOWRhNTA4NThlNjY",
-        "publicId": "MzpiOWRhNTA4NThlNjY",
-        "sourceId": "b9da50858e66",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-21T22:24:31.888Z",
-        "updatedAt": "2026-04-08T20:55:05.030Z"
       }
     },
     {
@@ -35487,64 +35401,6 @@
     },
     {
       "type": "Feature",
-      "id": 91621,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          46.350651600979745,
-          38.06734549149891
-        ]
-      },
-      "properties": {
-        "name:fa": "وزارت اطلاعات",
-        "description": "رستوران دکتر نیک مخبر وزارت اطلاعات",
-        "date": 1774308470,
-        "city": "تبریز",
-        "province": "استان آذربایجان شرقی",
-        "id": "MjpiM2FmNDk5MjEwZWM",
-        "publicId": "MjpiM2FmNDk5MjEwZWM",
-        "sourceId": "b3af499210ec",
-        "layerId": 2,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-23T23:27:50.043Z",
-        "updatedAt": "2026-03-26T23:40:14.581Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 91622,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          46.3716442755059,
-          38.07737893250368
-        ]
-      },
-      "properties": {
-        "name:fa": "وزارت اطلاعات",
-        "description": "رستوران ظفر یکی از مخبران وزارت اطلاعات",
-        "date": 1774308390,
-        "city": "تبریز",
-        "province": "استان آذربایجان شرقی",
-        "id": "Mjo0MjYyMTY4NGZlNGM",
-        "publicId": "Mjo0MjYyMTY4NGZlNGM",
-        "sourceId": "42621684fe4c",
-        "layerId": 2,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-23T23:26:30.601Z",
-        "updatedAt": "2026-03-26T23:40:14.646Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 91623,
       "geometry": {
         "type": "Point",
@@ -40716,64 +40572,6 @@
         "expirationDate": null,
         "createdAt": "2026-02-13T09:20:08.606Z",
         "updatedAt": "2026-03-26T23:40:27.578Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 91801,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.21114188599009,
-          35.56729235632564
-        ]
-      },
-      "properties": {
-        "city": "شهرستان اسلامشهر",
-        "date": 1770942554,
-        "name:fa": "یگان ویژه",
-        "province": "استان تهران",
-        "description": "مقر پلیس یگان ویژه اسلامشهر نیروهای سرکوبگر",
-        "id": "MzpiNDMwMGI1YWNiYjQ",
-        "publicId": "MzpiNDMwMGI1YWNiYjQ",
-        "sourceId": "b4300b5acbb4",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-02-13T00:29:14.720Z",
-        "updatedAt": "2026-04-08T20:49:25.403Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 91802,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          58.51108021739603,
-          37.09428407855518
-        ]
-      },
-      "properties": {
-        "name:fa": "کلانتری",
-        "description": "کلانتری روبروی بیمارستان موسی بن جعفر",
-        "date": 1773676871,
-        "city": "قوچان",
-        "province": "استان خراسان رضوی",
-        "id": "MzphMmQ0NDJlZTdhYTc",
-        "publicId": "MzphMmQ0NDJlZTdhYTc",
-        "sourceId": "a2d442ee7aa7",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-16T16:01:11.287Z",
-        "updatedAt": "2026-03-26T23:40:27.704Z"
       }
     },
     {
@@ -49455,35 +49253,6 @@
     },
     {
       "type": "Feature",
-      "id": 92135,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.58613007354836,
-          37.30366433233023
-        ]
-      },
-      "properties": {
-        "name:fa": "مسجد امام رضا",
-        "description": "این مکان مسجد امام رضا گلساره ، الان پر آدم عرزشیه و چندین نفر با کلاش دم در و اطرافش دارن نگهبانی میدن .",
-        "date": 1773261000,
-        "city": "رشت",
-        "province": "استان گیلان",
-        "id": "NDpmYjEyY2ZmZDU2MTU",
-        "publicId": "NDpmYjEyY2ZmZDU2MTU",
-        "sourceId": "fb12cffd5615",
-        "layerId": 4,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-27T08:26:08.263Z",
-        "updatedAt": "2026-03-31T07:10:44.526Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 92136,
       "geometry": {
         "type": "Point",
@@ -49654,35 +49423,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-13T22:45:20.648Z",
         "updatedAt": "2026-03-27T22:03:35.628Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 92142,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.58613007354836,
-          37.30366433233023
-        ]
-      },
-      "properties": {
-        "name:fa": "مسجد امام رضا",
-        "description": "این مکان مسجد امام رضا گلساره ، الان پر آدم عرزشیه و چندین نفر با کلاش دم در و اطرافش دارن نگهبانی میدن .",
-        "date": 1773343832,
-        "city": "رشت",
-        "province": "استان گیلان",
-        "id": "NDphMGJkZWQyZWNjNWI",
-        "publicId": "NDphMGJkZWQyZWNjNWI",
-        "sourceId": "a0bded2ecc5b",
-        "layerId": 4,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-12T19:30:32.994Z",
-        "updatedAt": "2026-03-27T22:03:35.694Z"
       }
     },
     {
@@ -55658,93 +55398,6 @@
     },
     {
       "type": "Feature",
-      "id": 92344,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.846948603159746,
-          34.62096076282852
-        ]
-      },
-      "properties": {
-        "name:fa": "حوزه علمیه خارجی ها",
-        "description": "حوزه علمیه خارجی ها",
-        "date": 1772838285,
-        "city": "قم",
-        "province": "استان قم",
-        "id": "NDpjOTY5ZDVjOWUxYWU",
-        "publicId": "NDpjOTY5ZDVjOWUxYWU",
-        "sourceId": "c969d5c9e1ae",
-        "layerId": 4,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-06T23:04:45.979Z",
-        "updatedAt": "2026-03-31T03:39:41.781Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 92345,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.8466943376001,
-          34.62071990720045
-        ]
-      },
-      "properties": {
-        "name:fa": "حوزه علمیه خارجی ها",
-        "description": "حوزه علمیه خارجی ها",
-        "date": 1772838260,
-        "city": "قم",
-        "province": "استان قم",
-        "id": "NDpkZjk4MTI2YjA1MGM",
-        "publicId": "NDpkZjk4MTI2YjA1MGM",
-        "sourceId": "df98126b050c",
-        "layerId": 4,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-06T23:04:20.088Z",
-        "updatedAt": "2026-03-31T03:39:42.041Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 92346,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.84640964803043,
-          34.6204913471239
-        ]
-      },
-      "properties": {
-        "name:fa": "حوزه علمیه خارجی ها",
-        "description": "حوزه علمیه خارجی ها",
-        "date": 1772838244,
-        "city": "قم",
-        "province": "استان قم",
-        "id": "NDo0NjRmMmJkMjgwM2Q",
-        "publicId": "NDo0NjRmMmJkMjgwM2Q",
-        "sourceId": "464f2bd2803d",
-        "layerId": 4,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-06T23:04:04.757Z",
-        "updatedAt": "2026-03-31T03:39:42.103Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 92347,
       "geometry": {
         "type": "Point",
@@ -55799,93 +55452,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-06T23:01:41.673Z",
         "updatedAt": "2026-03-31T03:39:42.228Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 92349,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.86437479126678,
-          34.630124059418065
-        ]
-      },
-      "properties": {
-        "name:fa": "حوزه علمیه",
-        "description": "حوزه علمیه",
-        "date": 1772838071,
-        "city": "قم",
-        "province": "استان قم",
-        "id": "NDo2YjU4OTE1Y2Q3MDg",
-        "publicId": "NDo2YjU4OTE1Y2Q3MDg",
-        "sourceId": "6b58915cd708",
-        "layerId": 4,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-06T23:01:11.331Z",
-        "updatedAt": "2026-03-31T03:39:42.289Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 92350,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.864186310062024,
-          34.63028651281189
-        ]
-      },
-      "properties": {
-        "name:fa": "حوزه علمیه",
-        "description": "حوزه علمیه",
-        "date": 1772838056,
-        "city": "قم",
-        "province": "استان قم",
-        "id": "NDo3ZmFiMTA1YWU5Nzk",
-        "publicId": "NDo3ZmFiMTA1YWU5Nzk",
-        "sourceId": "7fab105ae979",
-        "layerId": 4,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-06T23:00:56.204Z",
-        "updatedAt": "2026-03-31T03:39:42.343Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 92351,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.86397356185776,
-          34.630508454600104
-        ]
-      },
-      "properties": {
-        "name:fa": "حوزه علمیه",
-        "description": "حوزه علمیه",
-        "date": 1772838023,
-        "city": "قم",
-        "province": "استان قم",
-        "id": "NDpkYzAyNjFmM2M2OTA",
-        "publicId": "NDpkYzAyNjFmM2M2OTA",
-        "sourceId": "dc0261f3c690",
-        "layerId": 4,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-06T23:00:23.282Z",
-        "updatedAt": "2026-03-31T03:39:42.403Z"
       }
     },
     {
@@ -57466,35 +57032,6 @@
     },
     {
       "type": "Feature",
-      "id": 92406,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.14886832229976,
-          35.52372251299957
-        ]
-      },
-      "properties": {
-        "name:fa": "راهنمایی و رانندگی",
-        "description": "راهنمایی و رانندگی",
-        "date": 1740754621,
-        "city": "سلطان آباد",
-        "province": "استان تهران",
-        "id": "MzozYWVmNDIyODU2YjE",
-        "publicId": "MzozYWVmNDIyODU2YjE",
-        "sourceId": "3aef422856b1",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-02-28T15:03:41.343Z",
-        "updatedAt": "2026-03-31T03:39:45.320Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 92407,
       "geometry": {
         "type": "Point",
@@ -57607,64 +57144,6 @@
         "expirationDate": null,
         "createdAt": "2026-02-22T15:18:01.627Z",
         "updatedAt": "2026-04-08T20:49:25.493Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 92411,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.834337128924716,
-          38.41822990834913
-        ]
-      },
-      "properties": {
-        "name:fa": "پاسگاه ویرمونی",
-        "description": "پاسگاه دهستان ویرمونی",
-        "date": 1739770009,
-        "city": "شهرستان آستارا",
-        "province": "استان گیلان",
-        "id": "Mzo1ZGJiZjJjNTFkYjk",
-        "publicId": "Mzo1ZGJiZjJjNTFkYjk",
-        "sourceId": "5dbbf2c51db9",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-02-17T05:26:49.131Z",
-        "updatedAt": "2026-03-31T03:39:45.638Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 92412,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.78965635302254,
-          35.958020054320016
-        ]
-      },
-      "properties": {
-        "city": "شهرستان ساوجبلاغ",
-        "date": 1739579257,
-        "name:fa": "پاسگاه",
-        "province": "استان البرز",
-        "description": "پاسگاه شهر کوهسار",
-        "id": "Mzo1N2FlZTg1YTEyMzg",
-        "publicId": "Mzo1N2FlZTg1YTEyMzg",
-        "sourceId": "57aee85a1238",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-02-15T00:27:37.773Z",
-        "updatedAt": "2026-04-08T20:49:25.495Z"
       }
     },
     {
@@ -59126,64 +58605,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-29T10:50:23.483Z",
         "updatedAt": "2026-03-29T10:50:23.483Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 92493,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.2226646436923,
-          35.583636133357246
-        ]
-      },
-      "properties": {
-        "name:fa": "فرمانداری",
-        "description": "",
-        "date": 1772829000,
-        "city": "آوج",
-        "province": "استان قزوین",
-        "id": "MTc6MjMxYzFlMzkxYjI4",
-        "publicId": "MTc6MjMxYzFlMzkxYjI4",
-        "sourceId": "231c1e391b28",
-        "layerId": 17,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-29T11:49:33.172Z",
-        "updatedAt": "2026-03-29T11:49:33.172Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 92494,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          46.215266616806446,
-          36.52340255641167
-        ]
-      },
-      "properties": {
-        "name:fa": "کلانتری",
-        "description": "  این نقطە رو بە اسم ساختمان نظام وظیفە زدن، کە اشتباە هست و این مکان کلانتری ۱۱ شهر بوکان هست",
-        "date": 1773088200,
-        "city": "بوکان",
-        "province": "استان آذربایجان غربی",
-        "id": "MzpmNGMwYTFkZGM0ZjE",
-        "publicId": "MzpmNGMwYTFkZGM0ZjE",
-        "sourceId": "f4c0a1ddc4f1",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-29T12:36:46.098Z",
-        "updatedAt": "2026-03-29T12:38:05.171Z"
       }
     },
     {
@@ -65306,35 +64727,6 @@
     },
     {
       "type": "Feature",
-      "id": 92705,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.19656974736483,
-          36.20142653992313
-        ]
-      },
-      "properties": {
-        "name:fa": "فرمانداری خرمدره",
-        "description": "",
-        "date": "",
-        "city": "خرمدره",
-        "province": "استان زنجان",
-        "id": "MTc6ZGI3MWZiMGE4ZmI0",
-        "publicId": "MTc6ZGI3MWZiMGE4ZmI0",
-        "sourceId": "db71fb0a8fb4",
-        "layerId": 17,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-30T19:05:10.807Z",
-        "updatedAt": "2026-03-30T19:05:10.807Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 92706,
       "geometry": {
         "type": "Point",
@@ -69486,35 +68878,6 @@
         "expirationDate": null,
         "createdAt": "2026-04-02T18:28:54.994Z",
         "updatedAt": "2026-04-02T18:28:54.994Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 92853,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          58.82278664610803,
-          36.24079168475221
-        ]
-      },
-      "properties": {
-        "name:fa": "یگان امداد",
-        "description": "",
-        "date": "",
-        "city": "نیشابور",
-        "province": "استان خراسان رضوی",
-        "id": "Mzo4ZjVkMDRkYmRkOWM",
-        "publicId": "Mzo4ZjVkMDRkYmRkOWM",
-        "sourceId": "8f5d04dbdd9c",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-04-02T18:30:47.954Z",
-        "updatedAt": "2026-04-02T18:30:47.954Z"
       }
     },
     {
@@ -74384,10 +73747,40 @@
         "createdAt": "2026-04-16T00:11:45.590Z",
         "updatedAt": "2026-04-16T00:11:45.590Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93054,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.487677635573164,
+          36.67427606722748
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "date": 1776316606,
+        "description": "استقرار دوباره ایست بازرسی پس از توافق آتش بس",
+        "sources": "",
+        "id": "MzY6NjMzOTAxODk4NzAw",
+        "publicId": "MzY6NjMzOTAxODk4NzAw",
+        "sourceId": "633901898700",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-16T08:46:25.210Z",
+        "updatedAt": "2026-04-16T08:46:25.210Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2521,
+    "total": 2500,
     "citizenReport": true,
     "clustered": false,
     "simplified": false

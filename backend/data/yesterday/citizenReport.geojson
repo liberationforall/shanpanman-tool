@@ -74293,10 +74293,101 @@
         "createdAt": "2026-04-14T21:40:30.032Z",
         "updatedAt": "2026-04-14T21:40:30.032Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93051,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.992471280147186,
+          35.70711689041495
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست و بازرسی",
+        "city": "شهرستان دماوند",
+        "province": "استان تهران",
+        "date": 1776253820,
+        "description": "ایست و بازرسی هست اکثر اوقات قبل خروجی. خیلی جای بدی هم هست چون سر پایینیه همه سرعت میگیرن اونجا",
+        "sources": "",
+        "id": "MzY6NDNjNjZiNDRiOTIz",
+        "publicId": "MzY6NDNjNjZiNDRiOTIz",
+        "sourceId": "43c66b44b923",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-16T00:10:47.933Z",
+        "updatedAt": "2026-04-16T00:10:47.933Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93052,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.47039263558193,
+          36.68430506721421
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "date": 1776259379,
+        "description": "استقرار دوباره ایست بازرسی پس از توافق آتش بس",
+        "sources": "",
+        "id": "MzY6ZTBkNjcxYzUxYTAy",
+        "publicId": "MzY6ZTBkNjcxYzUxYTAy",
+        "sourceId": "e0d671c51a02",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-16T00:11:20.057Z",
+        "updatedAt": "2026-04-16T00:11:20.057Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93053,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.36037563558111,
+          36.689733067210554
+        ]
+      },
+      "properties": {
+        "name:fa": "استقرار لانچر",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "استقرار لانچر در زیر پل اتوبان زنجان تبریز پس از توافق آتش بس",
+        "date": 1776255646,
+        "city": "شهرستان زنجان",
+        "province": "استان زنجان",
+        "id": "Nzo4MTQyNjliZTgyOTI",
+        "publicId": "Nzo4MTQyNjliZTgyOTI",
+        "sourceId": "814269be8292",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-16T00:11:45.590Z",
+        "updatedAt": "2026-04-16T00:11:45.590Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2518,
+    "total": 2521,
     "citizenReport": true,
     "clustered": false,
     "simplified": false
