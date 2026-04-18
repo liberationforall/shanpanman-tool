@@ -73777,10 +73777,190 @@
         "createdAt": "2026-04-16T08:46:25.210Z",
         "updatedAt": "2026-04-16T08:46:25.210Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93055,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.30521748253034,
+          38.230982505535565
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع نیروهای بسیج",
+        "unofficial_name:fa": "",
+        "description": "محل تجمع نیروهای بسیج و تجهیزات سرکوب. مدرسه بالای ۵ سال است مورد استفاده به عنوان مدرسه نمیباشد و تا ابتدای جنگ خالی بود ولی هم اکنون با تجهیزات و نیرو پر شده است.",
+        "date": 1776423941,
+        "city": "اردبیل",
+        "province": "استان اردبیل",
+        "id": "MTo0MjQyNmViYmM5YTA",
+        "publicId": "MTo0MjQyNmViYmM5YTA",
+        "sourceId": "42426ebbc9a0",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-18T01:33:44.742Z",
+        "updatedAt": "2026-04-18T01:33:44.742Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93056,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39115095406518,
+          35.70030776113613
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1776361364,
+        "description": "ایست بازرسی همه رو هم بدون استثنا چک میکنن",
+        "sources": "",
+        "id": "MzY6MmVjNGM3NDI4NGZj",
+        "publicId": "MzY6MmVjNGM3NDI4NGZj",
+        "sourceId": "2ec4c74284fc",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-18T01:41:18.914Z",
+        "updatedAt": "2026-04-18T01:41:18.914Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93057,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.388503,
+          35.63195
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع بسیجی ها",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1776372606,
+        "description": "تجمع و رجز خوانی بسیجی ها بطور شبانه",
+        "sources": "",
+        "id": "MzY6MDY2MTFlMTVhNDgx",
+        "publicId": "MzY6MDY2MTFlMTVhNDgx",
+        "sourceId": "06611e15a481",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-18T01:41:35.904Z",
+        "updatedAt": "2026-04-18T01:41:35.904Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93058,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.310846,
+          35.754323
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1776386676,
+        "description": "",
+        "sources": "",
+        "id": "MzY6Nzg1NDBhZGM2ZjFl",
+        "publicId": "MzY6Nzg1NDBhZGM2ZjFl",
+        "sourceId": "78540adc6f1e",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-18T01:41:58.366Z",
+        "updatedAt": "2026-04-18T01:41:58.366Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93059,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.310996,
+          35.751985
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1776386572,
+        "description": "ایست بازرسی",
+        "sources": "",
+        "id": "MzY6NmU3MzJjYjE0ZjEw",
+        "publicId": "MzY6NmU3MzJjYjE0ZjEw",
+        "sourceId": "6e732cb14f10",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-18T01:42:10.983Z",
+        "updatedAt": "2026-04-18T01:42:10.983Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93060,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.974025,
+          35.802524
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای لباس شخصی سپاه",
+        "city": "کرج",
+        "province": "استان البرز",
+        "date": 1776398450,
+        "description": "تجمع و استقرار نیروهای لباس شخصی سپاه",
+        "sources": "",
+        "id": "MzY6NzJkMDIxZDYwOTNh",
+        "publicId": "MzY6NzJkMDIxZDYwOTNh",
+        "sourceId": "72d021d6093a",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-18T01:42:34.025Z",
+        "updatedAt": "2026-04-18T01:42:34.025Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2500,
+    "total": 2506,
     "citizenReport": true,
     "clustered": false,
     "simplified": false
