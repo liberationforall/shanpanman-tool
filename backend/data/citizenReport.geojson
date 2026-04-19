@@ -73957,10 +73957,159 @@
         "createdAt": "2026-04-18T01:42:34.025Z",
         "updatedAt": "2026-04-18T01:42:34.025Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93061,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.970585,
+          35.811013
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای انتظامی",
+        "description": "تجمع و استقرار نیروهای انتظامی",
+        "date": 1776398827,
+        "city": "کرج",
+        "province": "استان البرز",
+        "id": "MzphMzQ2NjllNzQ4OTE",
+        "publicId": "MzphMzQ2NjllNzQ4OTE",
+        "sourceId": "a34669e74891",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-18T02:05:59.067Z",
+        "updatedAt": "2026-04-18T02:05:59.067Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93062,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.975626,
+          35.868606
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": 1776398621,
+        "city": "کرج",
+        "province": "استان البرز",
+        "name:fa": "ساختمان اطلاعات قدیم کرج",
+        "id": "MjplOGU1MzI1ZDg3ZTU",
+        "publicId": "MjplOGU1MzI1ZDg3ZTU",
+        "sourceId": "e8e5325d87e5",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-18T02:06:48.478Z",
+        "updatedAt": "2026-04-18T02:06:48.478Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93063,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.352697476565766,
+          27.20667989775029
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج مسجد حضرت مهدی",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج مسجد حضرت مهدی معمولا غیر فعال است ولی گاهی برای سرکوب استفاده می‌شود.",
+        "date": 1776430455,
+        "city": "بندر عباس",
+        "province": "استان هرمزگان",
+        "id": "MTpiZDQzMDBlYmFhMzY",
+        "publicId": "MTpiZDQzMDBlYmFhMzY",
+        "sourceId": "bd4300ebaa36",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-18T02:07:56.774Z",
+        "updatedAt": "2026-04-18T02:07:56.774Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93064,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.53996542745091,
+          32.674807303437234
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "lastReport": "",
+        "date": 1776362325,
+        "addressDescription": "",
+        "description": "",
+        "city": "خمینی شهر",
+        "province": "استان اصفهان",
+        "id": "MjA6MTdkNGY1Y2Y4MjBl",
+        "publicId": "MjA6MTdkNGY1Y2Y4MjBl",
+        "sourceId": "17d4f5cf820e",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-18T02:08:17.440Z",
+        "updatedAt": "2026-04-18T02:08:17.440Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93065,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.869932,
+          38.423254
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری آستارا",
+        "description": "",
+        "date": "",
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "id": "MTc6ZDUyMTY1ZTgwZDU4",
+        "publicId": "MTc6ZDUyMTY1ZTgwZDU4",
+        "sourceId": "d52165e80d58",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-18T02:10:21.399Z",
+        "updatedAt": "2026-04-18T02:10:21.399Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2506,
+    "total": 2511,
     "citizenReport": true,
     "clustered": false,
     "simplified": false
