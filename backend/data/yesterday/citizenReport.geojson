@@ -74803,10 +74803,358 @@
         "createdAt": "2026-04-20T18:06:38.642Z",
         "updatedAt": "2026-04-20T18:06:38.642Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5310501036692,
+          36.681550243202565
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "description": "ایست بازرسی بسیج و سپاه در شهرک زیباشهر",
+        "date": 1776799036,
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "id": "MzY6YjYzNzUwYWNiYWU2",
+        "publicId": "MzY6YjYzNzUwYWNiYWU2",
+        "sourceId": "b63750acbae6",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-22T20:47:03.872Z",
+        "updatedAt": "2026-04-22T20:47:03.872Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.475745111464676,
+          36.69456910359503
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی بسیج",
+        "description": "ایست بازرسی بسیج در بلوار عاصم زنجانی از اواسط ماه فروردین عصر ها تا شب",
+        "date": 1776798853,
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "id": "MzY6MjJjM2M1MjJmM2Q4",
+        "publicId": "MzY6MjJjM2M1MjJmM2Q4",
+        "sourceId": "22c3c522f3d8",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-22T20:47:04.047Z",
+        "updatedAt": "2026-04-22T20:47:04.047Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.51634454231484,
+          36.71135226878009
+        ]
+      },
+      "properties": {
+        "name:fa": "استقرار لانچر",
+        "description": "ایران در حال اماده شدن برای جنگ",
+        "date": 1776702707,
+        "city": "گاوازنگ",
+        "province": "استان زنجان",
+        "id": "MzY6ZjYxMDZkY2ZiMjAz",
+        "publicId": "MzY6ZjYxMDZkY2ZiMjAz",
+        "sourceId": "f6106dcfb203",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-22T20:47:04.198Z",
+        "updatedAt": "2026-04-22T20:47:04.198Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.31525054233259,
+          35.36913927339566
+        ]
+      },
+      "properties": {
+        "name:fa": "استقرار لانچر",
+        "description": "مستقر کردن یک لانچر در این مکان. یه سری تسلیحات عجیب غریب هم بود کنارش.",
+        "date": 1776662950,
+        "city": "شهرستان ری",
+        "province": "استان تهران",
+        "id": "MzY6NTYyN2FiZWY5MjYw",
+        "publicId": "MzY6NTYyN2FiZWY5MjYw",
+        "sourceId": "5627abef9260",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-22T20:47:04.328Z",
+        "updatedAt": "2026-04-22T20:47:04.328Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3570165339309,
+          35.61833558831776
+        ]
+      },
+      "properties": {
+        "name:fa": "مقر جلسات بسیج",
+        "description": "مقر جلسات شبانگاهی بسیجی ها",
+        "date": 1776588426,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzY6NDYwMThiYzc0M2Ew",
+        "publicId": "MzY6NDYwMThiYzc0M2Ew",
+        "sourceId": "46018bc743a0",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-22T20:47:04.450Z",
+        "updatedAt": "2026-04-22T20:47:04.450Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93111,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.357329802687616,
+          38.01121297342567
+        ]
+      },
+      "properties": {
+        "name:fa": "انبار تسهیلات فراجا",
+        "description": "اینجا انبار دیجی کالا است که به عنوان انبار تسهیلات پادگان فراجا ولیعصر استفاده می کنند و پوششی است.",
+        "date": 1776687265,
+        "city": "شهرستان تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "MTI6YmY0OWMzYTk4ZDk0",
+        "publicId": "MTI6YmY0OWMzYTk4ZDk0",
+        "sourceId": "bf49c3a98d94",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-22T20:49:35.268Z",
+        "updatedAt": "2026-04-22T20:49:35.268Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93112,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.56601338557323,
+          35.73242644161566
+        ]
+      },
+      "properties": {
+        "name:fa": "تولید قطعات پهپاد",
+        "description": "یک سوله در خیابان یازدهم، تجهیزات پلاستیکی مورد نیاز پهپادها را تولید می‌کند.",
+        "date": 1776507743,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MTI6NDM0MTE2Y2I0MDc1",
+        "publicId": "MTI6NDM0MTE2Y2I0MDc1",
+        "sourceId": "434116cb4075",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-22T20:49:35.393Z",
+        "updatedAt": "2026-04-22T20:49:35.393Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93113,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.98486294057287,
+          29.198423362857895
+        ]
+      },
+      "properties": {
+        "name:fa": "تردد ماشین",
+        "description": "تردد ماشین نظامی",
+        "date": 1776750310,
+        "city": "شهرستان بوشهر",
+        "province": "استان بوشهر",
+        "id": "MzY6NTcxZjliMWI1M2Jm",
+        "publicId": "MzY6NTcxZjliMWI1M2Jm",
+        "sourceId": "571f9b1b53bf",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-22T20:55:22.616Z",
+        "updatedAt": "2026-04-22T20:55:22.616Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.036784635576424,
+          34.36616306919149
+        ]
+      },
+      "properties": {
+        "name:fa": "لانچر",
+        "description": "استقرار دوتا  لانچر اینجا دیشب ساعت حوالی 3 شب",
+        "date": 1776345003,
+        "city": "شهرستان کرمانشاه",
+        "province": "استان کرمانشاه",
+        "id": "MzY6Y2E0Zjc0OTA3ZDM1",
+        "publicId": "MzY6Y2E0Zjc0OTA3ZDM1",
+        "sourceId": "ca4f74907d35",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-22T20:55:22.771Z",
+        "updatedAt": "2026-04-22T20:55:22.771Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.53868279969052,
+          35.60858642994714
+        ]
+      },
+      "properties": {
+        "name:fa": "گشت",
+        "description": "اینجا چند وقته ماشین های نظامی خیلی رفت و آمد میکنه \nنمیدونم چه خبره ولی فکر کنم نیرو داخلش هست",
+        "date": 1776852226,
+        "city": "شهرستان سمنان",
+        "province": "استان سمنان",
+        "id": "MzY6MTcyNjRjYjdmMWQ3",
+        "publicId": "MzY6MTcyNjRjYjdmMWQ3",
+        "sourceId": "17264cb7f1d7",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-22T20:58:49.247Z",
+        "updatedAt": "2026-04-22T20:58:49.247Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.554094684052444,
+          35.79566996842273
+        ]
+      },
+      "properties": {
+        "name:fa": "گشت",
+        "description": "گشت نیروی انتظامی بود فکر میکنم کلانتری قائم یا اون دفتر کلانتری وسط راه انتهای بلوار ارتش تا میدان بالا، ۲تا تویوتا هایلوکس، یک سمند، ماشین های شخصیشونم پایینتر پارک کرده بودن، ساعت حدود ۱ یا ۲ بامداد\n۲تا درجه دار بودن و ۳تا سرباز بدبخت تو سرما\nتقریبا ۶ روز پیش، ولی مشخص بود اونجا موندنی شدن وسایلشونو ثابت بود حتی بلوکه داشتن",
+        "date": 1776605476,
+        "city": "شهرستان تهران",
+        "province": "استان تهران",
+        "id": "MzY6ZTc5MzhhOGJmOTJj",
+        "publicId": "MzY6ZTc5MzhhOGJmOTJj",
+        "sourceId": "e7938a8bf92c",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-22T20:58:49.457Z",
+        "updatedAt": "2026-04-22T20:58:49.457Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.34721167264857,
+          35.69911231504635
+        ]
+      },
+      "properties": {
+        "name:fa": "گشت",
+        "description": "اینجا یدونه کانکس پلیس گذاشتن . فکر کنم به خاطر اینه دیگه جا ندارن دارن کلانتری خارو تبدیل میکنن به کانکس",
+        "date": 1776583462,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzY6Y2E3MTk4Njc4OTQz",
+        "publicId": "MzY6Y2E3MTk4Njc4OTQz",
+        "sourceId": "ca7198678943",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-22T20:58:49.606Z",
+        "updatedAt": "2026-04-22T20:58:49.606Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2535,
+    "total": 2547,
     "citizenReport": true,
     "clustered": false,
     "simplified": false

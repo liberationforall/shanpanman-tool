@@ -851,14 +851,17 @@
         ]
       },
       "properties": {
-        "name:fa": "مجمجوعه کلانتری ۱۰۴، آگاهی و پلیس مبارزه با موادمخدر",
+        "status": "active",
+        "name:fa": "کلانتری ۱۰۴، آگاهی و پلیس مبارزه با موادمخدر",
+        "unofficial_name:fa": "",
+        "date": 1772386245,
+        "geolocates": "",
+        "description": "",
+        "city": "تهران",
+        "province": "استان تهران",
         "sources": "https://x.com/Vahid/status/2028187761971269846",
         "id": "MzI6NzAyNTU",
         "accurate": "yes",
-        "status": "active",
-        "date": "1772386245",
-        "city": "تهران",
-        "province": "استان تهران",
         "publicId": "MzI6NzAyNTU",
         "sourceId": "70255",
         "layerId": 32,
@@ -867,7 +870,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:42:19.570Z",
-        "updatedAt": "2026-03-31T03:39:11.525Z",
+        "updatedAt": "2026-04-22T20:43:59.017Z",
         "name:en": "Police Station 104 Complex, Intelligence and Anti-Narcotics Police",
         "info": {
           "name:en": "Police Station 104 Complex, Intelligence and Anti-Narcotics Police"
