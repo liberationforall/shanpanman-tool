@@ -75151,10 +75151,68 @@
         "createdAt": "2026-04-22T20:58:49.606Z",
         "updatedAt": "2026-04-22T20:58:49.606Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.54350875297757,
+          36.669761561804634
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی سپاه",
+        "description": "ایست بازرسی سپاه پاستور غربی مجاور پارک گلشهر",
+        "date": 1776923212,
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "id": "MzY6YzU5NjFlYzgzZjAx",
+        "publicId": "MzY6YzU5NjFlYzgzZjAx",
+        "sourceId": "c5961ec83f01",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-24T21:14:08.779Z",
+        "updatedAt": "2026-04-24T21:14:08.779Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.47598987813353,
+          36.71088693831666
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی سپاه",
+        "description": "ایست بازرسی سپاه اول جاده تهم و جارچی، جاده بین دوتپه هست که بالای تپه ها مسلسل گذاشتن",
+        "date": 1776923127,
+        "city": "شهرستان زنجان",
+        "province": "استان زنجان",
+        "id": "MzY6OWExOGQ2MzdlY2Fj",
+        "publicId": "MzY6OWExOGQ2MzdlY2Fj",
+        "sourceId": "9a18d637ecac",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-24T21:14:08.962Z",
+        "updatedAt": "2026-04-24T21:14:08.962Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2547,
+    "total": 2549,
     "citizenReport": true,
     "clustered": false,
     "simplified": false
