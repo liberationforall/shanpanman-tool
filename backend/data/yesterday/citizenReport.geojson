@@ -75209,10 +75209,591 @@
         "createdAt": "2026-04-24T21:14:08.962Z",
         "updatedAt": "2026-04-24T21:14:08.962Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.289214,
+          35.764317
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "description": "ایست بازرسی روزانه هست",
+        "date": 1777242587,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzY6ZmQxYjYwMTVhMTQ0",
+        "publicId": "MzY6ZmQxYjYwMTVhMTQ0",
+        "sourceId": "fd1b6015a144",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-27T21:25:17.909Z",
+        "updatedAt": "2026-04-27T21:25:17.909Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93121,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.233545906416566,
+          38.07232871110176
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای ضد شورش",
+        "description": "محل تجمع مزدوران و نیروهای نظامی ضد شورش در زیر پل",
+        "date": 1777225064,
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzY6ZmQ5ZDIwZDQ1YTE1",
+        "publicId": "MzY6ZmQ5ZDIwZDQ1YTE1",
+        "sourceId": "fd9d20d45a15",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-27T21:25:18.095Z",
+        "updatedAt": "2026-04-27T21:25:18.095Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93122,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.335021255388114,
+          37.4828516540793
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "",
+        "description": "این مکان مربوط به اطلاعات و خیلی آدم‌های اصلی اینجا می‌رن",
+        "date": 1777114368,
+        "city": "بجنورد",
+        "province": "استان خراسان شمالی",
+        "name:fa": "مرکز اطلاعات",
+        "id": "MjoxMzQ2NzZhYTY5NmM",
+        "publicId": "MjoxMzQ2NzZhYTY5NmM",
+        "sourceId": "134676aa696c",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-27T21:26:22.480Z",
+        "updatedAt": "2026-04-27T21:26:22.480Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93123,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.579547,
+          37.27312
+        ]
+      },
+      "properties": {
+        "name:fa": "مقر بسیج و مسجد",
+        "description": "مسجد و مقر بسیج",
+        "date": 1777114394,
+        "city": "رشت",
+        "province": "استان گیلان",
+        "id": "MToyM2M4NzIyZDI5OTQ",
+        "publicId": "MToyM2M4NzIyZDI5OTQ",
+        "sourceId": "23c8722d2994",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-27T21:31:45.133Z",
+        "updatedAt": "2026-04-27T21:31:45.133Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93124,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.497625767139795,
+          36.691271281524294
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "description": "دوربین امنیتی",
+        "date": 1777112786,
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "id": "MjA6MGFlYmY3MWVkODE5",
+        "publicId": "MjA6MGFlYmY3MWVkODE5",
+        "sourceId": "0aebf71ed819",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-27T21:31:45.302Z",
+        "updatedAt": "2026-04-27T21:31:45.302Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93125,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.502646718351315,
+          36.68521219084104
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "description": "دوربین امنیتی",
+        "date": 1777112687,
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "id": "MjA6NzBlYzlkNmUyNzdk",
+        "publicId": "MjA6NzBlYzlkNmUyNzdk",
+        "sourceId": "70ec9d6e277d",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-27T21:31:45.441Z",
+        "updatedAt": "2026-04-27T21:31:45.441Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93126,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.48737169357841,
+          36.68697272149018
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "description": "دوربین امنیتی",
+        "date": 1777112637,
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "id": "MjA6NzI1ZmRjNzJjOTc2",
+        "publicId": "MjA6NzI1ZmRjNzJjOTc2",
+        "sourceId": "725fdc72c976",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-27T21:31:45.585Z",
+        "updatedAt": "2026-04-27T21:31:45.585Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93127,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.48045121727844,
+          36.68632528754034
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "description": "دوربین امنیتی",
+        "date": 1777112608,
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "id": "MjA6MWQyZjgzYTgyZjM2",
+        "publicId": "MjA6MWQyZjgzYTgyZjM2",
+        "sourceId": "1d2f83a82f36",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-27T21:31:45.712Z",
+        "updatedAt": "2026-04-27T21:31:45.712Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93128,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.467237033086576,
+          36.68658748830913
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "description": "دوربین امنیتی",
+        "date": 1777112512,
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "id": "MjA6ZDA0NWY3YmJmNWRk",
+        "publicId": "MjA6ZDA0NWY3YmJmNWRk",
+        "sourceId": "d045f7bbf5dd",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-27T21:31:45.814Z",
+        "updatedAt": "2026-04-27T21:31:45.814Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93129,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.47318648647499,
+          36.68795674823777
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "description": "دوربین امنیتی",
+        "date": 1777112467,
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "id": "MjA6OTNjMWQ5YjNjZDky",
+        "publicId": "MjA6OTNjMWQ5YjNjZDky",
+        "sourceId": "93c1d9b3cd92",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-27T21:31:45.918Z",
+        "updatedAt": "2026-04-27T21:31:45.918Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93130,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.476441965996344,
+          36.68853538763763
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "description": "دوربین امنیتی",
+        "date": 1777112437,
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "id": "MjA6ZmY1YWEzN2EyNWNk",
+        "publicId": "MjA6ZmY1YWEzN2EyNWNk",
+        "sourceId": "ff5aa37a25cd",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-27T21:31:46.016Z",
+        "updatedAt": "2026-04-27T21:31:46.016Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93131,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.52358646951373,
+          36.722436908809016
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "description": "دوربین امنیتی",
+        "date": 1777112364,
+        "city": "گاوازنگ",
+        "province": "استان زنجان",
+        "id": "MjA6YzBlMGM2ZDgxZDE3",
+        "publicId": "MjA6YzBlMGM2ZDgxZDE3",
+        "sourceId": "c0e0c6d81d17",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-27T21:31:46.111Z",
+        "updatedAt": "2026-04-27T21:31:46.111Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5103947236849,
+          36.6919139608807
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "description": "دوربین امنیتی",
+        "date": 1777112291,
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "id": "MjA6ZjNiZDFiZjQ3ZjFi",
+        "publicId": "MjA6ZjNiZDFiZjQ3ZjFi",
+        "sourceId": "f3bd1bf47f1b",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-27T21:31:46.217Z",
+        "updatedAt": "2026-04-27T21:31:46.217Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.48225672138386,
+          36.675891117752656
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "description": "دوربین امنیتی",
+        "date": 1777112194,
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "id": "MjA6ZmRlODk0ZDNjNzRl",
+        "publicId": "MjA6ZmRlODk0ZDNjNzRl",
+        "sourceId": "fde894d3c74e",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-27T21:31:46.321Z",
+        "updatedAt": "2026-04-27T21:31:46.321Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93134,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.47894243030595,
+          36.66850202311231
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "description": "دوربین امنیتی",
+        "date": 1777112154,
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "id": "MjA6YzczNTBlYjJhMWRm",
+        "publicId": "MjA6YzczNTBlYjJhMWRm",
+        "sourceId": "c7350eb2a1df",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-27T21:31:46.430Z",
+        "updatedAt": "2026-04-27T21:31:46.430Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93135,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.48378286804535,
+          36.67029735251849
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "description": "دوربین امنیتی",
+        "date": 1777112079,
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "id": "MjA6NjMwYmM3NWU2NTgy",
+        "publicId": "MjA6NjMwYmM3NWU2NTgy",
+        "sourceId": "630bc75e6582",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-27T21:31:46.534Z",
+        "updatedAt": "2026-04-27T21:31:46.534Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93136,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4839199829336,
+          36.67136459135678
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "description": "دوربین امنیتی",
+        "date": 1777112042,
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "id": "MjA6MWRkY2VhOGM5NTZj",
+        "publicId": "MjA6MWRkY2VhOGM5NTZj",
+        "sourceId": "1ddcea8c956c",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-27T21:31:46.634Z",
+        "updatedAt": "2026-04-27T21:31:46.634Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.484678590143886,
+          36.675425183511706
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "description": "دوربین امنیتی",
+        "date": 1777112001,
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "id": "MjA6ZDcxZGNjNzk4MTFh",
+        "publicId": "MjA6ZDcxZGNjNzk4MTFh",
+        "sourceId": "d71dcc79811a",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-27T21:31:46.743Z",
+        "updatedAt": "2026-04-27T21:31:46.743Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6113768449803,
+          33.330072758026276
+        ]
+      },
+      "properties": {
+        "name:fa": "پرتاب موشک",
+        "description": "من این سمت دیدم که موشک بلند شد شبیه این سجیل هم بود ولی فقط دو بار",
+        "date": 1776767117,
+        "city": "شهرستان الیگودرز",
+        "province": "استان لرستان",
+        "id": "NzphMGFiNTgxZmEwOGU",
+        "publicId": "NzphMGFiNTgxZmEwOGU",
+        "sourceId": "a0ab581fa08e",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-27T21:31:46.874Z",
+        "updatedAt": "2026-04-27T21:31:46.874Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93139,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.55313501664165,
+          36.730344596627745
+        ]
+      },
+      "properties": {
+        "name:fa": "سایت پرتاب موشک",
+        "description": "از این طرفا چند دفعه من دیدم موشک بلند شد . من حدودی لوکیشن زدم ولی جهتش همین طرفا بود .",
+        "date": 1776668946,
+        "city": "شهرستان زنجان",
+        "province": "استان زنجان",
+        "id": "NzpmYjRiZDMzZDA5NzE",
+        "publicId": "NzpmYjRiZDMzZDA5NzE",
+        "sourceId": "fb4bd33d0971",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-27T21:31:47.011Z",
+        "updatedAt": "2026-04-27T21:31:47.011Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2549,
+    "total": 2569,
     "citizenReport": true,
     "clustered": false,
     "simplified": false
