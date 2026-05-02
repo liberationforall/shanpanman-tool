@@ -75790,10 +75790,416 @@
         "createdAt": "2026-04-27T21:31:47.011Z",
         "updatedAt": "2026-04-27T21:31:47.011Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93140,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.42086452886545,
+          32.991090542572934
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع",
+        "description": "محل تجمع نیروهای سرکوب",
+        "date": 1777663164,
+        "city": "آبدانان",
+        "province": "استان ایلام",
+        "id": "MzY6M2QyNjc3YjU1Yzk5",
+        "publicId": "MzY6M2QyNjc3YjU1Yzk5",
+        "sourceId": "3d2677b55c99",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-02T01:00:06.832Z",
+        "updatedAt": "2026-05-02T01:00:06.832Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93141,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.981785128289005,
+          35.82911349150541
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروی انتظامی",
+        "description": "محل تجمع نیروی انتظامی و سرکوب از ترس زدن پاسگاه",
+        "date": 1777640837,
+        "city": "کرج",
+        "province": "استان البرز",
+        "id": "MzY6YzkwNjI3ZmU2OThh",
+        "publicId": "MzY6YzkwNjI3ZmU2OThh",
+        "sourceId": "c90627fe698a",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-02T01:00:06.994Z",
+        "updatedAt": "2026-05-02T01:00:06.994Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.33970189186971,
+          35.69845667617663
+        ]
+      },
+      "properties": {
+        "name:fa": "دپوی یگان ویژه",
+        "description": "محل دپوی نیروهای یگان ویژه",
+        "date": 1777633999,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzY6MTM4YjQ5NzMwYmY0",
+        "publicId": "MzY6MTM4YjQ5NzMwYmY0",
+        "sourceId": "138b49730bf4",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-02T01:00:07.144Z",
+        "updatedAt": "2026-05-02T01:00:07.144Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93143,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.35791581581938,
+          35.686549504549944
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست و بازرسی بسیج",
+        "description": "ایست و بازرسی بسیج",
+        "date": 1777632683,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzY6ODA5ZmJhYzRkN2Jk",
+        "publicId": "MzY6ODA5ZmJhYzRkN2Jk",
+        "sourceId": "809fbac4d7bd",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-02T01:00:07.269Z",
+        "updatedAt": "2026-05-02T01:00:07.269Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93144,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.360444235235576,
+          35.68679630234813
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست و بازرسی بسیج",
+        "description": "ایست و بازرسی بسیج",
+        "date": 1777630079,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzY6ODBmYTBkYmI0NjY0",
+        "publicId": "MzY6ODBmYTBkYmI0NjY0",
+        "sourceId": "80fa0dbb4664",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-02T01:00:07.399Z",
+        "updatedAt": "2026-05-02T01:00:07.399Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.399874,
+          35.647772
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع در شهرداری ناحیه ۲",
+        "description": "شهرداری ناحیه ۲ منطقه ۱۶ محل تجمع نیروهای حکومتی",
+        "date": 1777629691,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzY6NzY0ZjlhMGYyODVh",
+        "publicId": "MzY6NzY0ZjlhMGYyODVh",
+        "sourceId": "764f9a0f285a",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-02T01:00:07.533Z",
+        "updatedAt": "2026-05-02T01:00:07.533Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39802040952074,
+          35.7092076647525
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست و بازرسی",
+        "description": "ایست و بازرسی بسیج و سپاه",
+        "date": 1777629491,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzY6NjdiMGQ5NDJmYTc2",
+        "publicId": "MzY6NjdiMGQ5NDJmYTc2",
+        "sourceId": "67b0d942fa76",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-02T01:00:07.656Z",
+        "updatedAt": "2026-05-02T01:00:07.656Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.389890764370904,
+          35.70122031423013
+        ]
+      },
+      "properties": {
+        "name:fa": "بازداشتگاه موقت معترضان",
+        "description": "پایگاه بسیج سیدالشهدا بازداشتگاه موقت معترضان در میدان انقلاب",
+        "date": 1777629177,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzY6ZmExMTRkNzg2Mjhh",
+        "publicId": "MzY6ZmExMTRkNzg2Mjhh",
+        "sourceId": "fa114d78628a",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-02T01:00:07.770Z",
+        "updatedAt": "2026-05-02T01:00:07.770Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93148,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.37516430698841,
+          35.702388094210164
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج شهید محبی",
+        "description": "پایگاه بسیج شهید هادی محبی محل تجمع نیروهای بسیجی",
+        "date": 1777628183,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzY6ZmI2NWMyODI2NzVh",
+        "publicId": "MzY6ZmI2NWMyODI2NzVh",
+        "sourceId": "fb65c282675a",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-02T01:00:07.875Z",
+        "updatedAt": "2026-05-02T01:00:07.875Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93149,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.37831432695839,
+          35.69732221121846
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست و بازرسی بسیج",
+        "description": "ایست و بازرسی بسیج",
+        "date": 1777627800,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzY6NzhmMjM0NmI3NjAx",
+        "publicId": "MzY6NzhmMjM0NmI3NjAx",
+        "sourceId": "78f2346b7601",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-02T01:00:07.985Z",
+        "updatedAt": "2026-05-02T01:00:07.985Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93150,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.37846561730308,
+          35.69619700539637
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست و بازرسی بسیج",
+        "description": "ایست و بازرسی حوزه بسیج ۲۱۳ فتح",
+        "date": 1777627781,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzY6YWY0OGVkYzljMTZk",
+        "publicId": "MzY6YWY0OGVkYzljMTZk",
+        "sourceId": "af48edc9c16d",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-02T01:00:08.088Z",
+        "updatedAt": "2026-05-02T01:00:08.088Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93151,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.37747006493339,
+          35.69664687893983
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست و بازرسی بسیج",
+        "description": "ایست و بازرسی حوزه بسیج ۲۱۳ فتح",
+        "date": 1777627755,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzY6NzQ4ZjJiNDEzY2My",
+        "publicId": "MzY6NzQ4ZjJiNDEzY2My",
+        "sourceId": "748f2b413cc2",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-02T01:00:08.193Z",
+        "updatedAt": "2026-05-02T01:00:08.193Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93152,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.371586570315,
+          35.700091414240546
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروها در مدرسه",
+        "description": "مدرسه عدل پرور محل تجمع نیرو های حکومت و تجهیزات اونا",
+        "date": 1777626791,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzY6NWRjYTRmMDNhMjc2",
+        "publicId": "MzY6NWRjYTRmMDNhMjc2",
+        "sourceId": "5dca4f03a276",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-02T01:00:08.291Z",
+        "updatedAt": "2026-05-02T01:00:08.291Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93153,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.548102211921275,
+          36.6556295608583
+        ]
+      },
+      "properties": {
+        "name:fa": "کامیون‌های نظامی و پهپاد",
+        "description": "دو تا کامیون نظامی اینجا بار اوردن. خبر پیچیده که پهپاد اورده بودن.",
+        "date": 1777550586,
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "id": "MzY6OWIwYjhjZTU1N2Qz",
+        "publicId": "MzY6OWIwYjhjZTU1N2Qz",
+        "sourceId": "9b0b8ce557d3",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-02T01:00:08.390Z",
+        "updatedAt": "2026-05-02T01:00:08.390Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2569,
+    "total": 2583,
     "citizenReport": true,
     "clustered": false,
     "simplified": false
