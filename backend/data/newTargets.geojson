@@ -21972,10 +21972,313 @@
           "name:en": "Police Station 153 Valieasr District"
         }
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93213,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.474413,
+          35.644655
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "ایست بازرسی",
+        "unofficial_name:fa": "",
+        "date": 1774895400,
+        "geolocates": "",
+        "description": "شبی که ایست بازرسی هارو میزدن، اینجارو زدن و چندتا بسیجی هم کشته شدن. پس فرداش هم تشیع جنازه‌شون رو زدن که تقاطع امام علی و خاوران بود.",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "id": "MzI6YWYwNjQ3Y2EzZWRm",
+        "publicId": "MzI6YWYwNjQ3Y2EzZWRm",
+        "sourceId": "af0647ca3edf",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:43:05.803Z",
+        "updatedAt": "2026-05-06T20:43:05.803Z",
+        "name:en": "Inspection Checkpoint",
+        "info": {
+          "name:en": "Inspection Checkpoint"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93214,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1728092247144,
+          30.428526808526684
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "کشتی سازی خرمشهر",
+        "unofficial_name:fa": "",
+        "date": 1805241900,
+        "geolocates": "",
+        "description": "این محل کشتی سازی خرمشهر است. در روز ۲۶ اسفند ساعت ۳:۳۵ تا ۴ بامداد بیش از ۲۵ صدای انفجار از این محل شنیده شد. سوله ها کاملا تخریب شده و چند کشتی نیز آسیب دیده اند. در روز ۱ فروردین برای بار دیگر در ساعت ۲۲:۲۰ تا ۲۳ برای نزدیک به ۶۰ انفجار مورد هدف قرار گرفت. شایعاتی مبنی بر وجود سازه های زیرزمینی در زیر سوله های کشتی سازی مطرح است. که در آن به ساخت قایق های تندرو و لانچر های مرتبط با این قایق ها میپرداختند. گمان میرود دلیل هدف قرار گرفتنپیاپی این تاسیسات، تخریب این سازه ی زیر زمینی بوده است.",
+        "city": "خرمشهر",
+        "province": "استان خوزستان",
+        "sources": "",
+        "id": "MzI6ZWE3OTE4N2ZmOTE3",
+        "publicId": "MzI6ZWE3OTE4N2ZmOTE3",
+        "sourceId": "ea79187ff917",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:43:48.022Z",
+        "updatedAt": "2026-05-06T20:43:48.022Z",
+        "name:en": "Khorramshahr Shipbuilding",
+        "info": {
+          "name:en": "Khorramshahr Shipbuilding"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93227,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.50198017387544,
+          35.77361835803099
+        ]
+      },
+      "properties": {
+        "name:fa": "حمله موشکی پادگان المهدی",
+        "description": "پادگان و مرکز تحقیقات انرژی اتمی المهدی شیان-لویزان در ایام عید نوروز شنبه هشت فروروردین ۱۴۰۵ به صورت مکرر هدف حمله موشکی قرار گرفت.",
+        "date": 1776238477,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzI6YjE3ZTAxYzI5MTdj",
+        "publicId": "MzI6YjE3ZTAxYzI5MTdj",
+        "sourceId": "b17e01c2917c",
+        "layerId": 32,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:46:40.788Z",
+        "updatedAt": "2026-05-06T20:46:40.788Z",
+        "name:en": "Missile Attack on Al-Mahdi Military Base",
+        "info": {
+          "name:en": "Missile Attack on Al-Mahdi Military Base"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93228,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.401759342029266,
+          35.70432924369884
+        ]
+      },
+      "properties": {
+        "name:fa": "تخریب ساختمان",
+        "description": "حمله موشکی یه یک ساختمان در کوچه ملک که مجاور کنیسه رفیع نیا بوده. ساختمان به طور کامل منهدم و تخریب شد. زمان حمله: ساعت ۳:۳۰ صبح ۱۸ فروردین ۱۴۰۵. بنا بر شواهد و منابع متعدد، عملیات ترور رادان و اژه ای بوده که ناکام ماند.",
+        "date": 1777995833,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzI6YWMyZTE1YzE1MWQ0",
+        "publicId": "MzI6YWMyZTE1YzE1MWQ0",
+        "sourceId": "ac2e15c151d4",
+        "layerId": 32,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:49:36.482Z",
+        "updatedAt": "2026-05-06T20:49:36.482Z",
+        "name:en": "Building Destruction",
+        "info": {
+          "name:en": "Building Destruction"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93229,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.08634637887806,
+          27.108446217393052
+        ]
+      },
+      "properties": {
+        "name:fa": "حمله پهپادی تیپ عاصف",
+        "description": "حمله پهپادی متعدد در تیپ عاصف سپاه پاسداران",
+        "date": 1777681948,
+        "city": "میناب",
+        "province": "استان هرمزگان",
+        "id": "MzI6ZjQ2NTFkNzFmNTA5",
+        "publicId": "MzI6ZjQ2NTFkNzFmNTA5",
+        "sourceId": "f4651d71f509",
+        "layerId": 32,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:49:36.622Z",
+        "updatedAt": "2026-05-06T20:49:36.622Z",
+        "name:en": "Drone Attack on Asef Brigade",
+        "info": {
+          "name:en": "Drone Attack on Asef Brigade"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93230,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.331046,
+          32.824498
+        ]
+      },
+      "properties": {
+        "name:fa": "هدف قرار گرفتن پدافند هوایی",
+        "description": "پدافند هوایی ارتش نزدیک پلیس راه جاده بیرجند زاهدان که هدف قرار گرفت.",
+        "date": 1777703663,
+        "city": "شهرستان بیرجند",
+        "province": "استان خراسان جنوبی",
+        "id": "MzI6NTdiMGZhYWIzYzEy",
+        "publicId": "MzI6NTdiMGZhYWIzYzEy",
+        "sourceId": "57b0faab3c12",
+        "layerId": 32,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:49:38.897Z",
+        "updatedAt": "2026-05-06T20:49:38.897Z",
+        "name:en": "Air Defense Targeting",
+        "info": {
+          "name:en": "Air Defense Targeting"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93231,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.089867,
+          32.86236
+        ]
+      },
+      "properties": {
+        "name:fa": "حمله به هوا فضای سپاه بیرجند",
+        "description": "هوا فضای سپاه بیرجند که ۲ بار هدف قرار گرفت",
+        "date": 1777703558,
+        "city": "شهرستان بیرجند",
+        "province": "استان خراسان جنوبی",
+        "id": "MzI6ZjA4NjUyNzJiNDU1",
+        "publicId": "MzI6ZjA4NjUyNzJiNDU1",
+        "sourceId": "f0865272b455",
+        "layerId": 32,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:49:39.032Z",
+        "updatedAt": "2026-05-06T20:49:39.032Z",
+        "name:en": "Attack on Birjand Revolutionary Guard Aerospace",
+        "info": {
+          "name:en": "Attack on Birjand Revolutionary Guard Aerospace"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.896472,
+          33.670312
+        ]
+      },
+      "properties": {
+        "name:fa": "حمله به فرودگاه طبس",
+        "description": "فرودگاه طبس که اواخر جنگ هدف قرار گرفت",
+        "date": 1777703479,
+        "city": "شهرستان طبس",
+        "province": "استان خراسان جنوبی",
+        "id": "MzI6OGI2NTNkZmMxYmE5",
+        "publicId": "MzI6OGI2NTNkZmMxYmE5",
+        "sourceId": "8b653dfc1ba9",
+        "layerId": 32,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:49:39.186Z",
+        "updatedAt": "2026-05-06T20:49:39.186Z",
+        "name:en": "Attack on Tabas Airport",
+        "info": {
+          "name:en": "Attack on Tabas Airport"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93233,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.97434592950887,
+          37.76650242651172
+        ]
+      },
+      "properties": {
+        "name:fa": "حمله به پایگاه بسیج آذرشهر",
+        "description": "این منطقه واقع در مرکز آذرشهر که به عنوان پایگاه بسیج شناخته می‌شود، هدف قرار گرفته و کامل با خاک یکسان شده است. اداره پست و چند ساختمان دیگر در داخل محدوده آن محل نابود شده‌اند.",
+        "date": 1776413171,
+        "city": "آذرشهر",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzI6MjM3MzM2NjJlMDE4",
+        "publicId": "MzI6MjM3MzM2NjJlMDE4",
+        "sourceId": "23733662e018",
+        "layerId": 32,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:49:39.310Z",
+        "updatedAt": "2026-05-06T20:49:39.310Z",
+        "name:en": "Attack on Azarshahr Basij Base",
+        "info": {
+          "name:en": "Attack on Azarshahr Basij Base"
+        }
+      }
     }
   ],
   "metadata": {
-    "total": 626,
+    "total": 635,
     "layerId": 32,
     "clustered": false,
     "simplified": false
