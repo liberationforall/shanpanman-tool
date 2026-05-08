@@ -77907,10 +77907,625 @@
         "createdAt": "2026-05-05T01:08:29.947Z",
         "updatedAt": "2026-05-05T01:08:29.947Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93213,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.474413,
+          35.644655
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "ایست بازرسی",
+        "unofficial_name:fa": "",
+        "date": 1774895400,
+        "geolocates": "",
+        "description": "شبی که ایست بازرسی هارو میزدن، اینجارو زدن و چندتا بسیجی هم کشته شدن. پس فرداش هم تشیع جنازه‌شون رو زدن که تقاطع امام علی و خاوران بود.",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "id": "MzI6YWYwNjQ3Y2EzZWRm",
+        "publicId": "MzI6YWYwNjQ3Y2EzZWRm",
+        "sourceId": "af0647ca3edf",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:43:05.803Z",
+        "updatedAt": "2026-05-06T20:43:05.803Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93214,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1728092247144,
+          30.428526808526684
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "کشتی سازی خرمشهر",
+        "unofficial_name:fa": "",
+        "date": 1805241900,
+        "geolocates": "",
+        "description": "این محل کشتی سازی خرمشهر است. در روز ۲۶ اسفند ساعت ۳:۳۵ تا ۴ بامداد بیش از ۲۵ صدای انفجار از این محل شنیده شد. سوله ها کاملا تخریب شده و چند کشتی نیز آسیب دیده اند. در روز ۱ فروردین برای بار دیگر در ساعت ۲۲:۲۰ تا ۲۳ برای نزدیک به ۶۰ انفجار مورد هدف قرار گرفت. شایعاتی مبنی بر وجود سازه های زیرزمینی در زیر سوله های کشتی سازی مطرح است. که در آن به ساخت قایق های تندرو و لانچر های مرتبط با این قایق ها میپرداختند. گمان میرود دلیل هدف قرار گرفتنپیاپی این تاسیسات، تخریب این سازه ی زیر زمینی بوده است.",
+        "city": "خرمشهر",
+        "province": "استان خوزستان",
+        "sources": "",
+        "id": "MzI6ZWE3OTE4N2ZmOTE3",
+        "publicId": "MzI6ZWE3OTE4N2ZmOTE3",
+        "sourceId": "ea79187ff917",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:43:48.022Z",
+        "updatedAt": "2026-05-06T20:43:48.022Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.23627763557735,
+          31.908203071149458
+        ]
+      },
+      "properties": {
+        "name:fa": "حضور لانچر سپاه",
+        "description": "لانچر سپاه آوردن داخل سوله سوله خودم نزدیکشه دیدم",
+        "date": 1778088254,
+        "city": "یزد",
+        "province": "استان یزد",
+        "id": "MzY6YmFhNjY2ZThjODhl",
+        "publicId": "MzY6YmFhNjY2ZThjODhl",
+        "sourceId": "baa666e8c88e",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:46:34.918Z",
+        "updatedAt": "2026-05-06T20:46:34.918Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93216,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.33544463558428,
+          35.031440068629806
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع بسیج",
+        "description": "محل تجمع نیروهای بسیج و سرکوب",
+        "date": 1778070174,
+        "city": "ساوه",
+        "province": "استان مرکزی",
+        "id": "MzY6MjVjYjI5N2VmMzAz",
+        "publicId": "MzY6MjVjYjI5N2VmMzAz",
+        "sourceId": "25cb297ef303",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:46:35.071Z",
+        "updatedAt": "2026-05-06T20:46:35.071Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.098282521768596,
+          35.68751001396787
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تردد بسیج",
+        "description": "محل اختفای نیرو های بسیجی شهر. نمیدونم دارن چیکار میکنن ولی خیلی داخلش رفت آمد هست",
+        "date": 1778068602,
+        "city": "صالح‌آباد",
+        "province": "استان خراسان رضوی",
+        "id": "MzY6NDQyMjAxMTAyNGVi",
+        "publicId": "MzY6NDQyMjAxMTAyNGVi",
+        "sourceId": "4422011024eb",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:46:35.216Z",
+        "updatedAt": "2026-05-06T20:46:35.216Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93218,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.890484,
+          34.654118
+        ]
+      },
+      "properties": {
+        "name:fa": "تردد مشکوک",
+        "description": "سازمان قضایی نیروهای مسلح - ترددهای مشکوک",
+        "date": 1777985519,
+        "city": "قم",
+        "province": "استان قم",
+        "id": "MzY6NTIxNmU1YjU5YzYw",
+        "publicId": "MzY6NTIxNmU1YjU5YzYw",
+        "sourceId": "5216e5b59c60",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:46:35.354Z",
+        "updatedAt": "2026-05-06T20:46:35.354Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93219,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.676198542328365,
+          35.566420272729246
+        ]
+      },
+      "properties": {
+        "name:fa": "ورودی شهر موشکی",
+        "description": "مانند ورودی شهر موشکی",
+        "date": 1778096698,
+        "city": "شهرستان مریوان",
+        "province": "استان کردستان",
+        "id": "NzozMDE0NGE4MDMxOTc",
+        "publicId": "NzozMDE0NGE4MDMxOTc",
+        "sourceId": "30144a803197",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:46:39.852Z",
+        "updatedAt": "2026-05-06T20:46:39.852Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93220,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.870874635592116,
+          29.477060072972492
+        ]
+      },
+      "properties": {
+        "name:fa": "ستاد نیروی انتظامی استان",
+        "description": "ستاد نیروی انتظامی استان",
+        "date": 1778081086,
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MzowZjE1Y2I2MDFlZmU",
+        "publicId": "MzowZjE1Y2I2MDFlZmU",
+        "sourceId": "0f15cb601efe",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:46:39.979Z",
+        "updatedAt": "2026-05-06T20:46:39.979Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93221,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.10523338345243,
+          35.68788582534292
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین اطلاعات سپاه",
+        "description": "دوربین جاسوسی اطلاعات سپاه برای کنترل رفت و امد",
+        "date": 1778068913,
+        "city": "شهرستان تربت جام",
+        "province": "استان خراسان رضوی",
+        "id": "MjA6ODc2ODY0ZjM5MjI2",
+        "publicId": "MjA6ODc2ODY0ZjM5MjI2",
+        "sourceId": "876864f39226",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:46:40.114Z",
+        "updatedAt": "2026-05-06T20:46:40.114Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93222,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.09155859173609,
+          35.68924634674434
+        ]
+      },
+      "properties": {
+        "name:fa": "دکه پلیس راهنمایی رانندگی",
+        "description": "دکه پلیس راهنمایی رانندگی",
+        "date": 1778068803,
+        "city": "صالح‌آباد",
+        "province": "استان خراسان رضوی",
+        "id": "MzpiOWJiZDVkZDdlZTM",
+        "publicId": "MzpiOWJiZDVkZDdlZTM",
+        "sourceId": "b9bbd5dd7ee3",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:46:40.233Z",
+        "updatedAt": "2026-05-06T20:46:40.233Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93223,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.09671099245517,
+          35.69049094142858
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه",
+        "description": "دوربین جاسوسی اطلاعت سپاه",
+        "date": 1778068763,
+        "city": "صالح‌آباد",
+        "province": "استان خراسان رضوی",
+        "id": "MjpkN2Y2NGZhNmJmMDA",
+        "publicId": "MjpkN2Y2NGZhNmJmMDA",
+        "sourceId": "d7f64fa6bf00",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:46:40.349Z",
+        "updatedAt": "2026-05-06T20:46:40.349Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93224,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.09139042319268,
+          35.68914562292201
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین اطلاعاتی",
+        "description": "دوربین های جاسوسی اطلاعات",
+        "date": 1778068735,
+        "city": "صالح‌آباد",
+        "province": "استان خراسان رضوی",
+        "id": "MjA6NjMyNjcxZDkzOWM2",
+        "publicId": "MjA6NjMyNjcxZDkzOWM2",
+        "sourceId": "632671d939c6",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:46:40.456Z",
+        "updatedAt": "2026-05-06T20:46:40.456Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93225,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.1379792703346,
+          35.607349089738406
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاه مرزی",
+        "description": "مکان نگهداری تجهیزات ارتش برای سرکوب. پاسگاه مرزی",
+        "date": 1778068518,
+        "city": "شهرستان تربت جام",
+        "province": "استان خراسان رضوی",
+        "id": "MzozZmJiNzA3MTE5YjU",
+        "publicId": "MzozZmJiNzA3MTE5YjU",
+        "sourceId": "3fbb707119b5",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:46:40.583Z",
+        "updatedAt": "2026-05-06T20:46:40.583Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93226,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.467314,
+          35.828097
+        ]
+      },
+      "properties": {
+        "name:fa": "مناطق نظامی/موشکی",
+        "description": "مناطق نظامی/موشکی/سرکوب تحت پوشش شهرداری و خدمات شهری در مجاورت ‌پارک جمشیدیه",
+        "date": 1778034662,
+        "city": "شهرستان شمیرانات",
+        "province": "استان تهران",
+        "id": "MTI6MDYwNzlmZGE3OTE4",
+        "publicId": "MTI6MDYwNzlmZGE3OTE4",
+        "sourceId": "06079fda7918",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:46:40.686Z",
+        "updatedAt": "2026-05-06T20:46:40.686Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93227,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.50198017387544,
+          35.77361835803099
+        ]
+      },
+      "properties": {
+        "name:fa": "حمله موشکی پادگان المهدی",
+        "description": "پادگان و مرکز تحقیقات انرژی اتمی المهدی شیان-لویزان در ایام عید نوروز شنبه هشت فروروردین ۱۴۰۵ به صورت مکرر هدف حمله موشکی قرار گرفت.",
+        "date": 1776238477,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzI6YjE3ZTAxYzI5MTdj",
+        "publicId": "MzI6YjE3ZTAxYzI5MTdj",
+        "sourceId": "b17e01c2917c",
+        "layerId": 32,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:46:40.788Z",
+        "updatedAt": "2026-05-06T20:46:40.788Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93228,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.401759342029266,
+          35.70432924369884
+        ]
+      },
+      "properties": {
+        "name:fa": "تخریب ساختمان",
+        "description": "حمله موشکی یه یک ساختمان در کوچه ملک که مجاور کنیسه رفیع نیا بوده. ساختمان به طور کامل منهدم و تخریب شد. زمان حمله: ساعت ۳:۳۰ صبح ۱۸ فروردین ۱۴۰۵. بنا بر شواهد و منابع متعدد، عملیات ترور رادان و اژه ای بوده که ناکام ماند.",
+        "date": 1777995833,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzI6YWMyZTE1YzE1MWQ0",
+        "publicId": "MzI6YWMyZTE1YzE1MWQ0",
+        "sourceId": "ac2e15c151d4",
+        "layerId": 32,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:49:36.482Z",
+        "updatedAt": "2026-05-06T20:49:36.482Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93229,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.08634637887806,
+          27.108446217393052
+        ]
+      },
+      "properties": {
+        "name:fa": "حمله پهپادی تیپ عاصف",
+        "description": "حمله پهپادی متعدد در تیپ عاصف سپاه پاسداران",
+        "date": 1777681948,
+        "city": "میناب",
+        "province": "استان هرمزگان",
+        "id": "MzI6ZjQ2NTFkNzFmNTA5",
+        "publicId": "MzI6ZjQ2NTFkNzFmNTA5",
+        "sourceId": "f4651d71f509",
+        "layerId": 32,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:49:36.622Z",
+        "updatedAt": "2026-05-06T20:49:36.622Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93230,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.331046,
+          32.824498
+        ]
+      },
+      "properties": {
+        "name:fa": "هدف قرار گرفتن پدافند هوایی",
+        "description": "پدافند هوایی ارتش نزدیک پلیس راه جاده بیرجند زاهدان که هدف قرار گرفت.",
+        "date": 1777703663,
+        "city": "شهرستان بیرجند",
+        "province": "استان خراسان جنوبی",
+        "id": "MzI6NTdiMGZhYWIzYzEy",
+        "publicId": "MzI6NTdiMGZhYWIzYzEy",
+        "sourceId": "57b0faab3c12",
+        "layerId": 32,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:49:38.897Z",
+        "updatedAt": "2026-05-06T20:49:38.897Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93231,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.089867,
+          32.86236
+        ]
+      },
+      "properties": {
+        "name:fa": "حمله به هوا فضای سپاه بیرجند",
+        "description": "هوا فضای سپاه بیرجند که ۲ بار هدف قرار گرفت",
+        "date": 1777703558,
+        "city": "شهرستان بیرجند",
+        "province": "استان خراسان جنوبی",
+        "id": "MzI6ZjA4NjUyNzJiNDU1",
+        "publicId": "MzI6ZjA4NjUyNzJiNDU1",
+        "sourceId": "f0865272b455",
+        "layerId": 32,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:49:39.032Z",
+        "updatedAt": "2026-05-06T20:49:39.032Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.896472,
+          33.670312
+        ]
+      },
+      "properties": {
+        "name:fa": "حمله به فرودگاه طبس",
+        "description": "فرودگاه طبس که اواخر جنگ هدف قرار گرفت",
+        "date": 1777703479,
+        "city": "شهرستان طبس",
+        "province": "استان خراسان جنوبی",
+        "id": "MzI6OGI2NTNkZmMxYmE5",
+        "publicId": "MzI6OGI2NTNkZmMxYmE5",
+        "sourceId": "8b653dfc1ba9",
+        "layerId": 32,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:49:39.186Z",
+        "updatedAt": "2026-05-06T20:49:39.186Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93233,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.97434592950887,
+          37.76650242651172
+        ]
+      },
+      "properties": {
+        "name:fa": "حمله به پایگاه بسیج آذرشهر",
+        "description": "این منطقه واقع در مرکز آذرشهر که به عنوان پایگاه بسیج شناخته می‌شود، هدف قرار گرفته و کامل با خاک یکسان شده است. اداره پست و چند ساختمان دیگر در داخل محدوده آن محل نابود شده‌اند.",
+        "date": 1776413171,
+        "city": "آذرشهر",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzI6MjM3MzM2NjJlMDE4",
+        "publicId": "MzI6MjM3MzM2NjJlMDE4",
+        "sourceId": "23733662e018",
+        "layerId": 32,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:49:39.310Z",
+        "updatedAt": "2026-05-06T20:49:39.310Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2642,
+    "total": 2663,
     "citizenReport": true,
     "clustered": false,
     "simplified": false

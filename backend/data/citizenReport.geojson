@@ -78522,10 +78522,155 @@
         "createdAt": "2026-05-06T20:49:39.310Z",
         "updatedAt": "2026-05-06T20:49:39.310Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93234,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.119914635587094,
+          30.46139007225247
+        ]
+      },
+      "properties": {
+        "name:fa": "زرادخانه سپاه",
+        "description": "اسلحه خانه و زراد خانه سپاه پاسداران",
+        "date": 1778174964,
+        "city": "شهرستان رفسنجان",
+        "province": "استان کرمان",
+        "id": "MTI6NDI2OWYyZjg3ZWU1",
+        "publicId": "MTI6NDI2OWYyZjg3ZWU1",
+        "sourceId": "4269f2f87ee5",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-07T20:10:44.448Z",
+        "updatedAt": "2026-05-07T20:10:44.448Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93235,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.77614463558575,
+          34.09769006940647
+        ]
+      },
+      "properties": {
+        "name:fa": "ساختمان پدافند",
+        "description": "ساختمان پوششی پدافند غیر عامل",
+        "date": 1778115061,
+        "city": "شهرستان اراک",
+        "province": "استان مرکزی",
+        "id": "ODowNjNlY2M3NzgxMDk",
+        "publicId": "ODowNjNlY2M3NzgxMDk",
+        "sourceId": "063ecc778109",
+        "layerId": 8,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-07T20:10:44.635Z",
+        "updatedAt": "2026-05-07T20:10:44.635Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93236,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.689138542329715,
+          34.10032027763472
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "description": "دوربین نظارتی",
+        "date": 1778112998,
+        "city": "اراک",
+        "province": "استان مرکزی",
+        "id": "MjA6NWM4ZjNmNTBmYTc0",
+        "publicId": "MjA6NWM4ZjNmNTBmYTc0",
+        "sourceId": "5c8f3f50fa74",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-07T20:10:44.788Z",
+        "updatedAt": "2026-05-07T20:10:44.788Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93237,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.09659935770853,
+          35.68800861758757
+        ]
+      },
+      "properties": {
+        "name:fa": "جهاد کشاورزی شهرستان",
+        "description": "جهاد کشاورزی شهرستان",
+        "date": 1778068952,
+        "city": "صالح‌آباد",
+        "province": "استان خراسان رضوی",
+        "id": "MTc6MjZlZmYwMzYwZGIz",
+        "publicId": "MTc6MjZlZmYwMzYwZGIz",
+        "sourceId": "26eff0360db3",
+        "layerId": 17,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-07T20:10:44.932Z",
+        "updatedAt": "2026-05-07T20:10:44.932Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93238,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.092980482646055,
+          35.682262335802506
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین جاسوسی",
+        "description": "دوربین جاسوسی مدیریت رفت و امد",
+        "date": 1778068864,
+        "city": "شهرستان تربت جام",
+        "province": "استان خراسان رضوی",
+        "id": "MjA6MTFlNTRjNTA2ZmU2",
+        "publicId": "MjA6MTFlNTRjNTA2ZmU2",
+        "sourceId": "11e54c506fe6",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-07T20:10:45.083Z",
+        "updatedAt": "2026-05-07T20:10:45.083Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2663,
+    "total": 2668,
     "citizenReport": true,
     "clustered": false,
     "simplified": false
